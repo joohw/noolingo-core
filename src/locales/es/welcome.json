@@ -1,0 +1,66 @@
+{
+  "acceptTo": "Aceptar",
+  "initialPage": "Ver página de bienvenida",
+  "viewPrivacyPolicy": "Política de privacidad",
+  "acceptAndContinue": "Acepto",
+  "acceptToprivacy": "Política de privacidad y Términos de servicio",
+  "privacyDialogDescription": "Antes de usar nuestra aplicación, por favor lee nuestra Política de privacidad y Términos de uso para entender cómo recopilamos, usamos y protegemos tus datos.",
+  "notNow": "Más tarde",
+  "newUser": "Usuario nuevo",
+  "existingUser": "Iniciar sesión",
+  "signIn": "Iniciar sesión",
+  "signUp": "Registrarse",
+  "skip": "Omitir",
+  "signInWithGoogle": "Iniciar sesión con Google",
+  "signInWithEmail": "Iniciar sesión con correo electrónico",
+  "privacyAndTerms": "Política de privacidad y Términos de servicio",
+  "privacyPolicy": "Política de privacidad",
+  "termsOfService": "Términos de servicio",
+  "page1": {
+    "title": "Bienvenido a noolingo",
+    "subtitle": "Usa IA y algoritmos de memoria para hacer el aprendizaje más simple"
+  },
+  "page2": {
+    "title": "Hemos preparado una muestra para ti",
+    "subtitle": "Aprende cómo noolingo puede ayudarte a estudiar y comienza rápidamente"
+  },
+  "step1": {
+    "title": "Seleccionar idioma",
+    "subtitle": "Elige tu idioma de interfaz preferido"
+  },
+  "step2": {
+    "title": "Seleccionar tema",
+    "subtitle": "Elige tu tema de interfaz preferido"
+  },
+  "step3": {
+    "title": "Idioma de Salida IA",
+    "subtitle": "Elige el idioma de salida para el asistente IA"
+  },
+  "step5": {
+    "title": "Comienza remodelando tus notas",
+    "subtitle": "Combinamos la ciencia cognitiva y la tecnología IA para transformar tus notas en compañeros de aprendizaje inteligentes"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "Desbloquea todos los servicios en la nube y experimenta un viaje de aprendizaje más eficiente y sin esfuerzo"
+  },
+  "sampleNote": {
+    "title": "Bienvenido a Noolingo",
+    "content": "En Noolingo, rastreamos cada comentario de aprendizaje que proporcionas y lo utilizamos para ofrecer una guía de aprendizaje más precisa.\n\nPuedes ver claramente tu nivel de dominio a través del color de cada nota. El algoritmo programa los tiempos de revisión para este contenido, y también puedes ajustarlos manualmente.\n\nNoolingo admite la sintaxis Markdown con extensiones. Puedes envolver contenido importante con {{}}, que se ocultará durante la revisión para fortalecer fácilmente el recuerdo activo."
+  },
+  "button": {
+    "start": "Comenzar",
+    "skipExample": "Omitir ejemplo",
+    "viewExample": "Ver ejemplo"
+  },
+  "features": {
+    "create": "Crear base de conocimiento",
+    "createDesc": "Crea y gestiona fácilmente tus notas de estudio y tarjetas",
+    "review": "Revisión inteligente",
+    "reviewDesc": "Planifica inteligentemente el tiempo de revisión basado en el algoritmo FSRS",
+    "quiz": "Modo cuestionario",
+    "quizDesc": "Identifica brechas de conocimiento a través de cuestionarios y consolida el aprendizaje",
+    "progress": "Progreso de aprendizaje",
+    "progressDesc": "Rastrea los resultados del aprendizaje y registra la trayectoria de crecimiento"
+  }
+}

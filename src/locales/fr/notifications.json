@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "Autorisation de notification",
+  "permissionDescription": "Pour vous rappeler votre progression de révision en temps voulu, nous avons besoin de l'autorisation de notification. Autoriser les notifications ?",
+  "reviewTimingTitle": "Activer le rappel de révision",
+  "reviewTimingDescription": "Activez les rappels de révision pour vous aider à développer une habitude d'apprentissage cohérente, avec une augmentation de 26% du taux de complétion",
+  "testTitle": "Paramètres de notification réussis 🎯",
+  "testBody": "Vous recevrez des rappels de révision à l'heure définie",
+  "reviewReminderTitle": "Temps de révision",
+  "reviewReminderBody": "La seule façon de faire un excellent travail est d'aimer ce que vous faites. - Steve Jobs",
+  "reviewReminderBodyTomorrow": "L'apprentissage n'épuise jamais l'esprit. - Léonard de Vinci",
+  "reviewReminderBodyDayAfter": "La belle chose à propos de l'apprentissage est que personne ne peut vous l'enlever. - B.B. King",
+  "reviewReminderBodyThreeDays": "L'éducation est l'arme la plus puissante que vous puissiez utiliser pour changer le monde. - Nelson Mandela",
+  "reviewReminderBodyOneWeek": "La capacité d'apprendre est un don ; la capacité d'apprendre est une compétence ; la volonté d'apprendre est un choix. - Brian Herbert",
+  "reviewReminderBodyTwoWeeks": "Vivez comme si vous deviez mourir demain. Apprenez comme si vous deviez vivre éternellement. - Mahatma Gandhi",
+  "reviewReminderBodyOneMonth": "Plus vous lisez, plus vous en saurez. Plus vous apprenez, plus vous irez loin. - Dr. Seuss"
+}

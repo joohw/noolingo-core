@@ -1,0 +1,99 @@
+{
+  "noteHelp": "Wie man Notizen macht",
+  "note": {
+    "slideTitle1": "Titel und Inhalt hinzufügen",
+    "slideDescription1": "Erstellen Sie prägnante Wissenskarten mit Markdown-Syntax-Unterstützung",
+    "slideTitle2": "Ausfüll-Maskierung hinzufügen",
+    "slideDescription2": "Umschließen Sie Inhalte mit {{}} Syntax, um wichtige Inhalte zu maskieren, die auswendig gelernt werden müssen",
+    "slideTitle3": "Im Maskierungsmodus erinnern",
+    "slideDescription3": "Klicken Sie auf die Schaltfläche im Lese- oder Kartenmodus, um den Anzeigeeffekt umzuschalten"
+  },
+  "wikiHelp": "So verwenden Sie Wiki-Links",
+  "wiki": {
+    "slideTitle1": "Verbinden Sie Ihre Notizen",
+    "slideDescription1": "Verbinden Sie Wissenspunkte mit bidirektionalen Verweisen und Inline-Verweisen für einfachen Zugriff",
+    "slideTitle2": "Bidirektionale Verweise",
+    "slideDescription2": "Wählen Sie die Verweisoption im Menü, wählen Sie die zu verweisende Notiz und erstellen Sie einen bidirektionalen Verweis",
+    "slideTitle3": "Inline-Verweise",
+    "slideDescription3": "Umschließen Sie den Titel einer anderen Notiz mit der Syntax [[]], klicken Sie, um zur entsprechenden Notiz zu springen"
+  },
+  "flashcardHelp": "Wie man Karteikarten verwendet",
+  "flashcard": {
+    "slideTitle1": "Lernbereich auswählen",
+    "slideDescription1": "Archivierte Notizen und noch nicht fällige Notizen erscheinen nicht in der Lernwarteschlange.",
+    "slideTitle2": "Aktive Erinnerung",
+    "slideDescription2": "Erinnern Sie sich an den maskierten Inhalt und bewerten Sie Ihre Meisterung. Das System optimiert automatisch die nächste Wiederholungszeit basierend auf Ihrer Eingabe.",
+    "slideTitle3": "Lernfortschritt verfolgen",
+    "slideDescription3": "Farbindikatoren bieten einen intuitiven Überblick über Ihr aktuelles Meisterungsniveau.",
+    "slideTitle4": "Lernfortschritt verfolgen",
+    "slideDescription4": "Notizen werden durch verschiedene Farben gekennzeichnet, um den Beherrschungsgrad anzuzeigen. Rot bedeutet, dass Verstärkung erforderlich ist, Grün bedeutet Beherrschung, was die Wiederholung gezielter macht"
+  },
+  "quizHelp": "Wie man Quizze verwendet",
+  "quiz": {
+    "slideTitle1": "Quiz-Bereich",
+    "slideDescription1": "Standardmäßig enthalten Quizze kürzlich nicht getestete Notizen oder können auf alle Notizen eingestellt werden. Bildnotizen werden derzeit nicht unterstützt",
+    "slideTitle2": "Quiz-Stil und Fragetypen",
+    "slideDescription2": "Wählt intelligent Fragetypen basierend auf Ihrem Notizeninhalt und Quiz-Stil aus, einschließlich Einfachauswahl, Mehrfachauswahl, Lückentext und mehr",
+    "slideTitle3": "Überspringen oder neu generieren",
+    "slideDescription3": "Sie können das aktuelle Quiz aktiv neu generieren oder die aktuelle Frage überspringen. Das System optimiert automatisch die Schwierigkeit des nächsten Quiz",
+    "slideTitle4": "Quiz-Ergebnisse",
+    "slideDescription4": "Nach Abschluss des Quiz können Sie die Ergebnisse anzeigen und Notizen zu falschen Antworten überprüfen"
+  },
+  "syncHelp": "So synchronisieren",
+  "sync": {
+    "slideTitle1": "Auto-Sync",
+    "slideDescription1": "Nach der Anmeldung werden Ihre Notizen automatisch mit dem Server synchronisiert, wenn sie aktualisiert werden",
+    "slideTitle2": "Manuelle Synchronisierung",
+    "slideDescription2": "Nach dem Ändern von Notizen auf anderen Geräten können Sie auf diesem Gerät manuell synchronisieren oder auf Auto-Sync warten"
+  },
+  "shareHelp": "So teilen",
+  "share": {
+    "slideTitle1": "Notizen teilen",
+    "slideDescription1": "Mit der Cloud synchronisierte Notizen können schnell mit anderen über die Freigabefunktion geteilt werden"
+  },
+  "cloudHelp": "Premium-Funktionen",
+  "cloud": {
+    "slideTitle1": "Massive Synchronisierungskapazität",
+    "slideDescription1": "Entsperren Sie massive Cloud-Notizen-Kapazität für Zugriff, Teilen und Backup überall, jederzeit",
+    "slideTitle2": "Super KI-Assistent",
+    "slideDescription2": "Integriert mit den weltweit fortschrittlichsten generativen Sprachmodellen, um Ihre Lernreise zu verbessern",
+    "slideTitle3": "Einfaches Einfügen von Bildern & Dokumenten",
+    "slideDescription3": "Unterstützung für Bilder, Dokumente und verschiedene Formate, um vollständige, ansprechende Notizen zu erstellen"
+  },
+  "curatedHelp": "Sammlungen verwenden",
+  "curated": {
+    "slideTitle1": "Sammlungen durchsuchen",
+    "slideDescription1": "Kuratierte Sammlungen enthalten qualitativ hochwertige Notizen, die sorgfältig von Noolingo-Benutzern ausgewählt wurden, nach Themen organisiert für einfache Entdeckung",
+    "slideTitle2": "Notizen herunterladen",
+    "slideDescription2": "Klicken Sie auf eine beliebige Sammlung, um den Notizinhalt in der Vorschau anzuzeigen, und laden Sie dann mit einem Tippen in Ihr Notizbuch herunter",
+    "slideTitle3": "Notizen teilen",
+    "slideDescription3": "Aktivieren Sie die Freigabe in den Notizbuch-Einstellungen und generieren Sie einen Freigabecode. Ihre qualitativ hochwertigen Notizen können in kuratierten Sammlungen erscheinen, um mehr Lernenden zu helfen"
+  },
+  "sampleHelp": "Beispiele",
+  "sampleTitle": "Beispiel-Notizen erhalten",
+  "sampleDescription": "Beginnen Sie mit diesen Beispielen, um Ihre Wissensdatenbank aufzubauen",
+  "sampleSave": "Notizen speichern",
+  "caseDeck": "Beispiel-Notizen",
+  "tapToShow": "Tippen zum Anzeigen",
+  "tapToHide": "Tippen zum Verbergen",
+  "saveSample": "Beispiele speichern",
+  "getNew": "Neuer Satz",
+  "review": {
+    "title": "Lernmodus",
+    "description": "Bewerten Sie Ihre Erinnerung - das System plant Ihre nächste Wiederholung automatisch",
+    "showContent": "Antwort anzeigen"
+  },
+  "mastery": {
+    "title": "Fortschritt",
+    "description": "Farben zeigen, wie gut Sie jede Notiz kennen - aktualisiert mit jeder Lerneinheit"
+  },
+  "imageMaskHelp": "Wie man Bildmaskierung verwendet",
+  "imageMask": {
+    "slideTitle1": "Bild hinzufügen",
+    "slideDescription1": "Bilder in Notizen einfügen, unterstützt mehrere Bildformate",
+    "slideTitle2": "Maskierungsbereich hinzufügen",
+    "slideDescription2": "Maskierungsbereiche auf Bildern zeichnen, um wichtige Informationen zu verbergen, die auswendig gelernt werden müssen",
+    "slideTitle3": "Im Maskierungsmodus erinnern",
+    "slideDescription3": "Im Lese- oder Lernmodus sind Maskierungsbereiche verborgen, um Ihnen beim aktiven Erinnern zu helfen"
+  }
+}

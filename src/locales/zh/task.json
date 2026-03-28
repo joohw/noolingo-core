@@ -1,0 +1,19 @@
+{
+  "newbie_create_first_note": "创建第一个笔记",
+  "newbie_add_tag": "添加标签",
+  "newbie_complete_first_review": "完成第一次复习",
+  "newbie_master_1_note": "掌握1个笔记",
+  "daily_review_20_notes": "复习20个笔记",
+  "daily_create_3_notes": "创建3个笔记",
+  "invite_friends_1": "邀请1个好友",
+  "invite_friends_3": "邀请3个好友",
+  "invite_friends_6": "邀请6个好友",
+  "invite_friends_12": "邀请12个好友",
+  "rewardClaimed": "奖励领取成功！",
+  "challenge": {
+    "invite": "邀请挑战",
+    "newbie": "新手挑战",
+    "daily": "日常挑战",
+    "limited": "限时挑战"
+  }
+}

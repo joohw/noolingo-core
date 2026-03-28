@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "開始连胜",
+  "todayTaskDescriptionEmpty": "今天完成20次內容學習，开启你的连胜記錄",
+  "todayTaskStreak": "保持连胜",
+  "todayTaskDescriptionStreak": "你已经连续學習{{count}}天了！完成今日目标，繼續你的连胜",
+  "todayTaskStreakCompleted": "连胜進行中",
+  "todayTaskDescriptionStreakCompleted": "太棒了！今天已完成，你已经连续學習{{count}}天了！明天繼續加油",
+  "todayTaskMediumStreak": "坚持學習",
+  "todayTaskDescriptionMediumStreak": "你已经连续學習{{count}}天了！繼續保持这个好习惯",
+  "todayTaskMediumStreakCompleted": "坚持得很好",
+  "todayTaskDescriptionMediumStreakCompleted": "今天已完成！你已经连续學習{{count}}天了，繼續保持这个好习惯",
+  "todayTaskLongStreak": "持续连胜",
+  "todayTaskDescriptionLongStreak": "你已经连续學習{{count}}天了！繼續保持这个势头",
+  "todayTaskLongStreakCompleted": "连胜达人",
+  "todayTaskDescriptionLongStreakCompleted": "太厉害了！今天已完成，你已经连续學習{{count}}天了！繼續保持这个势头"
+}

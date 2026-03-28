@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "Atajos de teclado",
+    "description": "Usa atajos de teclado para mejorar tu eficiencia"
+  },
+  "category": {
+    "other": "General",
+    "deck": "Operaciones de cuaderno",
+    "read": "Operaciones de lectura",
+    "study": "Página de tarjetas"
+  },
+  "name": {
+    "TOGGLE_MASK": "Alternar máscara",
+    "OPEN_HELP": "Abrir ayuda",
+    "ADD_NOTE": "Agregar nota",
+    "BATCH_ADD_NOTES": "Agregar notas en lote",
+    "NEXT_CARD": "Siguiente tarjeta",
+    "PREVIOUS_CARD": "Tarjeta anterior",
+    "FLIP_CARD": "Voltear tarjeta",
+    "REVEAL_OR_RATE": "Mostrar respuesta/Confirmar calificación",
+    "SELECT_PREVIOUS": "Seleccionar calificación anterior",
+    "SELECT_NEXT": "Seleccionar siguiente calificación",
+    "RATE_HARD": "Difícil",
+    "RATE_GOOD": "Bien",
+    "RATE_AGAIN": "Otra vez",
+    "RATE_EASY": "Fácil",
+    "PAGE_UP": "Página anterior",
+    "PAGE_DOWN": "Página siguiente"
+  }
+}

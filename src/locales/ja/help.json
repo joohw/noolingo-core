@@ -1,0 +1,99 @@
+{
+  "noteHelp": "ノートの取り方",
+  "note": {
+    "slideTitle1": "タイトルとコンテンツを追加",
+    "slideDescription1": "簡潔で効果的な知識カードを作成し、Markdown構文をサポート",
+    "slideTitle2": "空欄マスクを追加",
+    "slideDescription2": "{{}}構文でコンテンツを囲むことで、記憶すべき重要なコンテンツをマスクできます",
+    "slideTitle3": "マスクモードで思い出す",
+    "slideDescription3": "読書モードまたはフラッシュカードモードでボタンをクリックすると表示効果を切り替えられます"
+  },
+  "wikiHelp": "Wikiリンクの使い方",
+  "wiki": {
+    "slideTitle1": "ノートを接続",
+    "slideDescription1": "双方向参照とインライン参照で知識ポイントを接続し、簡単にアクセスできます",
+    "slideTitle2": "双方向参照",
+    "slideDescription2": "メニューから参照オプションを選択し、参照するノートを選択して双方向参照を作成します",
+    "slideTitle3": "インライン参照",
+    "slideDescription3": "[[]]構文で別のノートのタイトルを囲むと、クリックして対応するノートにジャンプできます"
+  },
+  "flashcardHelp": "フラッシュカードの使い方",
+  "flashcard": {
+    "slideTitle1": "学習範囲を選択",
+    "slideDescription1": "アーカイブされたノートとまだ期限が来ていないノートは学習キューに表示されません。",
+    "slideTitle2": "能動的想起",
+    "slideDescription2": "マスクされたコンテンツを思い出し、習熟度を評価します。システムは入力に基づいて次の復習時間を自動的に最適化します。",
+    "slideTitle3": "学習進捗を追跡",
+    "slideDescription3": "カラーインジケーターは現在の習熟度を直感的に表示します。",
+    "slideTitle4": "学習進捗を追跡",
+    "slideDescription4": "ノートは異なる色で識別され、習熟度を表示します。赤は強化が必要、緑は習得済みを示し、復習をより効果的にします"
+  },
+  "quizHelp": "クイズの使い方",
+  "quiz": {
+    "slideTitle1": "クイズ範囲",
+    "slideDescription1": "デフォルトでは、クイズには最近テストされていないノートが含まれ、すべてのノートに設定することもできます。現在、画像ノートはサポートされていません",
+    "slideTitle2": "クイズスタイルと問題タイプ",
+    "slideDescription2": "ノートの内容とクイズスタイルに基づいて、単一選択、複数選択、空欄埋めなど、問題タイプをインテリジェントに選択します",
+    "slideTitle3": "スキップまたは再生成",
+    "slideDescription3": "現在のクイズを積極的に再生成するか、現在の問題をスキップできます。システムは次のクイズの難易度を自動的に最適化します",
+    "slideTitle4": "クイズ結果",
+    "slideDescription4": "クイズ完了後、結果を表示し、不正解に関連するノートを復習できます"
+  },
+  "syncHelp": "同期方法",
+  "sync": {
+    "slideTitle1": "自動同期",
+    "slideDescription1": "サインイン後、ノートは更新時に自動的にサーバーに同期されます",
+    "slideTitle2": "手動同期",
+    "slideDescription2": "他のデバイスでノートを変更した後、このデバイスで手動同期するか、自動同期を待つことができます"
+  },
+  "shareHelp": "共有方法",
+  "share": {
+    "slideTitle1": "ノートを共有",
+    "slideDescription1": "クラウドに同期されたノートは、共有機能を使用して他の人とすばやく共有できます"
+  },
+  "cloudHelp": "プレミアム機能",
+  "cloud": {
+    "slideTitle1": "大容量同期",
+    "slideDescription1": "どこでも、いつでもアクセス、共有、バックアップできる大容量クラウドノート容量を解放",
+    "slideTitle2": "スーパーAIアシスタント",
+    "slideDescription2": "世界最先端の生成言語モデルと統合し、学習の旅を強化",
+    "slideTitle3": "簡単な画像とドキュメント挿入",
+    "slideDescription3": "画像、ドキュメント、さまざまな形式をサポートし、完全で魅力的なノートを作成"
+  },
+  "curatedHelp": "コレクションの使い方",
+  "curated": {
+    "slideTitle1": "コレクションを閲覧",
+    "slideDescription1": "キュレーションコレクションは、Noolingoユーザーが慎重に選んだ高品質なノートを特徴とし、トピックごとに整理されて簡単に発見できます",
+    "slideTitle2": "ノートをダウンロード",
+    "slideDescription2": "任意のコレクションをクリックしてノートコンテンツをプレビューし、ワンタップでノートブックにダウンロード",
+    "slideTitle3": "ノートを共有",
+    "slideDescription3": "ノートブック設定で共有を有効にし、共有コードを生成します。高品質なノートはキュレーションコレクションに表示され、より多くの学習者を支援する可能性があります"
+  },
+  "sampleHelp": "例",
+  "sampleTitle": "サンプルノートを取得",
+  "sampleDescription": "これらの例から始めて、ナレッジベースを構築",
+  "sampleSave": "ノートを保存",
+  "caseDeck": "サンプルノート",
+  "tapToShow": "タップして表示",
+  "tapToHide": "タップして非表示",
+  "saveSample": "例を保存",
+  "getNew": "新しいセット",
+  "review": {
+    "title": "学習モード",
+    "description": "想起を評価する - システムが次の復習を自動的にスケジュールします",
+    "showContent": "答えを表示"
+  },
+  "mastery": {
+    "title": "進捗",
+    "description": "色は各ノートの習熟度を示します - 各学習セッションで更新されます"
+  },
+  "imageMaskHelp": "画像マスキングの使い方",
+  "imageMask": {
+    "slideTitle1": "画像を追加",
+    "slideDescription1": "ノートに画像を挿入し、複数の画像形式をサポート",
+    "slideTitle2": "マスク領域を追加",
+    "slideDescription2": "画像上にマスク領域を描画して、記憶すべき重要な情報を隠す",
+    "slideTitle3": "マスクモードで思い出す",
+    "slideDescription3": "読書または学習モードでは、マスク領域が隠され、能動的な想起を助けます"
+  }
+}

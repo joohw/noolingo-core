@@ -1,0 +1,57 @@
+{
+  "title": "Seleccionar estilo de cuestionario",
+  "description": "Elige el estilo de cuestionario apropiado para satisfacer tus necesidades de aprendizaje",
+  "generatingQuestion": "Generando pregunta del cuestionario...",
+  "regenerate": "Regenerar",
+  "enterAnswer": "Ingresa tu respuesta...",
+  "checkAnswer": "Verificar",
+  "multipleChoice": "[Opción múltiple]",
+  "choice": "[Opción única]",
+  "trueFalse": "[Verdadero/Falso]",
+  "fillBlank": "[Completar espacios]",
+  "aiDisclaimer": "Contenido generado por IA. Por favor usa con precaución.",
+  "checking": "Verificando...",
+  "explanation": "Explicación",
+  "openOriginal": "Ver original",
+  "shareQuestion": "Compartir pregunta",
+  "shareError": "Error al compartir",
+  "noQuizText": "El contenido de la pregunta está vacío",
+  "copied": "Copiado",
+  "copiedToClipboard": "Pregunta copiada al portapapeles",
+  "markAsCorrect": "Marcar como correcto",
+  "markAsWrong": "Marcar como incorrecto",
+  "correctAnswer": "Respuesta correcta",
+  "correct": "Correcto",
+  "wrong": "Incorrecto",
+  "results": "Resultados del cuestionario",
+  "rating": "Competencia",
+  "note": "Notas",
+  "mode": {
+    "comprehensive": {
+      "title": "Integral",
+      "description": "Genera preguntas sobre conexiones de conocimiento, comprensión general y habilidades de aplicación para ayudar a construir un marco de conocimiento completo"
+    },
+    "memory": {
+      "title": "Memoria",
+      "description": "Genera preguntas sobre completado de información, hechos clave, memoria secuencial y recuerdo preciso para fortalecer la retención de información clave"
+    },
+    "application": {
+      "title": "Aplicación",
+      "description": "Genera preguntas sobre aplicación extendida, conexiones entre dominios y escenarios del mundo real para fomentar el pensamiento innovador"
+    },
+    "thinking": {
+      "title": "Pensamiento",
+      "description": "Genera preguntas sobre indagación esencial, pensamiento crítico y análisis lógico para explorar la esencia del conocimiento y las estructuras lógicas"
+    }
+  },
+  "quota": {
+    "insufficient": "Se ha alcanzado el límite de uso mensual para esta función",
+    "title": "Cuota de cuestionario inteligente",
+    "exceeded": "Cuota agotada",
+    "low": "{{remaining}} restantes",
+    "remaining": "{{remaining}} restantes",
+    "upgrade": "Actualizar membresía",
+    "getMore": "Obtener más",
+    "upgradeToGetMore": "Actualiza la membresía para obtener más cuota"
+  }
+}

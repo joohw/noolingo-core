@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "Code d'invitation utilisé avec succès",
+  "gift_card_success": "Carte cadeau appliquée avec succès",
+  "feedback_success": "Merci pour votre retour !",
+  "refreshSuccess": "Actualisation réussie",
+  "authNeeded": "Non connecté",
+  "notes_imported": "Notes importées avec succès",
+  "favoriteSuccess": "Notes ajoutées aux favoris avec succès",
+  "imageUploadSuccess": "Image téléversée avec succès",
+  "textImportSuccess": "Texte importé avec succès",
+  "fileImportError": "Échec de l'importation du fichier",
+  "imageUploadError": "Échec du téléversement de l'image",
+  "copied": {
+    "html": "Copié en HTML",
+    "text": "Texte copié",
+    "markdown": "Copié en Markdown",
+    "invite": "Code d'invitation copié",
+    "cloud_id": "ID de note copié",
+    "api_key": "Clé API copiée",
+    "share_id": "Code de partage copié"
+  },
+  "note": {
+    "created": "Note créée",
+    "updated": "Note mise à jour",
+    "deleted": "Note supprimée",
+    "moved": "Note déplacée",
+    "restored": "Note restaurée",
+    "duplicated": "Note dupliquée",
+    "favorited": "Note ajoutée aux favoris",
+    "unfavorited": "Favori retiré",
+    "archived": "Note archivée",
+    "unarchived": "Note désarchivée",
+    "moved_to_trash": "Note déplacée vers la corbeille",
+    "unorganized_notes_cleared": "Notes non organisées supprimées",
+    "clear_unorganized_failed": "Échec de la suppression des notes non organisées",
+    "history_cleared": "Historique d'apprentissage supprimé",
+    "permanently_deleted": "Note supprimée définitivement",
+    "review_expedited": "Révision avancée d'un jour",
+    "review_postponed": "Révision reportée d'un jour",
+    "copied_as_html": "Copié en HTML",
+    "copied_as_text": "Texte copié",
+    "copied_as_markdown": "Copié en Markdown",
+    "selected": "Sélectionné",
+    "selected_mode": "Mode de sélection multiple activé",
+    "trash_cleared": "Corbeille vidée",
+    "marked_as_mastered": "Marqué comme maîtrisé",
+    "no_cloud_id": "La note n'a pas été synchronisée avec le cloud, impossible d'obtenir l'ID"
+  },
+  "deck": {
+    "created": "Carnet créé",
+    "updated": "Carnet mis à jour",
+    "deleted": "Carnet supprimé",
+    "cleared": "Carnet vidé",
+    "shared": "Carnet partagé",
+    "unshared": "Partage annulé",
+    "shareSuccess": "Carnet partagé",
+    "unshareSuccess": "Partage annulé",
+    "shareError": "Échec de l'opération de partage",
+    "history_cleared": "Historique d'apprentissage supprimé",
+    "archived": "Carnet archivé",
+    "unarchived": "Carnet désarchivé",
+    "moved_to_trash": "Carnet déplacé vers la corbeille",
+    "permanently_deleted": "Carnet supprimé définitivement",
+    "made_public": "Carnet rendu public",
+    "made_private": "Carnet rendu privé"
+  },
+  "trash": {
+    "cleared": "Corbeille vidée"
+  },
+  "unorganized": {
+    "cleared": "Notes non organisées supprimées"
+  },
+  "error": {
+    "create_failed": "Échec de la création",
+    "update_failed": "Échec de la mise à jour",
+    "delete_failed": "Échec de la suppression",
+    "operation_failed": "Échec de l'opération",
+    "sync_failed": "Échec de la synchronisation",
+    "save_failed": "Échec de l'enregistrement",
+    "import": "Échec de l'importation",
+    "parsing": "Erreur lors de l'analyse du fichier",
+    "deck_creation": "Échec de la création du carnet",
+    "unknown": "Une erreur inconnue s'est produite",
+    "duplicate_note": "Une note avec le même contenu existe déjà"
+  },
+  "study": {
+    "completed": "Tâche d'apprentissage terminée !",
+    "mastered": "Contenu maîtrisé",
+    "next_review": "Prochaine révision mise à jour"
+  },
+  "success": {
+    "import": "Importation réussie",
+    "import_description": "{count} notes importées avec succès"
+  },
+  "coin": {
+    "usage": "Les pièces peuvent être échangées contre des jetons IA"
+  }
+}

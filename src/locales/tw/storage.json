@@ -1,0 +1,18 @@
+{
+  "storageOverview": "存儲概览",
+  "localStorage": "本地筆記",
+  "localNotes": "本地筆記",
+  "localNotesWithCount": "本地筆記: {{count}}条",
+  "syncedNotes": "已同步的筆記: {{count}}条",
+  "pendingNotes": "待同步的筆記",
+  "pendingNotesWithCount": "待同步的筆記: {{count}}条",
+  "usedSpace": "已用空间",
+  "dataManagement": "數據管理",
+  "backupData": "導出备份",
+  "importBackUp": "導入备份",
+  "clearLocalWarning": "这将永久刪除所有本地筆記，此操作不可撤銷。",
+  "exportExportError": "導出數據失敗",
+  "backupExportSuccess": "备份導出成功",
+  "backupImportSuccess": "备份導入成功",
+  "backupImportError": "導入备份失敗"
+}

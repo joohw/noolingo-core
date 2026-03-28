@@ -1,0 +1,18 @@
+{
+  "storageOverview": "Обзор хранилища",
+  "localStorage": "Локальное",
+  "localNotes": "Локальные заметки",
+  "localNotesWithCount": "Локальные заметки: {{count}}",
+  "syncedNotes": "Синхронизированные заметки: {{count}}",
+  "pendingNotes": "Ожидающие заметки",
+  "pendingNotesWithCount": "Ожидающие заметки: {{count}}",
+  "usedSpace": "Используемое пространство",
+  "dataManagement": "Управление данными",
+  "backupData": "Резервная копия данных",
+  "importBackUp": "Импорт резервной копии",
+  "clearLocalWarning": "Это навсегда удалит все локальные заметки и не может быть отменено.",
+  "exportExportError": "Не удалось экспортировать данные",
+  "backupExportSuccess": "Резервная копия успешно экспортирована",
+  "backupImportSuccess": "Резервная копия успешно импортирована",
+  "backupImportError": "Не удалось импортировать резервную копию"
+}

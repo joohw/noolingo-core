@@ -1,0 +1,18 @@
+{
+  "tokens": "トークン残高",
+  "coin": "コイン",
+  "usage": "AI使用量",
+  "optimizing": "最適化中...",
+  "done": "完了",
+  "noAIAvailable": "利用可能なAIモデルがありません",
+  "quotaExceeded": "月間クォータが枯渇しました",
+  "quotaResetAt": "クォータは{{days}}日後にリセットされます。",
+  "usageDescription": "各AIリクエストのトークン使用量は、テキストの長さによって異なります",
+  "freeQuotaExceeded": "AIクォータが枯渇しました。メンバーシップをアップグレードしてAI機能を増やす",
+  "proQuotaExceeded": "月間AIクォータが枯渇しました",
+  "quotaExceededDialogTitle": "クォータが枯渇しました",
+  "quotaExceededDialogMessage": "AIクォータが枯渇しました。メンバーシッププランを表示しますか？",
+  "memberRequiredTitle": "メンバー限定機能",
+  "memberRequiredMessage": "この機能にはメンバーシップが必要です。メンバーシッププランを表示しますか？",
+  "disclaimer": "AIによって生成されたコンテンツです。ご注意ください。"
+}

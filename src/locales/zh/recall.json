@@ -1,0 +1,28 @@
+{
+    "mastery": "掌握度",
+    "cardState": "笔记状态:",
+    "nextReview": "下次回顾时间:",
+    "difficulty": "难度:",
+    "stability": "稳定性:",
+    "lapses": "遗忘次数:",
+    "reps": "回顾次数:",
+    "lastReview": "距上次回顾天数:",
+    "reviewLog": "回顾记录:",
+    "na": "不适用",
+    "hoursLater": "小时后",
+    "times": "次",
+    "days": "天",
+    "noReviewRecord": "无回顾记录",
+    "cardStates": {
+        "new": "新学习",
+        "learning": "学习中",
+        "review": "回顾中",
+        "relearning": "重新学习"
+    },
+    "ratings": {
+        "again": "完全陌生",
+        "hard": "困难",
+        "good": "良好",
+        "easy": "非常简单"
+    }
+}

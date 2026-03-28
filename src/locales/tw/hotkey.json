@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "键盘快捷键",
+    "description": "通过快捷键提升您的使用效率"
+  },
+  "category": {
+    "other": "通用",
+    "deck": "筆記本操作",
+    "read": "阅读操作",
+    "study": "闪卡页面"
+  },
+  "name": {
+    "TOGGLE_MASK": "开关遮盖",
+    "OPEN_HELP": "打開帮助",
+    "ADD_NOTE": "添加筆記",
+    "BATCH_ADD_NOTES": "批量添加筆記",
+    "NEXT_CARD": "下一篇",
+    "PREVIOUS_CARD": "上一篇",
+    "FLIP_CARD": "翻转",
+    "REVEAL_OR_RATE": "顯示答案/確認评分",
+    "SELECT_PREVIOUS": "選擇上一个评分",
+    "SELECT_NEXT": "選擇下一个评分",
+    "RATE_HARD": "困难",
+    "RATE_GOOD": "良好",
+    "RATE_AGAIN": "完全陌生",
+    "RATE_EASY": "非常简单",
+    "PAGE_UP": "上一页",
+    "PAGE_DOWN": "下一页"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "storageOverview": "Aperçu du stockage",
+  "localStorage": "Local",
+  "localNotes": "Notes locales",
+  "localNotesWithCount": "Notes locales : {{count}}",
+  "syncedNotes": "Notes synchronisées : {{count}}",
+  "pendingNotes": "Notes en attente",
+  "pendingNotesWithCount": "Notes en attente : {{count}}",
+  "usedSpace": "Espace utilisé",
+  "dataManagement": "Gestion des données",
+  "backupData": "Sauvegarder les données",
+  "importBackUp": "Importer une sauvegarde",
+  "clearLocalWarning": "Cela supprimera définitivement toutes les notes locales et ne peut pas être annulé.",
+  "exportExportError": "Échec de l'exportation des données",
+  "backupExportSuccess": "Sauvegarde exportée avec succès",
+  "backupImportSuccess": "Sauvegarde importée avec succès",
+  "backupImportError": "Échec de l'importation de la sauvegarde"
+}

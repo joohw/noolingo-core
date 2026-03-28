@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "Einladungscode erfolgreich eingelöst",
+  "gift_card_success": "Geschenkkarte erfolgreich angewendet",
+  "feedback_success": "Vielen Dank für Ihr Feedback!",
+  "refreshSuccess": "Aktualisierung erfolgreich",
+  "authNeeded": "Nicht angemeldet",
+  "notes_imported": "Notizen erfolgreich importiert",
+  "favoriteSuccess": "Notizen erfolgreich mit Stern versehen",
+  "imageUploadSuccess": "Bild erfolgreich hochgeladen",
+  "textImportSuccess": "Text erfolgreich importiert",
+  "fileImportError": "Dateiimport fehlgeschlagen",
+  "imageUploadError": "Bildupload fehlgeschlagen",
+  "copied": {
+    "html": "Als HTML kopiert",
+    "text": "Text kopiert",
+    "markdown": "Als Markdown kopiert",
+    "invite": "Einladungscode kopiert",
+    "cloud_id": "Notiz-ID kopiert",
+    "api_key": "API-Schlüssel kopiert",
+    "share_id": "Freigabecode kopiert"
+  },
+  "note": {
+    "created": "Notiz erstellt",
+    "updated": "Notiz aktualisiert",
+    "deleted": "Notiz gelöscht",
+    "moved": "Notiz verschoben",
+    "restored": "Notiz wiederhergestellt",
+    "duplicated": "Notiz dupliziert",
+    "favorited": "Notiz mit Stern versehen",
+    "unfavorited": "Stern entfernt",
+    "archived": "Notiz archiviert",
+    "unarchived": "Notiz nicht mehr archiviert",
+    "moved_to_trash": "Notiz in Papierkorb verschoben",
+    "unorganized_notes_cleared": "Unorganisierte Notizen gelöscht",
+    "clear_unorganized_failed": "Löschen unorganisierter Notizen fehlgeschlagen",
+    "history_cleared": "Lernverlauf gelöscht",
+    "permanently_deleted": "Notiz dauerhaft gelöscht",
+    "review_expedited": "Wiederholung um einen Tag vorgezogen",
+    "review_postponed": "Wiederholung um einen Tag verschoben",
+    "copied_as_html": "Als HTML kopiert",
+    "copied_as_text": "Text kopiert",
+    "copied_as_markdown": "Als Markdown kopiert",
+    "selected": "Ausgewählt",
+    "selected_mode": "Zu Mehrfachauswahlmodus gewechselt",
+    "trash_cleared": "Papierkorb geleert",
+    "marked_as_mastered": "Als gemeistert markiert",
+    "no_cloud_id": "Notiz wurde noch nicht mit Cloud synchronisiert, ID kann nicht abgerufen werden"
+  },
+  "deck": {
+    "created": "Notizbuch erstellt",
+    "updated": "Notizbuch aktualisiert",
+    "deleted": "Notizbuch gelöscht",
+    "cleared": "Notizbuch geleert",
+    "shared": "Notizbuch geteilt",
+    "unshared": "Freigabe abgebrochen",
+    "shareSuccess": "Notizbuch geteilt",
+    "unshareSuccess": "Freigabe abgebrochen",
+    "shareError": "Freigabevorgang fehlgeschlagen",
+    "history_cleared": "Lernverlauf gelöscht",
+    "archived": "Notizbuch archiviert",
+    "unarchived": "Notizbuch nicht mehr archiviert",
+    "moved_to_trash": "Notizbuch in Papierkorb verschoben",
+    "permanently_deleted": "Notizbuch dauerhaft gelöscht",
+    "made_public": "Notizbuch auf öffentlich gesetzt",
+    "made_private": "Notizbuch auf privat gesetzt"
+  },
+  "trash": {
+    "cleared": "Papierkorb geleert"
+  },
+  "unorganized": {
+    "cleared": "Unorganisierte Notizen gelöscht"
+  },
+  "error": {
+    "create_failed": "Erstellung fehlgeschlagen",
+    "update_failed": "Aktualisierung fehlgeschlagen",
+    "delete_failed": "Löschung fehlgeschlagen",
+    "operation_failed": "Vorgang fehlgeschlagen",
+    "sync_failed": "Synchronisierung fehlgeschlagen",
+    "save_failed": "Speichern fehlgeschlagen",
+    "import": "Import fehlgeschlagen",
+    "parsing": "Fehler beim Parsen der Datei",
+    "deck_creation": "Notizbuch-Erstellung fehlgeschlagen",
+    "unknown": "Ein unbekannter Fehler ist aufgetreten",
+    "duplicate_note": "Eine Notiz mit demselben Inhalt existiert bereits"
+  },
+  "study": {
+    "completed": "Lernaufgabe abgeschlossen!",
+    "mastered": "Dieser Inhalt gemeistert",
+    "next_review": "Nächste Wiederholungszeit aktualisiert"
+  },
+  "success": {
+    "import": "Import erfolgreich",
+    "import_description": "Erfolgreich {count} Notizen importiert nach"
+  },
+  "coin": {
+    "usage": "Münzen können gegen AI-Token eingetauscht werden"
+  }
+}

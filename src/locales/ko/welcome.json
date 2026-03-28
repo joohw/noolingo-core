@@ -1,0 +1,66 @@
+{
+  "acceptTo": "수락",
+  "initialPage": "환영 페이지 보기",
+  "viewPrivacyPolicy": "개인정보 처리방침",
+  "acceptAndContinue": "동의합니다",
+  "acceptToprivacy": "개인정보 처리방침 및 서비스 약관",
+  "privacyDialogDescription": "앱을 사용하기 전에 개인정보 처리방침 및 이용 약관을 읽어 데이터 수집, 사용 및 보호 방법을 이해해 주세요.",
+  "notNow": "나중에",
+  "newUser": "신규 사용자",
+  "existingUser": "로그인",
+  "signIn": "로그인",
+  "signUp": "회원가입",
+  "skip": "건너뛰기",
+  "signInWithGoogle": "Google로 로그인",
+  "signInWithEmail": "이메일로 로그인",
+  "privacyAndTerms": "개인정보 처리방침 및 서비스 약관",
+  "privacyPolicy": "개인정보 처리방침",
+  "termsOfService": "서비스 약관",
+  "page1": {
+    "title": "noolingo에 오신 것을 환영합니다",
+    "subtitle": "AI와 메모리 알고리즘을 사용하여 학습을 더 간단하게 만드세요"
+  },
+  "page2": {
+    "title": "샘플을 준비했습니다",
+    "subtitle": "noolingo가 학습에 어떻게 도움이 되는지 알아보고 빠르게 시작하세요"
+  },
+  "step1": {
+    "title": "언어 선택",
+    "subtitle": "선호하는 인터페이스 언어를 선택하세요"
+  },
+  "step2": {
+    "title": "테마 선택",
+    "subtitle": "선호하는 인터페이스 테마를 선택하세요"
+  },
+  "step3": {
+    "title": "AI 출력 언어",
+    "subtitle": "AI 어시스턴트의 출력 언어를 선택하세요"
+  },
+  "step5": {
+    "title": "노트 재구성부터 시작하기",
+    "subtitle": "인지 과학과 AI 기술을 결합하여 노트를 지능형 학습 동반자로 변환합니다"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "모든 클라우드 서비스를 잠금 해제하고 더 효율적이고 편안한 학습 여정을 경험하세요"
+  },
+  "sampleNote": {
+    "title": "Noolingo에 오신 것을 환영합니다",
+    "content": "Noolingo에서는 여러분의 모든 학습 피드백을 추적하여 이를 바탕으로 더 정확한 학습 지도를 제공합니다.\n\n각 노트의 색상을 통해 숙련도를 명확하게 판단할 수 있습니다. 알고리즘이 이 콘텐츠의 복습 시간을 스케줄링하며, 수동으로 조정할 수도 있습니다.\n\nNoolingo는 Markdown 구문을 지원하며 확장 기능도 제공합니다. 중요한 내용을 {{}}로 감싸면 복습 시 숨겨져 능동적 회상을 쉽게 강화할 수 있습니다."
+  },
+  "button": {
+    "start": "시작",
+    "skipExample": "예제 건너뛰기",
+    "viewExample": "예제 보기"
+  },
+  "features": {
+    "create": "지식 기반 만들기",
+    "createDesc": "학습 노트와 카드를 쉽게 만들고 관리하세요",
+    "review": "스마트 복습",
+    "reviewDesc": "FSRS 알고리즘을 기반으로 복습 시간을 지능적으로 계획하세요",
+    "quiz": "퀴즈 모드",
+    "quizDesc": "퀴즈를 통해 지식 격차를 식별하고 학습을 통합하세요",
+    "progress": "학습 진행 상황",
+    "progressDesc": "학습 결과를 추적하고 성장 궤적을 기록하세요"
+  }
+}

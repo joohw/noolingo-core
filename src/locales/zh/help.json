@@ -1,0 +1,99 @@
+{
+    "noteHelp": "如何记笔记",
+    "note": {
+        "slideTitle1": "添加标题和内容",
+        "slideDescription1": "创建短小精悍的知识卡片，支持 Markdown 语法",
+        "slideTitle2": "添加填空遮盖",
+        "slideDescription2": "通过{{}}语法包裹内容，可以遮盖关键的需要记忆的内容",
+        "slideTitle3": "在遮盖模式下回忆",
+        "slideDescription3": "在阅读模式或者闪卡模式下点击按钮可以切换显示效果"
+    },
+    "wikiHelp": "如何使用Wiki链接",
+    "wiki": {
+        "slideTitle1": "串联您的笔记",
+        "slideDescription1": "通过双向引用和内联引用将知识点串联在一起，随时查阅",
+        "slideTitle2": "双向引用",
+        "slideDescription2": "在菜单中选择引用功能，选择需要引用的笔记，即可创建双向引用",
+        "slideTitle3": "内联引用",
+        "slideDescription3": "用[[]]语法包裹另一篇笔记的标题，点击即可跳转到对应的笔记"
+    },
+    "flashcardHelp": "如何使用闪卡模式",
+    "flashcard": {
+        "slideTitle1": "如何使用学习模式",
+        "slideDescription1": "系统自动筛选到期的复习笔记和新笔记进入学习队列，已掌握的笔记会自动归档",
+        "slideTitle2": "调整学习与复习",
+        "slideDescription2": "可在设置中调整新学与复习的比例、笔记排序方式等，让学习更符合您的节奏",
+        "slideTitle3": "主动回忆与评分",
+        "slideDescription3": "先尝试回忆被遮盖的内容，显示答案后根据回忆效果选择评分，系统会自动优化下次复习时间",
+        "slideTitle4": "了解学习进度",
+        "slideDescription4": "笔记以不同颜色标识显示掌握程度，红色表示需加强，绿色表示已掌握，让复习更有针对性"
+    },
+    "quizHelp": "如何使用测验模式",
+    "quiz": {
+        "slideTitle1": "测验范围",
+        "slideDescription1": "默认情况下，测验会包含最近未测验的笔记，也可设置为所有笔记，目前暂不支持图片笔记",
+        "slideTitle2": "测验风格与题型",
+        "slideDescription2": "根据您的笔记内容、测验风格智能选择题型，包括单选、多选、填空或者更多题型",
+        "slideTitle3": "跳过或重新生成",
+        "slideDescription3": "可以主动重新生成当前测验，或跳过当前题目，系统会自动优化下次测验的难度",
+        "slideTitle4": "测验结果",
+        "slideDescription4": "测验完成后，可查看本次测验结果，并针对出错的笔记进行复习"
+    },
+    "syncHelp": "如何同步",
+    "sync": {
+        "slideTitle1": "自动同步",
+        "slideDescription1": "您的笔记优先存储在本地，登录后，您的笔记更新操作会实时同步到服务器上",
+        "slideTitle2": "拉取最新数据",
+        "slideDescription2": "每次打开应用会自动拉取最新数据，也可以在资料库页面手动下拉获取更新"
+    },
+    "shareHelp": "如何分享",
+    "share": {
+        "slideTitle1": "分享笔记",
+        "slideDescription1": "同步到云端的笔记可以使用分享功能快速分享给他人"
+    },
+    "cloudHelp": "有哪些会员专属功能",
+    "cloud": {
+        "slideTitle1": "超大同步额度",
+        "slideDescription1": "解锁超大云端笔记容量，可以随时随地访问，分享和备份",
+        "slideTitle2": "超级AI助手",
+        "slideDescription2": "集成当前世界上最顶尖的生成式大语言模型，助力您的学习之旅",
+        "slideTitle3": "轻松插入图片、文档",
+        "slideDescription3": "支持图片、文档等多种格式，打造图文并茂的完整笔记"
+    },
+    "curatedHelp": "如何使用精选集",
+    "curated": {
+        "slideTitle1": "浏览精选内容",
+        "slideDescription1": "精选集汇聚了Noolingo用户精心挑选的优质笔记，按主题分类，方便您快速找到感兴趣的内容",
+        "slideTitle2": "下载精选笔记",
+        "slideDescription2": "点击任意精选集可以预览笔记内容，确认后即可一键下载到您的笔记本中",
+        "slideTitle3": "分享您的笔记",
+        "slideDescription3": "在笔记本设置中开启分享功能，生成分享码后，您的优质笔记就有机会出现在精选集中，帮助更多学习者"
+    },
+    "sampleHelp": "笔记示例",
+    "sampleTitle": "示例笔记",
+    "sampleDescription": "从这些笔记开始，构建您的专属知识库",
+    "sampleSave": "保存这些笔记",
+    "caseDeck": "示例笔记",
+    "tapToShow": "点击显示",
+    "tapToHide": "点击隐藏",
+    "saveSample": "保存这些示例",
+    "getNew": "换一批",
+    "review": {
+        "title": "学习模式",
+        "description": "根据你的掌握程度选择评分，系统会自动优化下次复习时间",
+        "showContent": "完全显示"
+    },
+    "mastery": {
+        "title": "学习进度",
+        "description": "每次学习都会更新笔记的掌握程度，可以通过颜色直观区分"
+    },
+    "imageMaskHelp": "如何使用图片遮盖",
+    "imageMask": {
+        "slideTitle1": "添加图片",
+        "slideDescription1": "在笔记中插入图片，支持多种图片格式",
+        "slideTitle2": "添加遮盖区域",
+        "slideDescription2": "在图片上绘制遮盖区域，隐藏需要记忆的关键信息",
+        "slideTitle3": "在遮盖模式下回忆",
+        "slideDescription3": "在阅读或学习模式下，遮盖区域会被隐藏，帮助您主动回忆"
+    }
+}

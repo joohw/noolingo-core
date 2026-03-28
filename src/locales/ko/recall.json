@@ -1,0 +1,28 @@
+{
+  "mastery": "숙달 수준",
+  "cardState": "카드 상태:",
+  "nextReview": "다음 복습 시간:",
+  "difficulty": "난이도:",
+  "stability": "안정성:",
+  "lapses": "실수:",
+  "reps": "복습:",
+  "lastReview": "마지막 복습 이후 일수:",
+  "reviewLog": "복습 로그:",
+  "na": "N/A",
+  "hoursLater": "시간 후",
+  "times": "회",
+  "days": "일",
+  "noReviewRecord": "복습 기록 없음",
+  "cardStates": {
+    "new": "새로운",
+    "learning": "학습 중",
+    "review": "복습 중",
+    "relearning": "재학습"
+  },
+  "ratings": {
+    "again": "다시",
+    "hard": "어려움",
+    "good": "좋음",
+    "easy": "쉬움"
+  }
+}

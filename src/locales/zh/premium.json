@@ -1,0 +1,92 @@
+{
+    "renew": "续费",
+    "upgrade": "升级",
+    "title": "高级会员",
+    "yearly": "年度订阅",
+    "currentStatus": "当前会员状态",
+    "featuresIncluded": "包含功能",
+    "slogan": "订阅 Noolingo Pro",
+    "subtitle": "解锁所有限制，记忆更高效，学习更轻松",
+    "thanksFor": "感谢您的支持！",
+    "termsAgreement": "订阅即表示您同意我们的服务条款",
+    "termsTitle": "服务条款",
+    "whatUsersSay": "用户评价",
+    "featuresTitle": "订阅后您将获得",
+    "letterToSubscribers": {
+        "title": "给Noolingo用户的信",
+        "content": "付费订阅是 Noolingo 的唯一盈利方式。我们选择这种模式，是因为我们希望专注于为您提供最好的学习体验，而不是分散精力去探索其他盈利渠道。\n\n这意味着您不会在 Noolingo 中看到任何广告，我们不会销售您的数据，也不会通过其他方式从您身上获利。您的每一次订阅，都是对我们专注做好学习工具的信任和支持。\n\n我们希望您在任何设备上都能随时访问您的学习内容。无论您使用哪个设备，Noolingo Pro 的所有权益都能同步，且即使会员到期，您的数据始终属于您，随时可以导出。\n\n您的支持是我们不断创新和提升服务的动力。我们会持续改进产品功能，优化用户体验，并积极倾听您的反馈，为您提供更好的学习工具和服务。"
+    },
+    "scanToPay": "扫描二维码支付",
+    "testimonial": "noolingo就是我一直在找的学习工具！",
+    "testimonials": {
+        "user1": {
+            "name": "Alex",
+            "content": "今年发现的最佳宝藏应用。实际用了三天，把我最近整理的笔记都导入了进去，发现已经离不开了。复习这些笔记很轻松，还可以生成复习卡片，复习效果很好。另外价格也真的太无敌了，我之前一直在找类似的工具，也可以把flomo和anki结合一下，平时很多知识点需要随手记，但flomo没有复习功能，anki又太复杂，noolingo真的完美解决了我的需求。"
+        },
+        "user2": {
+            "name": "Sarah",
+            "content": "界面设计真的很简洁，没有多余的按钮和复杂的菜单，一眼就能找到需要的功能。没有广告干扰，可以完全专注于学习，这种纯净的体验很难得。"
+        },
+        "user3": {
+            "name": "Mike",
+            "content": "买了终身会员之后来评价的，用了快1个月了，我觉得最吸引我的点除了外观的简洁，还有就是创建笔记真的很方便，有时候笔记都是很零碎的内容，直接丢到noolingo里面毫无压力。"
+        },
+        "user4": {
+            "name": "Emma",
+            "content": "多设备同步功能太棒了！我在手机上学习，在平板上复习，数据实时同步，相比其他的工具，把简洁性和功能性做了很好的平衡。"
+        },
+        "user5": {
+            "name": "David",
+            "content": "这个软件真的帮了我很大忙。因为考研需要背很多的专业课资料，我在word里面整理好的资料导入进去之后，每天零散的时间拿出手机刷一刷就可以复习了。后期还可以看到我哪些内容一直没记住的"
+        }
+    },
+    "faqTitle": "常见问题",
+    "features": {
+        "sync": "更大同步容量",
+        "syncDesc": "升级后，同步上限将从免费版的 200 篇笔记大幅提升至 50,000 条，且单日同步次数不受限制。未来，我们也会根据您的需求，不断提升容量，让您的学习更加无忧",
+        "learningDataSync": "学习数据同步",
+        "learningDataSyncDesc": "您的学习进度、统计数据、复习记录等所有学习数据都会自动同步到云端，让您在不同设备间无缝切换，随时随地继续学习。",
+        "ai": "AI 功能完整使用权",
+        "aiDesc": "过订阅 Noolingo Pro，您将解锁完整的 AI 功能，每月享受超过 1000 次的 AI 使用额度，并且未来的任何 AI 功能升级，我们都将自动为您提供",
+        "noAd": "纯净无广告体验",
+        "noAdDesc": "我们深知，专注是学习的关键。因此，Noolingo Pro 保证为您提供纯净的学习体验，没有任何第三方广告的打扰，帮助您全身心投入学习。",
+        "more": "数据无忧保障",
+        "moreDesc": "我们希望您在任何设备上都能随时访问您的学习内容。无论您使用哪个设备，Noolingo Pro 的所有权益都能同步，且即使会员到期，您的数据始终属于您，随时可以导出。",
+        "privacy": "隐私保护",
+        "privacyDesc": "您的隐私对我们至关重要。Noolingo 承诺不出售或滥用您的个人数据，您的支持是我们不断创新和提升服务的动力，我们会始终以最安全的方式保护您的隐私。"
+    },
+    "faq": {
+        "q1": "支付遇到问题怎么办？",
+        "a1": "如果您在支付过程中遇到任何问题，例如支付失败、重复扣款或对账单有疑问，请通过 support@noolingo.com 联系我们。我们会在收到您的邮件后尽快处理，通常会在 24 小时内给予回复。",
+        "q2": "支持退款吗？",
+        "a2": "目前我们暂不支持退款服务。如果您在支付或使用过程中遇到任何问题，或有特殊情况需要帮助，请随时通过 support@noolingo.com 联系我们，我们会尽力协助您解决问题。"
+    },
+    "betaDescription": "感谢您参与我们的内测计划!",
+    "expireDate": "会员有效期至 {{date}}",
+    "current": "当前版本",
+    "earlyBirdPromo": "早鸟优惠：限时特惠价",
+    "failed": "支付失败",
+    "paidSuccess": "支付成功",
+    "paidSuccessDesc": "感谢您的支持！您的会员权益已激活",
+    "earlyBirdUpgrade": "早鸟特惠升级",
+    "switchToLifetime": "查看买断方案",
+    "switchToYearly": "切换至年付方案",
+    "lifetimeSubscription": "Noolingo 永久会员",
+    "earlyBirdYearlyPromo": "限时优惠",
+    "earlyBirdLifetimePromo": "早鸟专属",
+    "earlyBirdDescription": "您是noolingo的种子用户",
+    "lifetimeMemberThanks": "感谢您对早期noolingo的支持",
+    "freePlanDesc": "所有基础功能永久免费使用",
+    "standardPlanDesc": "已解锁全部功能",
+    "permanentMember": "永久会员",
+    "earlyBirdUser": "早鸟成员",
+    "proMemeber": "订阅会员",
+    "free_plan_desc": "基础功能免费使用",
+    "currentTier": {
+        "free": "基础版",
+        "pro": "Pro会员",
+        "lifetimePro": "早鸟版Pro会员",
+        "super": "Super会员",
+        "lifetimeSuper": "早鸟版Super会员"
+    }
+}

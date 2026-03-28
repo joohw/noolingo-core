@@ -1,0 +1,98 @@
+{
+    "invite_code_success": "邀请码添加成功",
+    "gift_card_success": "礼品卡应用成功",
+    "feedback_success": "反馈提交成功",
+    "refreshSuccess": "刷新成功",
+    "authNeeded": "尚未登录",
+    "notes_imported": "笔记导入成功",
+    "favoriteSuccess": "笔记已收藏成功",
+    "imageUploadSuccess": "图片上传成功",
+    "textImportSuccess": "文本导入成功",
+    "fileImportError": "文件导入失败",
+    "imageUploadError": "图片上传失败",
+    "copied": {
+        "html": "已复制为 HTML",
+        "text": "已复制文本",
+        "markdown": "已复制为 Markdown",
+        "invite": "邀请码已复制",
+        "cloud_id": "笔记id已复制",
+        "api_key": "ApiKey已复制",
+        "share_id": "分享码已复制"
+    },
+    "note": {
+        "created": "笔记已创建",
+        "updated": "笔记已更新",
+        "deleted": "笔记已删除",
+        "moved": "笔记已移动",
+        "restored": "笔记已恢复",
+        "duplicated": "笔记已复制",
+        "favorited": "笔记已收藏",
+        "unfavorited": "已取消收藏",
+        "archived": "已归档",
+        "unarchived": "已取消归档",
+        "moved_to_trash": "笔记已移至废纸篓",
+        "unorganized_notes_cleared": "未分类的笔记已移除",
+        "clear_unorganized_failed": "清理未分类笔记失败",
+        "history_cleared": "学习历史已清空",
+        "permanently_deleted": "笔记已永久删除",
+        "review_expedited": "已提前一天",
+        "review_postponed": "已推迟一天",
+        "copied_as_html": "已复制为 HTML",
+        "copied_as_text": "已复制文本",
+        "copied_as_markdown": "已复制为 Markdown",
+        "selected": "已选中",
+        "selected_mode": "已切换到多选模式",
+        "trash_cleared": "废纸篓已清空",
+        "marked_as_mastered": "已标记为掌握",
+        "no_cloud_id": "笔记还未同步到云端，无法获取id"
+    },
+    "deck": {
+        "created": "笔记本已创建",
+        "updated": "笔记本已更新",
+        "deleted": "笔记本已删除",
+        "cleared": "笔记本已清空",
+        "shared": "笔记本已分享",
+        "unshared": "已取消分享",
+        "shareSuccess": "笔记本已分享",
+        "unshareSuccess": "已取消分享",
+        "shareError": "分享操作失败",
+        "history_cleared": "学习历史已清空",
+        "archived": "笔记本已归档",
+        "unarchived": "笔记本已取消归档",
+        "moved_to_trash": "笔记本已移至废纸篓",
+        "permanently_deleted": "笔记本已永久删除",
+        "made_public": "笔记本已设为公开",
+        "made_private": "笔记本已设为私有"
+    },
+    "trash": {
+        "cleared": "废纸篓已清空"
+    },
+    "unorganized": {
+        "cleared": "未分类笔记已清空"
+    },
+    "error": {
+        "create_failed": "创建失败",
+        "update_failed": "更新失败",
+        "delete_failed": "删除失败",
+        "operation_failed": "操作失败",
+        "sync_failed": "同步失败",
+        "save_failed": "保存失败",
+        "import": "导入失败",
+        "parsing": "文件解析过程中发生错误",
+        "deck_creation": "创建笔记本失败",
+        "unknown": "发生未知错误",
+        "duplicate_note": "已存在相同内容的笔记"
+    },
+    "study": {
+        "completed": "学习任务完成！",
+        "mastered": "已掌握此内容",
+        "next_review": "下次回顾时间已更新"
+    },
+  "success": {
+    "import": "导入成功",
+    "import_description": "成功导入 {count} 个笔记到"
+  },
+  "coin": {
+    "usage": "硬币可以用来兑换AI Token"
+  }
+}

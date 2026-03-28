@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "キーボードショートカット",
+    "description": "キーボードショートカットを使用して効率を向上"
+  },
+  "category": {
+    "other": "一般",
+    "deck": "ノートブック操作",
+    "read": "読書操作",
+    "study": "フラッシュカードページ"
+  },
+  "name": {
+    "TOGGLE_MASK": "マスクを切り替え",
+    "OPEN_HELP": "ヘルプを開く",
+    "ADD_NOTE": "ノートを追加",
+    "BATCH_ADD_NOTES": "ノートを一括追加",
+    "NEXT_CARD": "次のカード",
+    "PREVIOUS_CARD": "前のカード",
+    "FLIP_CARD": "カードを裏返す",
+    "REVEAL_OR_RATE": "答えを表示/評価を確認",
+    "SELECT_PREVIOUS": "前の評価を選択",
+    "SELECT_NEXT": "次の評価を選択",
+    "RATE_HARD": "難しい",
+    "RATE_GOOD": "良い",
+    "RATE_AGAIN": "もう一度",
+    "RATE_EASY": "簡単",
+    "PAGE_UP": "前のページ",
+    "PAGE_DOWN": "次のページ"
+  }
+}

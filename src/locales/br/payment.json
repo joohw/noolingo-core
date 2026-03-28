@@ -1,0 +1,20 @@
+{
+  "selectMethod": "Selecionar método de pagamento",
+  "wechat": "WeChat Pay",
+  "alipay": "Alipay",
+  "stripe": "Cartão de crédito",
+  "timeout": "Tempo de pagamento esgotado, tente novamente",
+  "alipayRedirect": "Redirecionado para a página de pagamento Alipay, retorne após concluir o pagamento",
+  "alipayTitle": "Pagamento Alipay",
+  "alipayHint": "Por favor, complete o pagamento na nova janela. Após o pagamento, o pedido será confirmado automaticamente.",
+  "creating": "Criando pedido de pagamento...",
+  "failed": "Falha ao criar pedido de pagamento",
+  "invalid_plan": "Plano selecionado inválido",
+  "user_not_found": "Usuário não encontrado",
+  "alsoAvailable": "Você também pode concluir sua compra na loja de aplicativos",
+  "appStoreHint": "Conclua sua compra na App Store ou Play Store",
+  "masErrorHint": "Por favor, complete sua assinatura através da compra no aplicativo",
+  "stripeTitle": "Pagamento Stripe",
+  "stripeRedirect": "Por favor, complete o pagamento na nova janela. Após o pagamento, o status do pedido será atualizado automaticamente.",
+  "stripeHint": "Se a janela de pagamento estiver fechada, você pode verificar o status do pedido manualmente."
+}

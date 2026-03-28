@@ -1,0 +1,99 @@
+{
+  "noteHelp": "Como tomar notas",
+  "note": {
+    "slideTitle1": "Adicionar título e conteúdo",
+    "slideDescription1": "Crie cartões de conhecimento concisos com suporte de sintaxe Markdown",
+    "slideTitle2": "Adicionar máscara de preenchimento",
+    "slideDescription2": "Envolva o conteúdo com a sintaxe {{}} para mascarar o conteúdo-chave que precisa ser memorizado",
+    "slideTitle3": "Recordar no modo máscara",
+    "slideDescription3": "Clique no botão no modo de leitura ou modo de cartão para alternar o efeito de visualização"
+  },
+  "wikiHelp": "Como usar ligações Wiki",
+  "wiki": {
+    "slideTitle1": "Conecte Suas Notas",
+    "slideDescription1": "Conecte pontos de conhecimento com referências bidirecionais e referências inline para fácil acesso",
+    "slideTitle2": "Referências Bidirecionais",
+    "slideDescription2": "Selecione a opção de referência no menu, escolha a nota para referenciar e crie uma referência bidirecional",
+    "slideTitle3": "Referências Inline",
+    "slideDescription3": "Envolva o título de outra nota com a sintaxe [[]], clique para saltar para a nota correspondente"
+  },
+  "flashcardHelp": "Como usar cartões",
+  "flashcard": {
+    "slideTitle1": "Selecionar intervalo de estudo",
+    "slideDescription1": "As notas arquivadas e as notas que ainda não venceram não aparecerão na fila de estudo.",
+    "slideTitle2": "Recordação ativa",
+    "slideDescription2": "Recorde o conteúdo mascarado e avalie o seu domínio. O sistema otimizará automaticamente o tempo de revisão seguinte baseado na sua entrada.",
+    "slideTitle3": "Acompanhar progresso de aprendizagem",
+    "slideDescription3": "Os indicadores de cor fornecem uma visão intuitiva do seu nível de domínio atual.",
+    "slideTitle4": "Acompanhar progresso de aprendizado",
+    "slideDescription4": "As notas são identificadas por diferentes cores para mostrar o nível de domínio. Vermelho indica necessidade de reforço, verde indica domínio, tornando a revisão mais direcionada"
+  },
+  "quizHelp": "Como usar questionários",
+  "quiz": {
+    "slideTitle1": "Intervalo de questionários",
+    "slideDescription1": "Por padrão, os questionários incluem notas recentemente não testadas, ou podem ser configurados para todas as notas. Notas com imagens não são suportadas atualmente",
+    "slideTitle2": "Estilo e tipos de perguntas",
+    "slideDescription2": "Seleciona inteligentemente os tipos de perguntas com base no conteúdo das suas notas e no estilo do questionário, incluindo escolha única, escolha múltipla, preenchimento de espaços em branco e mais",
+    "slideTitle3": "Ignorar ou regenerar",
+    "slideDescription3": "Pode regenerar ativamente o questionário atual ou ignorar a pergunta atual. O sistema otimizará automaticamente a dificuldade do próximo questionário",
+    "slideTitle4": "Resultados do questionário",
+    "slideDescription4": "Após completar o questionário, pode ver os resultados e revisar notas relacionadas com respostas incorretas"
+  },
+  "syncHelp": "Como sincronizar",
+  "sync": {
+    "slideTitle1": "Sincronização automática",
+    "slideDescription1": "Após iniciar sessão, as suas notas sincronizam automaticamente com o servidor quando são atualizadas",
+    "slideTitle2": "Sincronização manual",
+    "slideDescription2": "Após modificar notas noutros dispositivos, pode sincronizar manualmente neste dispositivo ou esperar pela sincronização automática"
+  },
+  "shareHelp": "Como partilhar",
+  "share": {
+    "slideTitle1": "Partilhar notas",
+    "slideDescription1": "As notas sincronizadas com a nuvem podem ser rapidamente partilhadas com outros usando a funcionalidade de partilha"
+  },
+  "cloudHelp": "Funcionalidades Premium",
+  "cloud": {
+    "slideTitle1": "Capacidade de sincronização massiva",
+    "slideDescription1": "Desbloqueie capacidade massiva de notas na nuvem para acesso, partilha e cópia de segurança em qualquer lugar, a qualquer momento",
+    "slideTitle2": "Super assistente IA",
+    "slideDescription2": "Integrado com os modelos de linguagem generativa mais avançados do mundo para melhorar a sua jornada de aprendizagem",
+    "slideTitle3": "Inserção fácil de imagens e documentos",
+    "slideDescription3": "Suporte para imagens, documentos e vários formatos para criar notas completas e envolventes"
+  },
+  "curatedHelp": "Usar coleções",
+  "curated": {
+    "slideTitle1": "Navegar coleções",
+    "slideDescription1": "As coleções curadas apresentam notas de qualidade cuidadosamente selecionadas por utilizadores do Noolingo, organizadas por tópico para fácil descoberta",
+    "slideTitle2": "Descarregar notas",
+    "slideDescription2": "Clique em qualquer coleção para pré-visualizar o conteúdo da nota, depois descarregue para o seu caderno com um toque",
+    "slideTitle3": "Partilhar notas",
+    "slideDescription3": "Ative a partilha nas definições do caderno e gere um código de partilha. As suas notas de qualidade podem aparecer em coleções curadas para ajudar mais aprendizes"
+  },
+  "sampleHelp": "Exemplos",
+  "sampleTitle": "Obter notas de amostra",
+  "sampleDescription": "Comece com estes exemplos para construir a sua base de conhecimento",
+  "sampleSave": "Guardar notas",
+  "caseDeck": "Notas de amostra",
+  "tapToShow": "Toque para revelar",
+  "tapToHide": "Toque para ocultar",
+  "saveSample": "Guardar exemplos",
+  "getNew": "Novo conjunto",
+  "review": {
+    "title": "Modo de estudo",
+    "description": "Classifique a sua recordação - o sistema programa a sua próxima revisão automaticamente",
+    "showContent": "Revelar resposta"
+  },
+  "mastery": {
+    "title": "Progresso",
+    "description": "As cores mostram o quão bem conhece cada nota - atualizado com cada sessão de estudo"
+  },
+  "imageMaskHelp": "Como usar o mascaramento de imagens",
+  "imageMask": {
+    "slideTitle1": "Adicionar imagem",
+    "slideDescription1": "Inserir imagens nas notas, suportando múltiplos formatos de imagem",
+    "slideTitle2": "Adicionar área de máscara",
+    "slideDescription2": "Desenhar áreas de máscara nas imagens para ocultar informações-chave que precisam ser memorizadas",
+    "slideTitle3": "Recordar no modo máscara",
+    "slideDescription3": "No modo de leitura ou estudo, as áreas de máscara estão ocultas para ajudá-lo a recordar ativamente"
+  }
+}

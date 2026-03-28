@@ -1,0 +1,16 @@
+{
+  "startConversation": "Inicie uma conversa, pergunte-me qualquer coisa...",
+  "inputPlaceholder": "Digite uma mensagem...",
+  "introTitle": "Assistente de IA",
+  "introSubtitle": "Posso ajudá-lo a responder perguntas, fornecer sugestões e auxiliar no aprendizado",
+  "examplesTitle": "Perguntas de exemplo:",
+  "example1": "Como dizer 'exquisito' em inglês?",
+  "example2": "Como entender 'emaranhamento quântico'?",
+  "example3": "Explique o conceito básico da 'relatividade'",
+  "options": {
+    "select": "Selecionar",
+    "copy": "Copiar",
+    "remove": "Remover mensagem",
+    "generateNotes": "Gerar notas"
+  }
+}

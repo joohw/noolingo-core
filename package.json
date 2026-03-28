@@ -1,0 +1,142 @@
+{
+  "name": "noolingo-core",
+  "version": "1.1.0",
+  "description": "Noolingo 共享业务内核：Noolingo 门面类聚合服务、stores、配置与访问统计；宿主注入 NoolingoAdapter 完成平台解耦",
+  "keywords": [
+    "noolingo",
+    "spaced-repetition",
+    "fsrs",
+    "flashcards",
+    "zustand",
+    "anki"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build",
+    "lng:diff": "node scripts/compare.mjs",
+    "lng:apply": "node scripts/apply.mjs",
+    "example": "esbuild example/run.ts --bundle --platform=node --format=esm --outfile=example/run.bundle.mjs && node example/run.bundle.mjs"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./render": {
+      "types": "./dist/render/index.d.ts",
+      "import": "./dist/render/index.js",
+      "default": "./dist/render/index.js"
+    },
+    "./convert": {
+      "types": "./dist/convert/index.d.ts",
+      "import": "./dist/convert/index.js",
+      "default": "./dist/convert/index.js"
+    },
+    "./deck": {
+      "types": "./dist/deck/index.d.ts",
+      "import": "./dist/deck/index.js",
+      "default": "./dist/deck/index.js"
+    },
+    "./note": {
+      "types": "./dist/note/index.d.ts",
+      "import": "./dist/note/index.js",
+      "default": "./dist/note/index.js"
+    },
+    "./quiz": {
+      "types": "./dist/quiz/index.d.ts",
+      "import": "./dist/quiz/index.js",
+      "default": "./dist/quiz/index.js"
+    },
+    "./fsrs": {
+      "types": "./dist/fsrs/index.d.ts",
+      "import": "./dist/fsrs/index.js",
+      "default": "./dist/fsrs/index.js"
+    },
+    "./types": {
+      "types": "./dist/types/index.d.ts",
+      "import": "./dist/types/index.js",
+      "default": "./dist/types/index.js"
+    },
+    "./services": {
+      "types": "./dist/services/index.d.ts",
+      "import": "./dist/services/index.js",
+      "default": "./dist/services/index.js"
+    },
+    "./stores": {
+      "types": "./dist/stores/index.d.ts",
+      "import": "./dist/stores/index.js",
+      "default": "./dist/stores/index.js"
+    },
+    "./stat": {
+      "types": "./dist/stat/index.d.ts",
+      "import": "./dist/stat/index.js",
+      "default": "./dist/stat/index.js"
+    },
+    "./cloud": {
+      "types": "./dist/cloud/index.d.ts",
+      "import": "./dist/cloud/index.js",
+      "default": "./dist/cloud/index.js"
+    },
+    "./convert/import": {
+      "types": "./dist/convert/import/index.d.ts",
+      "import": "./dist/convert/import/index.js",
+      "default": "./dist/convert/import/index.js"
+    },
+    "./deck/*": {
+      "types": "./dist/deck/*.d.ts",
+      "import": "./dist/deck/*.js",
+      "default": "./dist/deck/*.js"
+    },
+    "./storage/*": {
+      "types": "./dist/storage/*.d.ts",
+      "import": "./dist/storage/*.js",
+      "default": "./dist/storage/*.js"
+    },
+    "./*": {
+      "types": "./dist/*.d.ts",
+      "import": "./dist/*.js",
+      "default": "./dist/*.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "date-fns": "^4.1.0",
+    "delta-sync": "^0.1.19",
+    "fast-xml-parser": "^5.2.5",
+    "franc-min": "^6.2.0",
+    "gbk.js": "^0.3.0",
+    "katex": "^0.16.22",
+    "markdown-it": "^14.1.0",
+    "markdown-it-task-lists": "^2.1.1",
+    "node-html-parser": "^7.0.1",
+    "openai": "^5.20.1",
+    "remark": "^15.0.1",
+    "seedrandom": "^3.0.5",
+    "tree-model": "^1.0.7",
+    "unist-util-visit": "^5.0.0",
+    "uuid": "^13.0.0",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.15.0",
+    "@types/seedrandom": "^3.0.8",
+    "@types/unist": "^3.0.3",
+    "esbuild": "^0.25.0",
+    "react": "^19.0.0",
+    "typescript": "~5.8.3"
+  }
+}

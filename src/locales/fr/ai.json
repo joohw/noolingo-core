@@ -1,0 +1,18 @@
+{
+  "tokens": "Solde de jetons",
+  "coin": "Pièce",
+  "usage": "Utilisation IA",
+  "optimizing": "Optimisation en cours...",
+  "done": "Terminé",
+  "noAIAvailable": "Aucun modèle IA disponible",
+  "quotaExceeded": "Quota mensuel épuisé",
+  "quotaResetAt": "Le quota sera réinitialisé dans {{days}} jour.",
+  "usageDescription": "L'utilisation des jetons varie selon la longueur du texte dans chaque requête IA",
+  "freeQuotaExceeded": "Quota IA épuisé. Mettez à niveau votre abonnement pour obtenir plus de fonctionnalités IA",
+  "proQuotaExceeded": "Votre quota mensuel d'IA a été épuisé",
+  "quotaExceededDialogTitle": "Quota épuisé",
+  "quotaExceededDialogMessage": "Votre quota d'IA a été épuisé. Souhaitez-vous consulter les plans d'abonnement ?",
+  "memberRequiredTitle": "Fonctionnalité réservée aux membres",
+  "memberRequiredMessage": "Cette fonctionnalité nécessite un abonnement. Souhaitez-vous consulter les plans d'abonnement ?",
+  "disclaimer": "Contenu généré par IA. Veuillez utiliser avec prudence."
+}

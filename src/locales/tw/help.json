@@ -1,0 +1,99 @@
+{
+  "noteHelp": "如何记筆記",
+  "note": {
+    "slideTitle1": "添加標題和內容",
+    "slideDescription1": "創建短小精悍的知識卡片，支持 Markdown 語法",
+    "slideTitle2": "添加填空遮蓋",
+    "slideDescription2": "通過{{}}語法包裹內容，可以遮蓋關鍵的需要記憶的內容",
+    "slideTitle3": "在遮蓋模式下回憶",
+    "slideDescription3": "在閱讀模式或者閃卡模式下點擊按鈕可以切換顯示效果"
+  },
+  "wikiHelp": "如何使用Wiki链接",
+  "wiki": {
+    "slideTitle1": "串聯您的筆記",
+    "slideDescription1": "通過雙向引用和內聯引用將知識點串聯在一起，隨時查閱",
+    "slideTitle2": "雙向引用",
+    "slideDescription2": "在菜單中選擇引用功能，選擇需要引用的筆記，即可創建雙向引用",
+    "slideTitle3": "內聯引用",
+    "slideDescription3": "用[[]]語法包裹另一篇筆記的標題，點擊即可跳轉到對應的筆記"
+  },
+  "flashcardHelp": "如何使用闪卡學習",
+  "flashcard": {
+    "slideTitle1": "選擇學習范围",
+    "slideDescription1": "归档的筆記和未到期的筆記不会出现在學習队列中",
+    "slideTitle2": "主动回忆",
+    "slideDescription2": "回忆被遮盖的部分，评估掌握程度，系統会根据選項自动優化下次复习時間",
+    "slideTitle3": "追踪學習进度",
+    "slideDescription3": "颜色标识直观呈现出您當前的掌握程度",
+    "slideTitle4": "了解學習進度",
+    "slideDescription4": "筆記以不同顏色標識顯示掌握程度，紅色表示需加強，綠色表示已掌握，讓複習更有針對性"
+  },
+  "quizHelp": "如何使用测验",
+  "quiz": {
+    "slideTitle1": "測驗範圍",
+    "slideDescription1": "默認情況下，測驗會包含最近未測驗的筆記，也可設置為所有筆記，目前暫不支持圖片筆記",
+    "slideTitle2": "測驗風格與題型",
+    "slideDescription2": "根據您的筆記內容、測驗風格智能選擇題型，包括單選、多選、填空或者更多題型",
+    "slideTitle3": "跳過或重新生成",
+    "slideDescription3": "可以主動重新生成當前測驗，或跳過當前題目，系統會自動優化下次測驗的難度",
+    "slideTitle4": "測驗結果",
+    "slideDescription4": "測驗完成後，可查看本次測驗結果，並針對出錯的筆記進行復習"
+  },
+  "syncHelp": "如何同步",
+  "sync": {
+    "slideTitle1": "自动同步",
+    "slideDescription1": "登錄账号后，您的筆記会在更新时自动同步到服务器上",
+    "slideTitle2": "手动同步",
+    "slideDescription2": "在其他设备上修改筆記后，可以在當前设备上手动同步，或者等待自动同步"
+  },
+  "shareHelp": "如何分享",
+  "share": {
+    "slideTitle1": "分享筆記",
+    "slideDescription1": "同步到云端的筆記可以使用分享功能快速分享给他人"
+  },
+  "cloudHelp": "有哪些會員专属功能",
+  "cloud": {
+    "slideTitle1": "超大同步额度",
+    "slideDescription1": "解锁超大云端筆記容量，可以随时随地访问，分享和备份",
+    "slideTitle2": "超级AI助手",
+    "slideDescription2": "集成當前世界上最顶尖的生成式大语言模型，助力您的學習之旅",
+    "slideTitle3": "轻松插入图片、文档",
+    "slideDescription3": "支持图片、文档等多种格式，打造图文并茂的完整筆記"
+  },
+  "curatedHelp": "如何使用精选集",
+  "curated": {
+    "slideTitle1": "浏览精选內容",
+    "slideDescription1": "精选集汇聚了Noolingo用戶精心挑选的优质筆記，按主题分类，方便您快速找到感兴趣的內容",
+    "slideTitle2": "下載精选筆記",
+    "slideDescription2": "點擊任意精选集可以预览筆記內容，確認后即可一键下載到您的筆記本中",
+    "slideTitle3": "分享您的筆記",
+    "slideDescription3": "在筆記本設置中开启分享功能，生成分享码后，您的优质筆記就有机会出现在精选集中，帮助更多學習者"
+  },
+  "sampleHelp": "筆記示例",
+  "sampleTitle": "示例筆記",
+  "sampleDescription": "从这些筆記開始，构建您的专属知识库",
+  "sampleSave": "保存这些筆記",
+  "caseDeck": "示例筆記",
+  "tapToShow": "點擊顯示",
+  "tapToHide": "點擊隱藏",
+  "saveSample": "保存这些示例",
+  "getNew": "换一批",
+  "review": {
+    "title": "學習模式",
+    "description": "根据你的掌握程度選擇评分，系統会自动優化下次复习時間",
+    "showContent": "完全顯示"
+  },
+  "mastery": {
+    "title": "學習进度",
+    "description": "每次學習都会更新筆記的掌握程度，可以通过颜色直观区分"
+  },
+  "imageMaskHelp": "如何使用圖片遮蓋",
+  "imageMask": {
+    "slideTitle1": "添加圖片",
+    "slideDescription1": "在筆記中插入圖片，支持多種圖片格式",
+    "slideTitle2": "添加遮蓋區域",
+    "slideDescription2": "在圖片上繪製遮蓋區域，隱藏需要記憶的關鍵信息",
+    "slideTitle3": "在遮蓋模式下回憶",
+    "slideDescription3": "在閱讀或學習模式下，遮蓋區域會被隱藏，幫助您主動回憶"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "키보드 단축키",
+    "description": "키보드 단축키를 사용하여 효율성을 높이세요"
+  },
+  "category": {
+    "other": "일반",
+    "deck": "노트북 작업",
+    "read": "읽기 작업",
+    "study": "플래시카드 페이지"
+  },
+  "name": {
+    "TOGGLE_MASK": "마스크 토글",
+    "OPEN_HELP": "도움말 열기",
+    "ADD_NOTE": "노트 추가",
+    "BATCH_ADD_NOTES": "노트 일괄 추가",
+    "NEXT_CARD": "다음 카드",
+    "PREVIOUS_CARD": "이전 카드",
+    "FLIP_CARD": "카드 뒤집기",
+    "REVEAL_OR_RATE": "답 보기/평가 확인",
+    "SELECT_PREVIOUS": "이전 평가 선택",
+    "SELECT_NEXT": "다음 평가 선택",
+    "RATE_HARD": "어려움",
+    "RATE_GOOD": "좋음",
+    "RATE_AGAIN": "다시",
+    "RATE_EASY": "쉬움",
+    "PAGE_UP": "이전 페이지",
+    "PAGE_DOWN": "다음 페이지"
+  }
+}

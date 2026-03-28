@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "Notification Permission",
+  "permissionDescription": "To remind you of your review progress in time, we need notification permission. Allow notifications?",
+  "reviewTimingTitle": "Enable Review Reminder",
+  "reviewTimingDescription": "Enable review reminders to help you build a consistent learning habit, with a 26% increase in completion rate",
+  "testTitle": "Notification settings successful 🎯",
+  "testBody": "You will receive review reminders at the set time",
+  "reviewReminderTitle": "Time for review",
+  "reviewReminderBody": "The only way to do great work is to love what you do. - Steve Jobs",
+  "reviewReminderBodyTomorrow": "Learning never exhausts the mind. - Leonardo da Vinci",
+  "reviewReminderBodyDayAfter": "The beautiful thing about learning is that no one can take it away from you. - B.B. King",
+  "reviewReminderBodyThreeDays": "Education is the most powerful weapon which you can use to change the world. - Nelson Mandela",
+  "reviewReminderBodyOneWeek": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice. - Brian Herbert",
+  "reviewReminderBodyTwoWeeks": "Live as if you were to die tomorrow. Learn as if you were to live forever. - Mahatma Gandhi",
+  "reviewReminderBodyOneMonth": "The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss"
+}

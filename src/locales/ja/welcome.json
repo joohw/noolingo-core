@@ -1,0 +1,66 @@
+{
+  "acceptTo": "同意",
+  "initialPage": "ウェルカムページを表示",
+  "viewPrivacyPolicy": "プライバシーポリシー",
+  "acceptAndContinue": "同意して続ける",
+  "acceptToprivacy": "プライバシーポリシーと利用規約",
+  "privacyDialogDescription": "アプリを使用する前に、プライバシーポリシーと利用規約をお読みいただき、データの収集、使用、保護方法をご理解ください。",
+  "notNow": "後で",
+  "newUser": "新規ユーザー",
+  "existingUser": "サインイン",
+  "signIn": "サインイン",
+  "signUp": "サインアップ",
+  "skip": "スキップ",
+  "signInWithGoogle": "Googleでサインイン",
+  "signInWithEmail": "メールでサインイン",
+  "privacyAndTerms": "プライバシーポリシーと利用規約",
+  "privacyPolicy": "プライバシーポリシー",
+  "termsOfService": "利用規約",
+  "page1": {
+    "title": "Noolingoへようこそ",
+    "subtitle": "AIと記憶アルゴリズムを使って学習をより簡単に"
+  },
+  "page2": {
+    "title": "サンプルを用意しました",
+    "subtitle": "Noolingoがどのように学習をサポートするか学び、すぐに始めましょう"
+  },
+  "step1": {
+    "title": "言語を選択",
+    "subtitle": "お好みのインターフェース言語を選択してください"
+  },
+  "step2": {
+    "title": "テーマを選択",
+    "subtitle": "お好みのインターフェーステーマを選択してください"
+  },
+  "step3": {
+    "title": "AI出力言語",
+    "subtitle": "AIアシスタントの出力言語を選択してください"
+  },
+  "step5": {
+    "title": "ノートの再構築から始める",
+    "subtitle": "認知科学とAI技術を組み合わせて、あなたのノートをインテリジェントな学習パートナーに変えます"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "すべてのクラウドサービスをアンロックし、より効率的で楽な学習体験を体験してください"
+  },
+  "sampleNote": {
+    "title": "Noolingoへようこそ",
+    "content": "Noolingoでは、あなたの学習フィードバックをすべて追跡し、それに基づいてより正確な学習ガイダンスを提供します。\n\n各ノートの色から習熟度を明確に判断できます。アルゴリズムがこれらのコンテンツの復習時間をスケジュールしますが、手動で調整することもできます。\n\nNoolingoはMarkdown構文をサポートし、拡張機能も備えています。重要なコンテンツを{{}}で囲むと、復習時に非表示になり、能動的想起を簡単に強化できます。"
+  },
+  "button": {
+    "start": "開始",
+    "skipExample": "サンプルをスキップ",
+    "viewExample": "サンプルを表示"
+  },
+  "features": {
+    "create": "ナレッジベースを作成",
+    "createDesc": "学習ノートとカードを簡単に作成・管理",
+    "review": "スマート復習",
+    "reviewDesc": "FSRSアルゴリズムに基づいて復習時間をインテリジェントに計画",
+    "quiz": "クイズモード",
+    "quizDesc": "クイズで知識のギャップを特定し、学習を強化",
+    "progress": "学習進捗",
+    "progressDesc": "学習成果を追跡し、成長の軌跡を記録"
+  }
+}

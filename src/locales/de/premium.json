@@ -1,0 +1,92 @@
+{
+  "renew": "Erneuern",
+  "upgrade": "Upgrade",
+  "title": "Premium-Mitgliedschaft",
+  "yearly": "Jahresabonnement",
+  "currentStatus": "Aktueller Mitgliedschaftsstatus",
+  "featuresIncluded": "Enthaltene Funktionen",
+  "slogan": "Noolingo Pro abonnieren",
+  "subtitle": "Alle Einschränkungen aufheben, effizienter merken und leichter lernen",
+  "thanksFor": "Vielen Dank für Ihre Unterstützung!",
+  "termsAgreement": "Durch das Abonnieren stimmen Sie unseren Nutzungsbedingungen zu",
+  "termsTitle": "Nutzungsbedingungen",
+  "whatUsersSay": "Was Benutzer sagen",
+  "letterToSubscribers": {
+    "title": "Ein Brief an Noolingo-Benutzer",
+    "content": "Bezahlte Abonnements sind Noolingos einzige Einnahmequelle. Wir haben uns für dieses Modell entschieden, weil wir uns darauf konzentrieren möchten, Ihnen die beste Lernerfahrung zu bieten, anstatt unsere Energie darauf zu verwenden, andere Einnahmequellen zu erkunden.\n\nDas bedeutet, dass Sie keine Werbung in Noolingo sehen werden, wir verkaufen Ihre Daten nicht und wir werden auf keine andere Weise von Ihnen profitieren. Jedes Abonnement, das Sie abschließen, ist ein Vertrauens- und Unterstützungsvotum für unser Engagement, das beste Lernwerkzeug zu entwickeln.\n\nWir möchten, dass Sie jederzeit von jedem Gerät aus auf Ihre Lerninhalte zugreifen können. Egal welches Gerät Sie verwenden, alle Noolingo Pro-Vorteile werden synchronisiert, und selbst wenn Ihre Mitgliedschaft abläuft, gehören Ihre Daten immer Ihnen und können jederzeit exportiert werden.\n\nIhre Privatsphäre ist für uns von entscheidender Bedeutung. Noolingo verspricht, Ihre persönlichen Daten niemals zu verkaufen oder zu missbrauchen. Ihre Unterstützung treibt unsere kontinuierliche Innovation und Serviceverbesserung voran, und wir werden Ihre Privatsphäre immer auf die sicherste Weise schützen."
+  },
+  "scanToPay": "QR-Code scannen zum Bezahlen",
+  "testimonial": "Noolingo ist das Lernwerkzeug, nach dem ich gesucht habe!",
+  "testimonials": {
+    "user1": {
+      "name": "Emma",
+      "content": "Nutze die App jetzt seit etwa zwei Wochen und kann mir nicht mehr vorstellen, ohne zu arbeiten. Vorher habe ich zwischen Notion für Notizen und Anki für die Wiederholung gewechselt, aber hier geht beides nahtlos. Die Oberfläche ist super clean - kein Schnickschnack, keine Werbung, einfach pure Konzentration."
+    },
+    "user2": {
+      "name": "Mike",
+      "content": "Game Changer für meine Examensvorbereitung. Ich werfe alle meine Fälle hier rein und der Wiederholungsalgorithmus funktioniert tatsächlich. Kann während der Fahrt, zwischen Vorlesungen, wann immer ich 5 Minuten habe wiederholen. Viel besser als physische Karteikarten mitzuschleppen."
+    },
+    "user3": {
+      "name": "Sarah",
+      "content": "Liebe wie einfach es ist, einfach random Gedanken und Notizen hier reinzuwerfen ohne sich um Formatierung zu kümmern. Nutze es seit einem Monat und die Lifetime-Mitgliedschaft war es total wert. Die Sync zwischen Handy und Laptop ist perfekt - nie Fortschritt verloren."
+    },
+    "user4": {
+      "name": "Alex",
+      "content": "Habe die App letzten Monat entdeckt und sie ist essentiell geworden. Bereite mich auf mein Staatsexamen vor und muss tausende Fakten auswendig lernen. Habe meine Lernunterlagen importiert und kann jetzt in Leerlaufzeiten wiederholen. Der Algorithmus hilft mir wirklich, mich auf das zu konzentrieren, womit ich kämpfe. Preis ist lächerlich gut im Vergleich zu anderen Lern-Apps."
+    },
+    "user5": {
+      "name": "David",
+      "content": "Das hat ein echtes Problem für mich gelöst. Habe Obsidian für Notizen genutzt aber das ist overkill, und Anki ist zu kompliziert für schnelle Erfassung. Noolingo trifft den Sweet Spot - einfach genug für täglichen Gebrauch, mächtig genug um mir wirklich zu helfen Informationen zu behalten. Nutze es jetzt täglich seit 3 Wochen."
+    }
+  },
+  "faqTitle": "Häufig gestellte Fragen",
+  "features": {
+    "sync": "Größere Synchronisierungskapazität",
+    "syncDesc": "Nach dem Upgrade erhöht sich das Synchronisierungslimit dramatisch von 200 Notizen in der kostenlosen Version auf 50.000 Notizen, mit unbegrenzten täglichen Synchronisierungen. Wir werden die Kapazität basierend auf Ihren Bedürfnissen weiter ausbauen und Ihr Lernen sorgenfrei machen.",
+    "learningDataSync": "Lerndaten-Synchronisierung",
+    "learningDataSyncDesc": "Ihr Lernfortschritt, Statistiken, Wiederholungsaufzeichnungen und alle anderen Lerndaten werden automatisch in die Cloud synchronisiert, sodass Sie nahtlos zwischen Geräten wechseln und jederzeit und überall weiterlernen können.",
+    "ai": "Vollzugriff auf KI-Funktionen",
+    "aiDesc": "Durch das Abonnieren von Noolingo Pro entsperren Sie vollständige KI-Funktionalität, genießen über 1000 KI-Nutzungen pro Monat und erhalten automatisch alle zukünftigen KI-Funktions-Upgrades.",
+    "noAd": "Werbefreie Erfahrung",
+    "noAdDesc": "Wir verstehen, dass Fokus der Schlüssel zum Lernen ist. Noolingo Pro garantiert eine reine Lernerfahrung ohne Drittanzeigen und hilft Ihnen, sich vollständig in Ihre Studien zu vertiefen.",
+    "more": "Datensicherheitsgarantie",
+    "moreDesc": "Wir möchten, dass Sie jederzeit auf jedem Gerät auf Ihre Lerninhalte zugreifen können. Alle Noolingo Pro-Vorteile synchronisieren sich auf Ihren Geräten. Selbst wenn Ihre Mitgliedschaft abläuft, gehören Ihre Daten immer Ihnen und können jederzeit exportiert werden.",
+    "privacy": "Datenschutz",
+    "privacyDesc": "Ihre Privatsphäre ist für uns von entscheidender Bedeutung. Noolingo verspricht, Ihre persönlichen Daten niemals zu verkaufen oder zu missbrauchen. Ihre Unterstützung treibt unsere kontinuierliche Innovation und Serviceverbesserung an, und wir werden Ihre Privatsphäre immer auf die sicherste Weise schützen."
+  },
+  "faq": {
+    "q1": "Was soll ich tun, wenn ich Zahlungsprobleme habe?",
+    "a1": "Wenn Sie während der Zahlung Probleme haben, wie z.B. Zahlungsfehler, doppelte Belastungen oder Fragen zu Ihrer Rechnung, kontaktieren Sie uns bitte unter support@noolingo.com. Wir werden Ihre Anfrage so schnell wie möglich nach Erhalt Ihrer E-Mail bearbeiten, normalerweise innerhalb von 24 Stunden antworten.",
+    "q2": "Werden Rückerstattungen unterstützt?",
+    "a2": "Wir unterstützen derzeit keine Rückerstattungsdienste. Wenn Sie während der Zahlung oder Nutzung Probleme haben oder besondere Umstände haben, die Unterstützung erfordern, kontaktieren Sie uns bitte unter support@noolingo.com, und wir werden unser Bestes tun, um Ihnen bei der Lösung des Problems zu helfen."
+  },
+  "betaDescription": "Vielen Dank für Ihre Teilnahme an unserem Beta-Programm!",
+  "expireDate": "Mitgliedschaft gültig bis {{date}}",
+  "current": "Aktuelle Version",
+  "earlyBirdPromo": "Early Bird Angebot: Begrenzte Zeit Sonderpreis",
+  "failed": "Zahlung fehlgeschlagen",
+  "paidSuccess": "Zahlung erfolgreich",
+  "paidSuccessDesc": "Vielen Dank für Ihre Unterstützung! Ihre Mitgliedschaftsvorteile wurden aktiviert",
+  "earlyBirdUpgrade": "Early Bird Sonder-Upgrade",
+  "switchToLifetime": "Lebenslange Pläne ansehen",
+  "switchToYearly": "Zu Jahresplan wechseln",
+  "lifetimeSubscription": "Noolingo Lebenslange Mitgliedschaft",
+  "earlyBirdYearlyPromo": "Begrenztes Angebot",
+  "earlyBirdLifetimePromo": "Early Bird Exklusiv",
+  "earlyBirdDescription": "Sie sind ein Seed-Benutzer von noolingo",
+  "lifetimeMemberThanks": "Vielen Dank für Ihre Unterstützung von frühem noolingo",
+  "freePlanDesc": "Alle Grundfunktionen für immer kostenlos",
+  "standardPlanDesc": "Alle Funktionen freigeschaltet",
+  "permanentMember": "Permanentes Mitglied",
+  "earlyBirdUser": "Early Bird Mitglied",
+  "proMemeber": "Premium-Mitglied",
+  "free_plan_desc": "Grundfunktionen kostenlos nutzbar",
+  "currentTier": {
+    "free": "Basis-Version",
+    "pro": "Pro",
+    "lifetimePro": "Lebenslanges Pro",
+    "super": "Super",
+    "lifetimeSuper": "Lebenslanges Super"
+  },
+  "featuresTitle": "Was Sie nach dem Abonnement erhalten"
+}

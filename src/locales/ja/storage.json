@@ -1,0 +1,18 @@
+{
+  "storageOverview": "ストレージ概要",
+  "localStorage": "ローカル",
+  "localNotes": "ローカルノート",
+  "localNotesWithCount": "ローカルノート: {{count}}",
+  "syncedNotes": "同期済みノート: {{count}}",
+  "pendingNotes": "保留中のノート",
+  "pendingNotesWithCount": "保留中のノート: {{count}}",
+  "usedSpace": "使用済み容量",
+  "dataManagement": "データ管理",
+  "backupData": "データをバックアップ",
+  "importBackUp": "バックアップをインポート",
+  "clearLocalWarning": "これにより、すべてのローカルノートが永久に削除され、元に戻せません。",
+  "exportExportError": "データのエクスポートに失敗しました",
+  "backupExportSuccess": "バックアップを正常にエクスポートしました",
+  "backupImportSuccess": "バックアップを正常にインポートしました",
+  "backupImportError": "バックアップのインポートに失敗しました"
+}

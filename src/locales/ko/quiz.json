@@ -1,0 +1,57 @@
+{
+  "title": "퀴즈 스타일 선택",
+  "description": "학습 요구에 맞는 적절한 퀴즈 스타일 선택",
+  "generatingQuestion": "퀴즈 질문 생성 중...",
+  "regenerate": "재생성",
+  "enterAnswer": "답변을 입력하세요...",
+  "checkAnswer": "확인",
+  "multipleChoice": "[객관식]",
+  "choice": "[단일 선택]",
+  "trueFalse": "[참/거짓]",
+  "fillBlank": "[빈칸 채우기]",
+  "aiDisclaimer": "AI가 생성한 콘텐츠입니다. 주의해서 사용하세요.",
+  "checking": "확인 중...",
+  "explanation": "설명",
+  "openOriginal": "원본 보기",
+  "shareQuestion": "문제 공유",
+  "shareError": "공유 실패",
+  "noQuizText": "문제 내용이 비어 있습니다",
+  "copied": "복사됨",
+  "copiedToClipboard": "문제가 클립보드에 복사되었습니다",
+  "markAsCorrect": "정답으로 표시",
+  "markAsWrong": "오답으로 표시",
+  "correctAnswer": "정답",
+  "correct": "정답",
+  "wrong": "오답",
+  "results": "퀴즈 결과",
+  "rating": "숙련도",
+  "note": "노트",
+  "mode": {
+    "comprehensive": {
+      "title": "종합",
+      "description": "지식 연결, 전체 이해 및 응용 기술에 대한 질문을 생성하여 완전한 지식 프레임워크 구축에 도움"
+    },
+    "memory": {
+      "title": "기억",
+      "description": "정보 완성, 핵심 사실, 순차적 기억 및 정확한 회상에 대한 질문을 생성하여 핵심 정보 보유 강화"
+    },
+    "application": {
+      "title": "응용",
+      "description": "확장 응용, 도메인 간 연결 및 실제 시나리오에 대한 질문을 생성하여 혁신적 사고 촉진"
+    },
+    "thinking": {
+      "title": "사고",
+      "description": "본질적 탐구, 비판적 사고 및 논리적 분석에 대한 질문을 생성하여 지식의 본질과 논리적 구조 탐구"
+    }
+  },
+  "quota": {
+    "insufficient": "이 기능의 월간 사용 한도에 도달했습니다",
+    "title": "스마트 퀴즈 할당량",
+    "exceeded": "할당량 소진",
+    "low": "{{remaining}} 남음",
+    "remaining": "{{remaining}} 남음",
+    "upgrade": "멤버십 업그레이드",
+    "getMore": "더 받기",
+    "upgradeToGetMore": "멤버십을 업그레이드하여 더 많은 할당량 받기"
+  }
+}

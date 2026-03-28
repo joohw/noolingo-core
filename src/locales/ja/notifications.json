@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "通知権限",
+  "permissionDescription": "復習進捗を適時にリマインダーするために、通知権限が必要です。通知を許可しますか？",
+  "reviewTimingTitle": "復習リマインダーを有効にする",
+  "reviewTimingDescription": "復習リマインダーを有効にして、継続的な学習習慣を身につけましょう。学習完了率が26%向上します",
+  "testTitle": "通知設定成功 🎯",
+  "testBody": "設定した時間に復習リマインダーを受信します",
+  "reviewReminderTitle": "復習の時間です",
+  "reviewReminderBody": "素晴らしい仕事をする唯一の方法は、自分がしていることを愛することです。 - スティーブ・ジョブズ",
+  "reviewReminderBodyTomorrow": "学習は決して心を疲れさせません。 - レオナルド・ダ・ヴィンチ",
+  "reviewReminderBodyDayAfter": "学習の美しい点は、誰もそれをあなたから奪うことができないことです。 - B.B.キング",
+  "reviewReminderBodyThreeDays": "教育は世界を変えるために使用できる最も強力な武器です。 - ネルソン・マンデラ",
+  "reviewReminderBodyOneWeek": "学ぶ能力は贈り物です。学ぶ能力はスキルです。学ぶ意欲は選択です。 - ブライアン・ハーバート",
+  "reviewReminderBodyTwoWeeks": "明日死ぬかのように生き、永遠に生きるかのように学びなさい。 - マハトマ・ガンディー",
+  "reviewReminderBodyOneMonth": "読めば読むほど、より多くのことを知ることができます。学べば学ぶほど、より多くの場所に行くことができます。 - ドクター・スース"
+}

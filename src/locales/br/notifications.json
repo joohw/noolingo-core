@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "Permissão de notificações",
+  "permissionDescription": "Para lembrá-lo do seu progresso de revisão a tempo, precisamos de permissão de notificações. Permitir notificações?",
+  "reviewTimingTitle": "Ativar lembrete de revisão",
+  "reviewTimingDescription": "Ative lembretes de revisão para ajudá-lo a construir um hábito de aprendizagem consistente, com um aumento de 26% na taxa de conclusão",
+  "testTitle": "Configurações de notificações bem-sucedidas 🎯",
+  "testBody": "Você receberá lembretes de revisão no horário definido",
+  "reviewReminderTitle": "Hora de revisar",
+  "reviewReminderBody": "A única forma de fazer um grande trabalho é amar o que você faz. - Steve Jobs",
+  "reviewReminderBodyTomorrow": "O aprendizado nunca esgota a mente. - Leonardo da Vinci",
+  "reviewReminderBodyDayAfter": "A beleza do aprendizado é que ninguém pode tirá-lo de você. - B.B. King",
+  "reviewReminderBodyThreeDays": "A educação é a arma mais poderosa que você pode usar para mudar o mundo. - Nelson Mandela",
+  "reviewReminderBodyOneWeek": "A capacidade de aprender é um dom; a habilidade de aprender é uma competência; a vontade de aprender é uma escolha. - Brian Herbert",
+  "reviewReminderBodyTwoWeeks": "Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre. - Mahatma Gandhi",
+  "reviewReminderBodyOneMonth": "Quanto mais você lê, mais coisas sabe. Quanto mais você aprende, mais lugares vai. - Dr. Seuss"
+}

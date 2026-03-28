@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "Raccourcis clavier",
+    "description": "Utilisez les raccourcis clavier pour améliorer votre efficacité"
+  },
+  "category": {
+    "other": "Général",
+    "deck": "Opérations sur les carnets",
+    "read": "Opérations de lecture",
+    "study": "Page de cartes mémoire"
+  },
+  "name": {
+    "TOGGLE_MASK": "Basculer le masque",
+    "OPEN_HELP": "Ouvrir l'aide",
+    "ADD_NOTE": "Ajouter une note",
+    "BATCH_ADD_NOTES": "Ajouter des notes en lot",
+    "NEXT_CARD": "Carte suivante",
+    "PREVIOUS_CARD": "Carte précédente",
+    "FLIP_CARD": "Retourner la carte",
+    "REVEAL_OR_RATE": "Afficher la réponse/Confirmer l'évaluation",
+    "SELECT_PREVIOUS": "Sélectionner l'évaluation précédente",
+    "SELECT_NEXT": "Sélectionner l'évaluation suivante",
+    "RATE_HARD": "Difficile",
+    "RATE_GOOD": "Bien",
+    "RATE_AGAIN": "Encore",
+    "RATE_EASY": "Facile",
+    "PAGE_UP": "Page précédente",
+    "PAGE_DOWN": "Page suivante"
+  }
+}

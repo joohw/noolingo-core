@@ -1,0 +1,25 @@
+# 发布内容主要由 package.json 的 "files" 白名单决定（见该字段）。
+# 下列条目在未使用 "files" 或放宽打包范围时，可避免误把开发文件打进包。
+
+node_modules/
+src/
+example/
+scripts/
+
+tsconfig.json
+tsconfig.*.json
+*.tsbuildinfo
+
+.git/
+.gitignore
+.npmignore
+
+*.log
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
+
+coverage/
+*.tgz

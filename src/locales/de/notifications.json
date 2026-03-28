@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "Benachrichtigungsberechtigung",
+  "permissionDescription": "Um Sie rechtzeitig an Ihren Wiederholungsfortschritt zu erinnern, benötigen wir die Benachrichtigungsberechtigung. Benachrichtigungen zulassen?",
+  "reviewTimingTitle": "Wiederholungserinnerung aktivieren",
+  "reviewTimingDescription": "Aktivieren Sie Wiederholungserinnerungen, um Ihnen zu helfen, eine konsistente Lerngewohnheit aufzubauen, mit einer Steigerung der Abschlussrate um 26%",
+  "testTitle": "Benachrichtigungseinstellungen erfolgreich 🎯",
+  "testBody": "Sie erhalten Wiederholungserinnerungen zur eingestellten Zeit",
+  "reviewReminderTitle": "Zeit für Wiederholung",
+  "reviewReminderBody": "Der einzige Weg, großartige Arbeit zu leisten, ist, das zu lieben, was man tut. - Steve Jobs",
+  "reviewReminderBodyTomorrow": "Lernen erschöpft den Geist nie. - Leonardo da Vinci",
+  "reviewReminderBodyDayAfter": "Das Schöne am Lernen ist, dass es einem niemand wegnehmen kann. - B.B. King",
+  "reviewReminderBodyThreeDays": "Bildung ist die mächtigste Waffe, die man verwenden kann, um die Welt zu verändern. - Nelson Mandela",
+  "reviewReminderBodyOneWeek": "Die Fähigkeit zu lernen ist ein Geschenk; die Fähigkeit zu lernen ist eine Fertigkeit; die Bereitschaft zu lernen ist eine Wahl. - Brian Herbert",
+  "reviewReminderBodyTwoWeeks": "Lebe, als würdest du morgen sterben. Lerne, als würdest du ewig leben. - Mahatma Gandhi",
+  "reviewReminderBodyOneMonth": "Je mehr du liest, desto mehr Dinge wirst du wissen. Je mehr du lernst, desto mehr Orte wirst du besuchen. - Dr. Seuss"
+}

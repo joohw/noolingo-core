@@ -1,0 +1,18 @@
+{
+  "storageOverview": "Storage Overview",
+  "localStorage": "Local",
+  "localNotes": "Local Notes",
+  "localNotesWithCount": "Local Notes: {{count}}",
+  "syncedNotes": "Synced Notes: {{count}}",
+  "pendingNotes": "Pending Notes",
+  "pendingNotesWithCount": "Pending Notes: {{count}}",
+  "usedSpace": "Used Space",
+  "dataManagement": "Data Management",
+  "backupData": "Backup Data",
+  "importBackUp": "Import Backup",
+  "clearLocalWarning": "This will permanently delete all local notes and cannot be undone.",
+  "exportExportError": "Failed to export data",
+  "backupExportSuccess": "Backup exported successfully",
+  "backupImportSuccess": "Backup imported successfully",
+  "backupImportError": "Failed to import backup"
+}

@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "Keyboard Shortcuts",
+    "description": "Use keyboard shortcuts to improve your efficiency"
+  },
+  "category": {
+    "other": "General",
+    "deck": "Notebook Operations",
+    "read": "Reading Operations",
+    "study": "Flashcard Page"
+  },
+  "name": {
+    "TOGGLE_MASK": "Toggle Mask",
+    "OPEN_HELP": "Open Help",
+    "ADD_NOTE": "Add Note",
+    "BATCH_ADD_NOTES": "Batch Add Notes",
+    "NEXT_CARD": "Next Card",
+    "PREVIOUS_CARD": "Previous Card",
+    "FLIP_CARD": "Flip Card",
+    "REVEAL_OR_RATE": "Show Answer/Confirm Rating",
+    "SELECT_PREVIOUS": "Select Previous Rating",
+    "SELECT_NEXT": "Select Next Rating",
+    "RATE_HARD": "Hard",
+    "RATE_GOOD": "Good",
+    "RATE_AGAIN": "Again",
+    "RATE_EASY": "Easy",
+    "PAGE_UP": "Previous Page",
+    "PAGE_DOWN": "Next Page"
+  }
+}

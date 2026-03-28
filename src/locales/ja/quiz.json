@@ -1,0 +1,57 @@
+{
+  "title": "クイズスタイルを選択",
+  "description": "学習ニーズに合わせて適切なクイズスタイルを選択",
+  "generatingQuestion": "クイズ問題を生成中...",
+  "regenerate": "再生成",
+  "enterAnswer": "答えを入力...",
+  "checkAnswer": "確認",
+  "multipleChoice": "[選択問題]",
+  "choice": "[単一選択]",
+  "trueFalse": "[真偽]",
+  "fillBlank": "[空欄補充]",
+  "aiDisclaimer": "AIによって生成されたコンテンツです。ご注意ください。",
+  "checking": "確認中...",
+  "explanation": "解説",
+  "openOriginal": "元のノートを表示",
+  "shareQuestion": "問題を共有",
+  "shareError": "共有に失敗しました",
+  "noQuizText": "問題の内容が空です",
+  "copied": "コピーしました",
+  "copiedToClipboard": "問題をクリップボードにコピーしました",
+  "markAsCorrect": "正解としてマーク",
+  "markAsWrong": "不正解としてマーク",
+  "correctAnswer": "正解",
+  "correct": "正解",
+  "wrong": "不正解",
+  "results": "クイズ結果",
+  "rating": "習熟度",
+  "note": "ノート",
+  "mode": {
+    "comprehensive": {
+      "title": "総合",
+      "description": "知識のつながり、全体的な理解、応用スキルに関する問題を生成し、完全な知識フレームワークの構築を支援"
+    },
+    "memory": {
+      "title": "記憶",
+      "description": "情報の完成、重要な事実、順序記憶、正確な想起に関する問題を生成し、重要な情報の保持を強化"
+    },
+    "application": {
+      "title": "応用",
+      "description": "拡張応用、クロスドメイン接続、実世界のシナリオに関する問題を生成し、革新的な思考を促進"
+    },
+    "thinking": {
+      "title": "思考",
+      "description": "本質的な探究、批判的思考、論理的分析に関する問題を生成し、知識の本質と論理構造を探求"
+    }
+  },
+  "quota": {
+    "insufficient": "この機能の月間使用制限に達しました",
+    "title": "スマートクイズクォータ",
+    "exceeded": "クォータが枯渇しました",
+    "low": "残り{{remaining}}",
+    "remaining": "残り{{remaining}}",
+    "upgrade": "メンバーシップをアップグレード",
+    "getMore": "さらに取得",
+    "upgradeToGetMore": "メンバーシップをアップグレードしてクォータを増やす"
+  }
+}

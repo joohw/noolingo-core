@@ -1,0 +1,16 @@
+{
+  "startConversation": "会話を始めましょう、何でも聞いてください...",
+  "inputPlaceholder": "メッセージを入力...",
+  "introTitle": "AI アシスタント",
+  "introSubtitle": "質問への回答、提案の提供、学習のサポートができます",
+  "examplesTitle": "質問例：",
+  "example1": "「精妙な」を英語でどう言いますか？",
+  "example2": "「量子もつれ」をどう理解すればいいですか？",
+  "example3": "「相対性理論」の基本概念を説明してください",
+  "options": {
+    "select": "選択",
+    "copy": "コピー",
+    "remove": "メッセージを削除",
+    "generateNotes": "ノートを生成"
+  }
+}

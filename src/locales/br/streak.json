@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "Inicie sua sequência",
+  "todayTaskDescriptionEmpty": "Complete 20 sessões de aprendizagem hoje para começar sua sequência de aprendizagem",
+  "todayTaskStreak": "Mantenha o ritmo",
+  "todayTaskDescriptionStreak": "Você está em uma sequência de {{count}} dias! Complete o objetivo de hoje para mantê-la ativa",
+  "todayTaskStreakCompleted": "Sequência ativa",
+  "todayTaskDescriptionStreakCompleted": "Excelente trabalho! Objetivo de hoje concluído. Você esteve aprendendo durante {{count}} dias seguidos! Continue amanhã",
+  "todayTaskMediumStreak": "Mantenha a consistência",
+  "todayTaskDescriptionMediumStreak": "Excelente trabalho! Você esteve aprendendo durante {{count}} dias seguidos! Mantenha este bom hábito",
+  "todayTaskMediumStreakCompleted": "Mantendo-se forte",
+  "todayTaskDescriptionMediumStreakCompleted": "Objetivo de hoje concluído! Você esteve aprendendo durante {{count}} dias seguidos. Mantenha este bom hábito",
+  "todayTaskLongStreak": "Sequência longa",
+  "todayTaskDescriptionLongStreak": "Sequência incrível de {{count}} dias! Mantenha o impulso e conserve sua sequência",
+  "todayTaskLongStreakCompleted": "Mestre de sequência",
+  "todayTaskDescriptionLongStreakCompleted": "Incrível! Objetivo de hoje concluído. Você esteve aprendendo durante {{count}} dias seguidos! Mantenha o impulso"
+}

@@ -1,0 +1,28 @@
+{
+  "mastery": "Meisterungsgrad",
+  "cardState": "Kartenstatus:",
+  "nextReview": "Nächste Wiederholungszeit:",
+  "difficulty": "Schwierigkeit:",
+  "stability": "Stabilität:",
+  "lapses": "Fehler:",
+  "reps": "Wiederholungen:",
+  "lastReview": "Tage seit letzter Wiederholung:",
+  "reviewLog": "Wiederholungsprotokoll:",
+  "na": "Nicht verfügbar",
+  "hoursLater": "Stunden später",
+  "times": "Mal",
+  "days": "Tage",
+  "noReviewRecord": "Kein Wiederholungsprotokoll",
+  "cardStates": {
+    "new": "Neu",
+    "learning": "Lernen",
+    "review": "Wiederholen",
+    "relearning": "Neu lernen"
+  },
+  "ratings": {
+    "again": "Nochmal",
+    "hard": "Schwer",
+    "good": "Gut",
+    "easy": "Einfach"
+  }
+}

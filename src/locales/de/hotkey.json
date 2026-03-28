@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "Tastenkürzel",
+    "description": "Verwenden Sie Tastenkürzel, um Ihre Effizienz zu steigern"
+  },
+  "category": {
+    "other": "Allgemein",
+    "deck": "Notizbuch-Operationen",
+    "read": "Lese-Operationen",
+    "study": "Karteikarten-Seite"
+  },
+  "name": {
+    "TOGGLE_MASK": "Maske umschalten",
+    "OPEN_HELP": "Hilfe öffnen",
+    "ADD_NOTE": "Notiz hinzufügen",
+    "BATCH_ADD_NOTES": "Notizen stapelweise hinzufügen",
+    "NEXT_CARD": "Nächste Karte",
+    "PREVIOUS_CARD": "Vorherige Karte",
+    "FLIP_CARD": "Karte umdrehen",
+    "REVEAL_OR_RATE": "Antwort anzeigen/Bewertung bestätigen",
+    "SELECT_PREVIOUS": "Vorherige Bewertung auswählen",
+    "SELECT_NEXT": "Nächste Bewertung auswählen",
+    "RATE_HARD": "Schwer",
+    "RATE_GOOD": "Gut",
+    "RATE_AGAIN": "Nochmal",
+    "RATE_EASY": "Einfach",
+    "PAGE_UP": "Vorherige Seite",
+    "PAGE_DOWN": "Nächste Seite"
+  }
+}

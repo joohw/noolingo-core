@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "연속 학습 시작",
+  "todayTaskDescriptionEmpty": "오늘 20개의 학습 세션을 완료하여 학습 연속을 시작하세요",
+  "todayTaskStreak": "계속하세요",
+  "todayTaskDescriptionStreak": "{{count}}일 연속 학습 중입니다! 오늘의 목표를 완료하여 연속을 유지하세요",
+  "todayTaskStreakCompleted": "연속 활성",
+  "todayTaskDescriptionStreakCompleted": "훌륭합니다! 오늘의 목표 완료. {{count}}일 연속으로 학습하고 있습니다! 내일도 계속하세요",
+  "todayTaskMediumStreak": "일관성 유지",
+  "todayTaskDescriptionMediumStreak": "훌륭합니다! {{count}}일 연속으로 학습하고 있습니다! 이 좋은 습관을 유지하세요",
+  "todayTaskMediumStreakCompleted": "강하게 유지",
+  "todayTaskDescriptionMediumStreakCompleted": "오늘의 목표 완료! {{count}}일 연속으로 학습하고 있습니다. 이 좋은 습관을 유지하세요",
+  "todayTaskLongStreak": "긴 연속",
+  "todayTaskDescriptionLongStreak": "놀라운 {{count}}일 연속! 추진력을 유지하고 연속을 유지하세요",
+  "todayTaskLongStreakCompleted": "연속 마스터",
+  "todayTaskDescriptionLongStreakCompleted": "놀랍습니다! 오늘의 목표 완료. {{count}}일 연속으로 학습하고 있습니다! 추진력을 유지하세요"
+}

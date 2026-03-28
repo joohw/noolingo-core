@@ -1,0 +1,30 @@
+{
+  "dialog": {
+    "title": "Atalhos de teclado",
+    "description": "Use atalhos de teclado para melhorar a sua eficiência"
+  },
+  "category": {
+    "other": "Geral",
+    "deck": "Operações de caderno",
+    "read": "Operações de leitura",
+    "study": "Página de cartões"
+  },
+  "name": {
+    "TOGGLE_MASK": "Alternar máscara",
+    "OPEN_HELP": "Abrir ajuda",
+    "ADD_NOTE": "Adicionar nota",
+    "BATCH_ADD_NOTES": "Adicionar notas em lote",
+    "NEXT_CARD": "Cartão seguinte",
+    "PREVIOUS_CARD": "Cartão anterior",
+    "FLIP_CARD": "Virar cartão",
+    "REVEAL_OR_RATE": "Mostrar resposta/Confirmar classificação",
+    "SELECT_PREVIOUS": "Selecionar classificação anterior",
+    "SELECT_NEXT": "Selecionar classificação seguinte",
+    "RATE_HARD": "Difícil",
+    "RATE_GOOD": "Bom",
+    "RATE_AGAIN": "Outra vez",
+    "RATE_EASY": "Fácil",
+    "PAGE_UP": "Página anterior",
+    "PAGE_DOWN": "Página seguinte"
+  }
+}

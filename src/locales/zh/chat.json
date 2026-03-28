@@ -1,0 +1,17 @@
+{
+    "startConversation": "开始对话，问我任何问题...",
+    "inputPlaceholder": "输入消息...",
+    "introTitle": "AI 助手",
+    "introSubtitle": "我可以帮助你解答问题、提供建议、协助学习",
+    "examplesTitle": "示例提问：",
+    "example1": "如何用英文表达'精妙的'？",
+    "example2": "如何理解'量子纠缠'？",
+    "example3": "解释一下'相对论'的基本概念",
+    "options": {
+        "select": "选择",
+        "copy": "复制",
+        "remove": "移除消息",
+        "generateNotes": "生成笔记"
+    }
+}
+

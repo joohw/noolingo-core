@@ -1,0 +1,66 @@
+{
+  "acceptTo": "Accept",
+  "initialPage": "View Welcome Page",
+  "viewPrivacyPolicy": "Privacy Policy",
+  "acceptAndContinue": "I Agree",
+  "acceptToprivacy": "Privacy Policy and Terms of Service",
+  "privacyDialogDescription": "Before using our app, please read our Privacy Policy and Terms of Use to understand how we collect, use, and protect your data.",
+  "notNow": "Later",
+  "newUser": "New User",
+  "existingUser": "Sign In",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "skip": "Skip",
+  "signInWithGoogle": "Sign in with Google",
+  "signInWithEmail": "Sign in with Email",
+  "privacyAndTerms": "Privacy Policy and Terms of Service",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfService": "Terms of Service",
+  "page1": {
+    "title": "Welcome to noolingo",
+    "subtitle": "Use AI and memory algorithms to make learning simpler"
+  },
+  "page2": {
+    "title": "We've prepared a sample for you",
+    "subtitle": "Learn how noolingo can help you study and get started quickly"
+  },
+  "step1": {
+    "title": "Select Language",
+    "subtitle": "Choose your preferred interface language"
+  },
+  "step2": {
+    "title": "Select Theme",
+    "subtitle": "Choose your preferred interface theme"
+  },
+  "step3": {
+    "title": "AI Output Language",
+    "subtitle": "Choose the output language for AI assistant"
+  },
+  "step5": {
+    "title": "Start by Reshaping Your Notes",
+    "subtitle": "We combine cognitive science and AI technology to transform your notes into intelligent learning companions"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "Unlock all cloud services and experience a more efficient and effortless learning journey"
+  },
+  "sampleNote": {
+    "title": "Welcome to Noolingo",
+    "content": "At Noolingo, we track every learning feedback you provide and use it to deliver more precise learning guidance.\n\nYou can clearly see your mastery level through the color of each note. The algorithm schedules review times for this content, and you can also adjust them manually.\n\nNoolingo supports Markdown syntax with extensions. You can wrap important content with {{}} brackets, which will be hidden during review to easily strengthen active recall."
+  },
+  "button": {
+    "start": "Start",
+    "skipExample": "Skip Example",
+    "viewExample": "View Example"
+  },
+  "features": {
+    "create": "Create Knowledge Base",
+    "createDesc": "Easily create and manage your study notes and cards",
+    "review": "Smart Review",
+    "reviewDesc": "Intelligently plan review time based on FSRS algorithm",
+    "quiz": "Quiz Mode",
+    "quizDesc": "Identify knowledge gaps through quizzes and consolidate learning",
+    "progress": "Learning Progress",
+    "progressDesc": "Track learning outcomes and record growth trajectory"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "storageOverview": "存储概览",
+    "localStorage": "本地笔记",
+    "localNotes": "本地笔记",
+    "localNotesWithCount": "本地笔记: {{count}}条",
+    "syncedNotes": "已同步的笔记: {{count}}条",
+    "pendingNotes": "待同步的笔记",
+    "pendingNotesWithCount": "待同步的笔记: {{count}}条",
+    "usedSpace": "已用空间",
+    "dataManagement": "数据管理",
+    "backupData": "导出备份",
+    "importBackUp": "导入备份",
+    "clearLocalWarning": "这将永久删除所有本地笔记，此操作不可撤销。",
+    "exportExportError": "导出数据失败",
+    "backupExportSuccess": "备份导出成功",
+    "backupImportSuccess": "备份导入成功",
+    "backupImportError": "导入备份失败"
+}

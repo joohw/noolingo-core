@@ -1,0 +1,28 @@
+{
+  "mastery": "Mastery Level",
+  "cardState": "Card State:",
+  "nextReview": "Next Review Time:",
+  "difficulty": "Difficulty:",
+  "stability": "Stability:",
+  "lapses": "Lapses:",
+  "reps": "Reviews:",
+  "lastReview": "Days Since Last Review:",
+  "reviewLog": "Review Log:",
+  "na": "N/A",
+  "hoursLater": "hours later",
+  "times": "times",
+  "days": "days",
+  "noReviewRecord": "No review record",
+  "cardStates": {
+    "new": "New",
+    "learning": "Learning",
+    "review": "Reviewing",
+    "relearning": "Relearning"
+  },
+  "ratings": {
+    "again": "Again",
+    "hard": "Hard",
+    "good": "Good",
+    "easy": "Easy"
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "选择测验风格",
+    "description": "选择合适的测验风格满足您的学习需求",
+    "generatingQuestion": "正在生成...",
+    "regenerate": "重新生成",
+    "enterAnswer": "手动输入答案...",
+    "checkAnswer": "检查",
+    "multipleChoice": "[多选]",
+    "choice": "[单选]",
+    "trueFalse": "[判断]",
+    "fillBlank": "[填空]",
+    "aiDisclaimer": "内容由AI生成,请谨慎辨别",
+    "checking": "正在检查...",
+    "explanation": "解释",
+    "openOriginal": "查看原文",
+    "shareQuestion": "分享题目",
+    "shareError": "分享失败",
+    "noQuizText": "题目内容为空",
+    "copied": "已复制",
+    "copiedToClipboard": "题目已复制到剪贴板",
+    "markAsCorrect": "标记为正确",
+    "markAsWrong": "标记为错误",
+    "correctAnswer": "正确答案",
+    "correct": "正确",
+    "wrong": "错误",
+    "results": "测验结果",
+    "rating": "掌握程度",
+    "note": "笔记",
+    "mode": {
+        "comprehensive": {
+            "title": "综合",
+            "description": "生成知识关联、整体理解和应用能力的题目"
+        },
+        "memory": {
+            "title": "记忆",
+            "description": "生成信息补全、关键事实、顺序记忆和精确记忆等类型的题目"
+        },
+        "application": {
+            "title": "应用",
+            "description": "生成延伸应用、跨领域联系和实际场景应用等类型的题目"
+        },
+        "thinking": {
+            "title": "思考",
+            "description": "生成本质追问、批判性思维和逻辑分析等类型的题目"
+        }
+    },
+    "quota": {
+        "insufficient": "该功能本月使用次数已达上限",
+        "title": "智能问答额度",
+        "exceeded": "额度已用完",
+        "low": "剩余 {{remaining}} 次",
+        "remaining": "剩余 {{remaining}} 次",
+        "upgrade": "升级会员",
+        "getMore": "获取更多",
+        "upgradeToGetMore": "升级会员获取更多额度"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "tokens": "Saldo de tokens",
+  "coin": "Moeda",
+  "usage": "Uso de IA",
+  "optimizing": "A otimizar...",
+  "done": "Completo",
+  "noAIAvailable": "Nenhum modelo de IA disponível",
+  "quotaExceeded": "Quota mensal esgotada",
+  "quotaResetAt": "A quota será reposta em {{days}} dias.",
+  "usageDescription": "O uso de tokens varia com o comprimento do texto em cada pedido de IA",
+  "freeQuotaExceeded": "Quota de IA esgotada. Atualize a adesão para obter mais recursos de IA",
+  "proQuotaExceeded": "A sua quota mensal de IA foi esgotada",
+  "quotaExceededDialogTitle": "Quota esgotada",
+  "quotaExceededDialogMessage": "A sua quota de IA foi esgotada. Gostaria de ver os planos de adesão?",
+  "memberRequiredTitle": "Funcionalidade exclusiva para membros",
+  "memberRequiredMessage": "Esta funcionalidade requer uma adesão. Gostaria de ver os planos de adesão?",
+  "disclaimer": "Conteúdo gerado por IA. Por favor, use com precaução."
+}

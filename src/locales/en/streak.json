@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "Start Your Streak",
+  "todayTaskDescriptionEmpty": "Complete 20 learning sessions today to begin your learning streak",
+  "todayTaskStreak": "Keep It Going",
+  "todayTaskDescriptionStreak": "You're on a {{count}}-day streak! Complete today's goal to keep it alive",
+  "todayTaskStreakCompleted": "Streak Active",
+  "todayTaskDescriptionStreakCompleted": "Great job! Today's goal completed. You've been learning for {{count}} days straight! Keep it up tomorrow",
+  "todayTaskMediumStreak": "Stay Consistent",
+  "todayTaskDescriptionMediumStreak": "Great job! You've been learning for {{count}} days straight! Keep up this good habit",
+  "todayTaskMediumStreakCompleted": "Staying Strong",
+  "todayTaskDescriptionMediumStreakCompleted": "Today's goal completed! You've been learning for {{count}} days straight. Keep up this good habit",
+  "todayTaskLongStreak": "Long Streak",
+  "todayTaskDescriptionLongStreak": "Amazing {{count}}-day streak! Keep up the momentum and maintain your streak",
+  "todayTaskLongStreakCompleted": "Streak Master",
+  "todayTaskDescriptionLongStreakCompleted": "Incredible! Today's goal completed. You've been learning for {{count}} days straight! Keep up the momentum"
+}

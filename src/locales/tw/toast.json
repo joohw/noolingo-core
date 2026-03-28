@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "邀请码添加成功",
+  "gift_card_success": "礼品卡应用成功",
+  "feedback_success": "反馈提交成功",
+  "refreshSuccess": "刷新成功",
+  "authNeeded": "尚未登錄",
+  "notes_imported": "筆記導入成功",
+  "favoriteSuccess": "筆記已收藏成功",
+  "imageUploadSuccess": "图片上傳成功",
+  "textImportSuccess": "文本導入成功",
+  "fileImportError": "文件導入失敗",
+  "imageUploadError": "图片上傳失敗",
+  "copied": {
+    "html": "已複製为 HTML",
+    "text": "已複製文本",
+    "markdown": "已複製为 Markdown",
+    "invite": "邀请码已複製",
+    "cloud_id": "筆記id已複製",
+    "api_key": "ApiKey已複製",
+    "share_id": "分享码已複製"
+  },
+  "note": {
+    "created": "筆記已創建",
+    "updated": "筆記已更新",
+    "deleted": "筆記已刪除",
+    "moved": "筆記已移動",
+    "restored": "筆記已恢復",
+    "duplicated": "筆記已複製",
+    "favorited": "筆記已收藏",
+    "unfavorited": "已取消收藏",
+    "archived": "已归档",
+    "unarchived": "已取消归档",
+    "moved_to_trash": "筆記已移至废纸篓",
+    "unorganized_notes_cleared": "未分类的筆記已移除",
+    "clear_unorganized_failed": "清理未分类筆記失敗",
+    "history_cleared": "學習歷史已清空",
+    "permanently_deleted": "筆記已永久刪除",
+    "review_expedited": "已提前一天",
+    "review_postponed": "已推迟一天",
+    "copied_as_html": "已複製为 HTML",
+    "copied_as_text": "已複製文本",
+    "copied_as_markdown": "已複製为 Markdown",
+    "selected": "已選中",
+    "selected_mode": "已切换到多选模式",
+    "trash_cleared": "废纸篓已清空",
+    "marked_as_mastered": "已标记为掌握",
+    "no_cloud_id": "筆記还未同步到云端，无法获取id"
+  },
+  "deck": {
+    "created": "筆記本已創建",
+    "updated": "筆記本已更新",
+    "deleted": "筆記本已刪除",
+    "cleared": "筆記本已清空",
+    "shared": "筆記本已分享",
+    "unshared": "已取消分享",
+    "shareSuccess": "筆記本已分享",
+    "unshareSuccess": "已取消分享",
+    "shareError": "分享操作失敗",
+    "history_cleared": "學習歷史已清空",
+    "archived": "筆記本已归档",
+    "unarchived": "筆記本已取消归档",
+    "moved_to_trash": "筆記本已移至废纸篓",
+    "permanently_deleted": "筆記本已永久刪除",
+    "made_public": "筆記本已设为公开",
+    "made_private": "筆記本已设为私有"
+  },
+  "trash": {
+    "cleared": "废纸篓已清空"
+  },
+  "unorganized": {
+    "cleared": "未分类筆記已清空"
+  },
+  "error": {
+    "create_failed": "創建失敗",
+    "update_failed": "更新失敗",
+    "delete_failed": "刪除失敗",
+    "operation_failed": "操作失敗",
+    "sync_failed": "同步失敗",
+    "save_failed": "保存失敗",
+    "import": "導入失敗",
+    "parsing": "文件解析过程中发生錯誤",
+    "deck_creation": "創建筆記本失敗",
+    "unknown": "发生未知錯誤",
+    "duplicate_note": "已存在相同內容的筆記"
+  },
+  "study": {
+    "completed": "學習任务完成！",
+    "mastered": "已掌握此內容",
+    "next_review": "下次回顾時間已更新"
+  },
+  "success": {
+    "import": "導入成功",
+    "import_description": "成功導入 {count} 个筆記到"
+  },
+  "coin": {
+    "usage": "硬幣可以用來兌換AI Token"
+  }
+}

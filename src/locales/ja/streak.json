@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "連続記録を開始",
+  "todayTaskDescriptionEmpty": "今日20セッションの学習を完了して連続記録を始めましょう",
+  "todayTaskStreak": "続けましょう",
+  "todayTaskDescriptionStreak": "{{count}}日連続で学習中です！今日の目標を完了して記録を維持しましょう",
+  "todayTaskStreakCompleted": "連続記録アクティブ",
+  "todayTaskDescriptionStreakCompleted": "素晴らしい！今日の目標を完了しました。{{count}}日連続で学習しています！明日も続けましょう",
+  "todayTaskMediumStreak": "一貫性を保つ",
+  "todayTaskDescriptionMediumStreak": "素晴らしい！{{count}}日連続で学習しています！この良い習慣を続けましょう",
+  "todayTaskMediumStreakCompleted": "順調に継続中",
+  "todayTaskDescriptionMediumStreakCompleted": "今日の目標を完了しました！{{count}}日連続で学習しています。この良い習慣を続けましょう",
+  "todayTaskLongStreak": "長期連続記録",
+  "todayTaskDescriptionLongStreak": "驚異の{{count}}日連続記録！勢いを保って記録を維持しましょう",
+  "todayTaskLongStreakCompleted": "連続記録マスター",
+  "todayTaskDescriptionLongStreakCompleted": "信じられない！今日の目標を完了しました。{{count}}日連続で学習しています！勢いを保ちましょう"
+}

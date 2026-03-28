@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "Invite code successfully redeemed",
+  "gift_card_success": "Gift card successfully applied",
+  "feedback_success": "Thanks for your feedback!",
+  "refreshSuccess": "Refresh Success",
+  "authNeeded": "Not Logged In",
+  "notes_imported": "Notes imported successfully",
+  "favoriteSuccess": "Notes starred successfully",
+  "imageUploadSuccess": "Image uploaded successfully",
+  "textImportSuccess": "Text imported successfully",
+  "fileImportError": "File import failed",
+  "imageUploadError": "Image upload failed",
+  "copied": {
+    "html": "Copied as HTML",
+    "text": "Copied text",
+    "markdown": "Copied as Markdown",
+    "invite": "Invite code copied",
+    "cloud_id": "Note ID copied",
+    "api_key": "API Key copied",
+    "share_id": "Share code copied"
+  },
+  "note": {
+    "created": "Note created",
+    "updated": "Note updated",
+    "deleted": "Note deleted",
+    "moved": "Note moved",
+    "restored": "Note restored",
+    "duplicated": "Note duplicated",
+    "favorited": "Note favorited",
+    "unfavorited": "Favorited removed",
+    "archived": "Note archived",
+    "unarchived": "Note unarchived",
+    "moved_to_trash": "Note moved to trash",
+    "unorganized_notes_cleared": "Unorganized notes cleared",
+    "clear_unorganized_failed": "Failed to clear unorganized notes",
+    "history_cleared": "Study history cleared",
+    "permanently_deleted": "Note permanently deleted",
+    "review_expedited": "Review moved forward by one day",
+    "review_postponed": "Review postponed by one day",
+    "copied_as_html": "Copied as HTML",
+    "copied_as_text": "Copied text",
+    "copied_as_markdown": "Copied as Markdown",
+    "selected": "Selected",
+    "selected_mode": "Switched to multi-select mode",
+    "trash_cleared": "Trash cleared",
+    "marked_as_mastered": "Marked as mastered",
+    "no_cloud_id": "Note has not been synced to cloud, cannot get ID"
+  },
+  "deck": {
+    "created": "Notebook created",
+    "updated": "Notebook updated",
+    "deleted": "Notebook deleted",
+    "cleared": "Notebook cleared",
+    "shared": "Notebook shared",
+    "unshared": "Sharing canceled",
+    "shareSuccess": "Notebook shared",
+    "unshareSuccess": "Sharing canceled",
+    "shareError": "Share operation failed",
+    "history_cleared": "Study history cleared",
+    "archived": "Notebook archived",
+    "unarchived": "Notebook unarchived",
+    "moved_to_trash": "Notebook moved to trash",
+    "permanently_deleted": "Notebook permanently deleted",
+    "made_public": "Notebook set to public",
+    "made_private": "Notebook set to private"
+  },
+  "trash": {
+    "cleared": "Trash cleared"
+  },
+  "unorganized": {
+    "cleared": "Unorganized notes cleared"
+  },
+  "error": {
+    "create_failed": "Creation failed",
+    "update_failed": "Update failed",
+    "delete_failed": "Deletion failed",
+    "operation_failed": "Operation failed",
+    "sync_failed": "Sync failed",
+    "save_failed": "Save failed",
+    "import": "Import failed",
+    "parsing": "Error during file parsing",
+    "deck_creation": "Notebook creation failed",
+    "unknown": "An unknown error occurred",
+    "duplicate_note": "A note with the same content already exists"
+  },
+  "study": {
+    "completed": "Study task completed!",
+    "mastered": "Mastered this content",
+    "next_review": "Next review time updated"
+  },
+  "success": {
+    "import": "Import successful",
+    "import_description": "Successfully imported {count} notes to"
+  },
+  "coin": {
+    "usage": "Coins can be used to exchange for AI Tokens"
+  }
+}

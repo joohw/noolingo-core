@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "Código de convite utilizado com sucesso",
+  "gift_card_success": "Cartão presente aplicado com sucesso",
+  "feedback_success": "Obrigado pelos seus comentários!",
+  "refreshSuccess": "Atualização bem-sucedida",
+  "authNeeded": "Não conectado",
+  "notes_imported": "Notas importadas com sucesso",
+  "favoriteSuccess": "Notas marcadas com estrela com sucesso",
+  "imageUploadSuccess": "Imagem enviada com sucesso",
+  "textImportSuccess": "Texto importado com sucesso",
+  "fileImportError": "Erro ao importar arquivo",
+  "imageUploadError": "Erro ao enviar imagem",
+  "copied": {
+    "html": "Copiado como HTML",
+    "text": "Texto copiado",
+    "markdown": "Copiado como Markdown",
+    "invite": "Código de convite copiado",
+    "cloud_id": "ID da nota copiado",
+    "api_key": "Chave API copiada",
+    "share_id": "Código de compartilhamento copiado"
+  },
+  "note": {
+    "created": "Nota criada",
+    "updated": "Nota atualizada",
+    "deleted": "Nota excluída",
+    "moved": "Nota movida",
+    "restored": "Nota restaurada",
+    "duplicated": "Nota duplicada",
+    "favorited": "Nota marcada com estrela",
+    "unfavorited": "Estrela removida",
+    "archived": "Nota arquivada",
+    "unarchived": "Nota desarquivada",
+    "moved_to_trash": "Nota movida para a lixeira",
+    "unorganized_notes_cleared": "Notas não organizadas limpas",
+    "clear_unorganized_failed": "Erro ao limpar notas não organizadas",
+    "history_cleared": "Histórico de estudo limpo",
+    "permanently_deleted": "Nota excluída permanentemente",
+    "review_expedited": "Revisão adiantada um dia",
+    "review_postponed": "Revisão adiada um dia",
+    "copied_as_html": "Copiado como HTML",
+    "copied_as_text": "Texto copiado",
+    "copied_as_markdown": "Copiado como Markdown",
+    "selected": "Selecionado",
+    "selected_mode": "Mudado para modo de seleção múltipla",
+    "trash_cleared": "Lixeira limpa",
+    "marked_as_mastered": "Marcado como dominado",
+    "no_cloud_id": "A nota não foi sincronizada com a nuvem, não é possível obter o ID"
+  },
+  "deck": {
+    "created": "Caderno criado",
+    "updated": "Caderno atualizado",
+    "deleted": "Caderno excluído",
+    "cleared": "Caderno limpo",
+    "shared": "Caderno compartilhado",
+    "unshared": "Compartilhamento cancelado",
+    "shareSuccess": "Caderno compartilhado",
+    "unshareSuccess": "Compartilhamento cancelado",
+    "shareError": "Falha na operação de compartilhamento",
+    "history_cleared": "Histórico de estudo limpo",
+    "archived": "Caderno arquivado",
+    "unarchived": "Caderno desarquivado",
+    "moved_to_trash": "Caderno movido para a lixeira",
+    "permanently_deleted": "Caderno excluído permanentemente",
+    "made_public": "Caderno definido como público",
+    "made_private": "Caderno definido como privado"
+  },
+  "trash": {
+    "cleared": "Lixeira limpa"
+  },
+  "unorganized": {
+    "cleared": "Notas não organizadas limpas"
+  },
+  "error": {
+    "create_failed": "Erro ao criar",
+    "update_failed": "Erro ao atualizar",
+    "delete_failed": "Erro ao excluir",
+    "operation_failed": "Erro na operação",
+    "sync_failed": "Erro de sincronização",
+    "save_failed": "Erro ao salvar",
+    "import": "Erro ao importar",
+    "parsing": "Erro durante a análise do arquivo",
+    "deck_creation": "Erro ao criar caderno",
+    "unknown": "Ocorreu um erro desconhecido",
+    "duplicate_note": "Já existe uma nota com o mesmo conteúdo"
+  },
+  "study": {
+    "completed": "Tarefa de estudo concluída!",
+    "mastered": "Conteúdo dominado",
+    "next_review": "Tempo de revisão seguinte atualizado"
+  },
+  "success": {
+    "import": "Importação bem-sucedida",
+    "import_description": "{{count}} notas importadas com sucesso para"
+  },
+  "coin": {
+    "usage": "As moedas podem ser trocadas por tokens de IA"
+  }
+}

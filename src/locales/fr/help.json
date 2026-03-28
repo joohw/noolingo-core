@@ -1,0 +1,99 @@
+{
+  "noteHelp": "Comment prendre des notes",
+  "note": {
+    "slideTitle1": "Ajouter un titre et du contenu",
+    "slideDescription1": "Créez des cartes de connaissances concises avec support de la syntaxe Markdown",
+    "slideTitle2": "Ajouter un masquage de remplissage",
+    "slideDescription2": "Enveloppez le contenu avec la syntaxe {{}} pour masquer le contenu clé qui doit être mémorisé",
+    "slideTitle3": "Se souvenir en mode masquage",
+    "slideDescription3": "Cliquez sur le bouton en mode lecture ou en mode carte pour basculer l'effet d'affichage"
+  },
+  "wikiHelp": "Comment utiliser les liens Wiki",
+  "wiki": {
+    "slideTitle1": "Connectez vos notes",
+    "slideDescription1": "Connectez les points de connaissance avec des références bidirectionnelles et des références inline pour un accès facile",
+    "slideTitle2": "Références bidirectionnelles",
+    "slideDescription2": "Sélectionnez l'option de référence dans le menu, choisissez la note à référencer et créez une référence bidirectionnelle",
+    "slideTitle3": "Références inline",
+    "slideDescription3": "Enveloppez le titre d'une autre note avec la syntaxe [[]], cliquez pour accéder à la note correspondante"
+  },
+  "flashcardHelp": "Comment utiliser les cartes mémoire",
+  "flashcard": {
+    "slideTitle1": "Sélectionner la plage d'étude",
+    "slideDescription1": "Les notes archivées et les notes non encore dues n'apparaîtront pas dans la file d'étude.",
+    "slideTitle2": "Rappel actif",
+    "slideDescription2": "Rappelez le contenu masqué et évaluez votre maîtrise. Le système optimisera automatiquement la prochaine heure de révision en fonction de votre saisie.",
+    "slideTitle3": "Suivre les progrès d'apprentissage",
+    "slideDescription3": "Les indicateurs de couleur fournissent un aperçu intuitif de votre niveau de maîtrise actuel.",
+    "slideTitle4": "Suivre les progrès d'apprentissage",
+    "slideDescription4": "Les notes sont identifiées par différentes couleurs pour afficher le niveau de maîtrise. Le rouge indique qu'un renforcement est nécessaire, le vert indique la maîtrise, rendant la révision plus ciblée"
+  },
+  "quizHelp": "Comment utiliser les quiz",
+  "quiz": {
+    "slideTitle1": "Plage de quiz",
+    "slideDescription1": "Par défaut, les quiz incluent des notes récemment non testées, ou peuvent être configurés pour toutes les notes. Les notes avec images ne sont actuellement pas prises en charge",
+    "slideTitle2": "Style de quiz et types de questions",
+    "slideDescription2": "Sélectionne intelligemment les types de questions en fonction du contenu de vos notes et du style de quiz, y compris choix unique, choix multiple, remplissage de blancs et plus",
+    "slideTitle3": "Ignorer ou régénérer",
+    "slideDescription3": "Vous pouvez régénérer activement le quiz actuel ou ignorer la question actuelle. Le système optimisera automatiquement la difficulté du prochain quiz",
+    "slideTitle4": "Résultats du quiz",
+    "slideDescription4": "Après avoir terminé le quiz, vous pouvez voir les résultats et réviser les notes liées aux réponses incorrectes"
+  },
+  "syncHelp": "Comment synchroniser",
+  "sync": {
+    "slideTitle1": "Synchronisation automatique",
+    "slideDescription1": "Après la connexion, vos notes se synchronisent automatiquement avec le serveur lorsqu'elles sont mises à jour",
+    "slideTitle2": "Synchronisation manuelle",
+    "slideDescription2": "Après avoir modifié des notes sur d'autres appareils, vous pouvez synchroniser manuellement sur cet appareil ou attendre la synchronisation automatique"
+  },
+  "shareHelp": "Comment partager",
+  "share": {
+    "slideTitle1": "Partager des notes",
+    "slideDescription1": "Les notes synchronisées avec le cloud peuvent être rapidement partagées avec d'autres en utilisant la fonctionnalité de partage"
+  },
+  "cloudHelp": "Fonctionnalités Premium",
+  "cloud": {
+    "slideTitle1": "Capacité de synchronisation massive",
+    "slideDescription1": "Débloquez une capacité massive de notes cloud pour l'accès, le partage et la sauvegarde partout, à tout moment",
+    "slideTitle2": "Super assistant IA",
+    "slideDescription2": "Intégré avec les modèles de langage génératifs les plus avancés au monde pour améliorer votre parcours d'apprentissage",
+    "slideTitle3": "Insertion facile d'images et documents",
+    "slideDescription3": "Prise en charge des images, documents et divers formats pour créer des notes complètes et engageantes"
+  },
+  "curatedHelp": "Utiliser les collections",
+  "curated": {
+    "slideTitle1": "Parcourir les collections",
+    "slideDescription1": "Les collections sélectionnées présentent des notes de qualité soigneusement sélectionnées par les utilisateurs de Noolingo, organisées par sujet pour une découverte facile",
+    "slideTitle2": "Télécharger des notes",
+    "slideDescription2": "Cliquez sur n'importe quelle collection pour prévisualiser le contenu des notes, puis téléchargez dans votre carnet en un tap",
+    "slideTitle3": "Partager des notes",
+    "slideDescription3": "Activez le partage dans les paramètres du carnet et générez un code de partage. Vos notes de qualité peuvent apparaître dans les collections sélectionnées pour aider plus d'apprenants"
+  },
+  "sampleHelp": "Exemples",
+  "sampleTitle": "Obtenir des notes d'exemple",
+  "sampleDescription": "Commencez avec ces exemples pour construire votre base de connaissances",
+  "sampleSave": "Enregistrer les notes",
+  "caseDeck": "Notes d'exemple",
+  "tapToShow": "Taper pour révéler",
+  "tapToHide": "Taper pour masquer",
+  "saveSample": "Enregistrer les exemples",
+  "getNew": "Nouveau jeu",
+  "review": {
+    "title": "Mode d'étude",
+    "description": "Évaluez votre rappel - le système planifie automatiquement votre prochaine révision",
+    "showContent": "Révéler la réponse"
+  },
+  "mastery": {
+    "title": "Progrès",
+    "description": "Les couleurs montrent à quel point vous connaissez chaque note - mis à jour à chaque session d'étude"
+  },
+  "imageMaskHelp": "Comment utiliser le masquage d'images",
+  "imageMask": {
+    "slideTitle1": "Ajouter une image",
+    "slideDescription1": "Insérer des images dans les notes, prenant en charge plusieurs formats d'image",
+    "slideTitle2": "Ajouter une zone de masque",
+    "slideDescription2": "Dessiner des zones de masque sur les images pour masquer les informations clés à mémoriser",
+    "slideTitle3": "Se souvenir en mode masquage",
+    "slideDescription3": "En mode lecture ou étude, les zones de masque sont masquées pour vous aider à vous souvenir activement"
+  }
+}

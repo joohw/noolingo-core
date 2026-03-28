@@ -1,0 +1,98 @@
+{
+  "invite_code_success": "招待コードを正常に引き換えました",
+  "gift_card_success": "ギフトカードを正常に適用しました",
+  "feedback_success": "フィードバックありがとうございます！",
+  "refreshSuccess": "更新成功",
+  "authNeeded": "未ログイン",
+  "notes_imported": "ノートを正常にインポートしました",
+  "favoriteSuccess": "ノートをお気に入りに追加しました",
+  "imageUploadSuccess": "画像を正常にアップロードしました",
+  "textImportSuccess": "テキストを正常にインポートしました",
+  "fileImportError": "ファイルのインポートに失敗しました",
+  "imageUploadError": "画像のアップロードに失敗しました",
+  "copied": {
+    "html": "HTMLとしてコピーしました",
+    "text": "テキストをコピー",
+    "markdown": "Markdownとしてコピーしました",
+    "invite": "招待コードをコピーしました",
+    "cloud_id": "ノートIDをコピーしました",
+    "api_key": "APIキーをコピーしました",
+    "share_id": "共有コードをコピーしました"
+  },
+  "note": {
+    "created": "ノートを作成しました",
+    "updated": "ノートを更新しました",
+    "deleted": "ノートを削除しました",
+    "moved": "ノートを移動しました",
+    "restored": "ノートを復元しました",
+    "duplicated": "ノートを複製しました",
+    "favorited": "ノートをお気に入りに追加しました",
+    "unfavorited": "お気に入りを解除しました",
+    "archived": "ノートをアーカイブしました",
+    "unarchived": "ノートのアーカイブを解除しました",
+    "moved_to_trash": "ノートをゴミ箱に移動しました",
+    "unorganized_notes_cleared": "未整理のノートをクリアしました",
+    "clear_unorganized_failed": "未整理のノートのクリアに失敗しました",
+    "history_cleared": "学習履歴をクリアしました",
+    "permanently_deleted": "ノートを永久に削除しました",
+    "review_expedited": "復習を1日前に移動しました",
+    "review_postponed": "復習を1日後に延期しました",
+    "copied_as_html": "HTMLとしてコピーしました",
+    "copied_as_text": "テキストをコピー",
+    "copied_as_markdown": "Markdownとしてコピーしました",
+    "selected": "選択しました",
+    "selected_mode": "複数選択モードに切り替えました",
+    "trash_cleared": "ゴミ箱をクリアしました",
+    "marked_as_mastered": "習得済みとしてマークしました",
+    "no_cloud_id": "ノートがクラウドに同期されていないため、IDを取得できません"
+  },
+  "deck": {
+    "created": "ノートブックを作成しました",
+    "updated": "ノートブックを更新しました",
+    "deleted": "ノートブックを削除しました",
+    "cleared": "ノートブックをクリアしました",
+    "shared": "ノートブックを共有しました",
+    "unshared": "共有をキャンセルしました",
+    "shareSuccess": "ノートブックを共有しました",
+    "unshareSuccess": "共有をキャンセルしました",
+    "shareError": "共有操作に失敗しました",
+    "history_cleared": "学習履歴をクリアしました",
+    "archived": "ノートブックをアーカイブしました",
+    "unarchived": "ノートブックのアーカイブを解除しました",
+    "moved_to_trash": "ノートブックをゴミ箱に移動しました",
+    "permanently_deleted": "ノートブックを永久に削除しました",
+    "made_public": "ノートブックを公開に設定しました",
+    "made_private": "ノートブックを非公開に設定しました"
+  },
+  "trash": {
+    "cleared": "ゴミ箱をクリアしました"
+  },
+  "unorganized": {
+    "cleared": "未整理のノートをクリアしました"
+  },
+  "error": {
+    "create_failed": "作成に失敗しました",
+    "update_failed": "更新に失敗しました",
+    "delete_failed": "削除に失敗しました",
+    "operation_failed": "操作に失敗しました",
+    "sync_failed": "同期に失敗しました",
+    "save_failed": "保存に失敗しました",
+    "import": "インポートに失敗しました",
+    "parsing": "ファイル解析中にエラーが発生しました",
+    "deck_creation": "ノートブックの作成に失敗しました",
+    "unknown": "不明なエラーが発生しました",
+    "duplicate_note": "同じ内容のノートが既に存在します"
+  },
+  "study": {
+    "completed": "学習タスクを完了しました！",
+    "mastered": "このコンテンツを習得しました",
+    "next_review": "次の復習時間を更新しました"
+  },
+  "success": {
+    "import": "インポート成功",
+    "import_description": "{count}個のノートを正常にインポートしました"
+  },
+  "coin": {
+    "usage": "コインはAIトークンと交換できます"
+  }
+}

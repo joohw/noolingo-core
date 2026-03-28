@@ -1,0 +1,16 @@
+{
+  "startConversation": "대화를 시작하세요, 무엇이든 물어보세요...",
+  "inputPlaceholder": "메시지 입력...",
+  "introTitle": "AI 어시스턴트",
+  "introSubtitle": "질문에 답변하고, 제안을 제공하며, 학습을 도와드릴 수 있습니다",
+  "examplesTitle": "예시 질문:",
+  "example1": "'정교한'을 영어로 어떻게 표현하나요?",
+  "example2": "'양자 얽힘'을 어떻게 이해하나요?",
+  "example3": "'상대성이론'의 기본 개념을 설명해주세요",
+  "options": {
+    "select": "선택",
+    "copy": "복사",
+    "remove": "메시지 제거",
+    "generateNotes": "노트 생성"
+  }
+}

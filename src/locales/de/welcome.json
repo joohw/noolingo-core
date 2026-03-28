@@ -1,0 +1,66 @@
+{
+  "acceptTo": "Akzeptieren",
+  "initialPage": "Willkommensseite ansehen",
+  "viewPrivacyPolicy": "Datenschutzrichtlinie",
+  "acceptAndContinue": "Ich stimme zu",
+  "acceptToprivacy": "Datenschutzrichtlinie und Nutzungsbedingungen",
+  "privacyDialogDescription": "Bitte lesen Sie vor der Nutzung unserer App unsere Datenschutzrichtlinie und Nutzungsbedingungen, um zu verstehen, wie wir Ihre Daten sammeln, verwenden und schützen.",
+  "notNow": "Später",
+  "newUser": "Neuer Benutzer",
+  "existingUser": "Anmelden",
+  "signIn": "Anmelden",
+  "signUp": "Registrieren",
+  "skip": "Überspringen",
+  "signInWithGoogle": "Mit Google anmelden",
+  "signInWithEmail": "Mit E-Mail anmelden",
+  "privacyAndTerms": "Datenschutzrichtlinie und Nutzungsbedingungen",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "termsOfService": "Nutzungsbedingungen",
+  "page1": {
+    "title": "Willkommen bei noolingo",
+    "subtitle": "Nutzen Sie KI und Gedächtnisalgorithmen, um das Lernen einfacher zu machen"
+  },
+  "page2": {
+    "title": "Wir haben ein Beispiel für Sie vorbereitet",
+    "subtitle": "Erfahren Sie, wie noolingo Ihnen beim Lernen helfen kann und starten Sie schnell"
+  },
+  "step1": {
+    "title": "Sprache auswählen",
+    "subtitle": "Wählen Sie Ihre bevorzugte Interface-Sprache"
+  },
+  "step2": {
+    "title": "Thema auswählen",
+    "subtitle": "Wählen Sie Ihr bevorzugtes Interface-Thema"
+  },
+  "step3": {
+    "title": "KI-Ausgabesprache",
+    "subtitle": "Wählen Sie die Ausgabesprache für den KI-Assistenten"
+  },
+  "step5": {
+    "title": "Beginnen Sie mit der Umgestaltung Ihrer Notizen",
+    "subtitle": "Wir kombinieren Kognitionswissenschaft und KI-Technologie, um Ihre Notizen in intelligente Lernbegleiter zu verwandeln"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "Schalten Sie alle Cloud-Services frei und erleben Sie eine effizientere und mühelosere Lernreise"
+  },
+  "sampleNote": {
+    "title": "Willkommen bei Noolingo",
+    "content": "Bei Noolingo verfolgen wir jedes Lernfeedback, das Sie geben, und nutzen es, um präzisere Lernanleitung zu bieten.\n\nSie können Ihren Beherrschungsgrad klar an der Farbe jeder Notiz erkennen. Der Algorithmus plant Wiederholungszeiten für diese Inhalte, und Sie können diese auch manuell anpassen.\n\nNoolingo unterstützt Markdown-Syntax mit Erweiterungen. Sie können wichtige Inhalte mit {{}} umschließen, die während der Wiederholung ausgeblendet werden, um das aktive Abrufen leicht zu stärken."
+  },
+  "button": {
+    "start": "Starten",
+    "skipExample": "Beispiel überspringen",
+    "viewExample": "Beispiel ansehen"
+  },
+  "features": {
+    "create": "Wissensdatenbank erstellen",
+    "createDesc": "Erstellen und verwalten Sie Ihre Lernnotizen und Karten einfach",
+    "review": "Intelligente Wiederholung",
+    "reviewDesc": "Intelligente Planung der Wiederholungszeit basierend auf FSRS-Algorithmus",
+    "quiz": "Quiz-Modus",
+    "quizDesc": "Identifizieren Sie Wissenslücken durch Quizze und festigen Sie das Lernen",
+    "progress": "Lernfortschritt",
+    "progressDesc": "Verfolgen Sie Lernergebnisse und zeichnen Sie das Wachstum auf"
+  }
+}

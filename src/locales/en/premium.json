@@ -1,0 +1,92 @@
+{
+  "renew": "Renew",
+  "upgrade": "Upgrade",
+  "title": "Premium Membership",
+  "yearly": "Annual Subscription",
+  "currentStatus": "Current Membership Status",
+  "featuresIncluded": "Features Included",
+  "slogan": "Subscribe to Noolingo Pro",
+  "subtitle": "Unlock all restrictions, memorize more efficiently, and learn more easily",
+  "thanksFor": "Thank you for your support!",
+  "termsAgreement": "By subscribing, you agree to our Terms of Service",
+  "termsTitle": "Terms of Service",
+  "whatUsersSay": "What Users Say",
+  "letterToSubscribers": {
+    "title": "A Letter to Noolingo Users",
+    "content": "Paid subscriptions are Noolingo's only source of revenue. We chose this model because we want to focus on providing you with the best learning experience, rather than diverting our energy to explore other revenue channels.\n\nThis means you won't see any ads in Noolingo, we won't sell your data, and we won't profit from you in any other way. Every subscription you make is a vote of trust and support for our commitment to building the best learning tool.\n\nWe want you to be able to access your learning content on any device at any time. No matter which device you use, all Noolingo Pro benefits will sync, and even if your membership expires, your data always belongs to you and can be exported at any time.\n\nYour privacy is crucial to us. Noolingo promises never to sell or misuse your personal data. Your support drives our continuous innovation and service improvement, and we will always protect your privacy in the safest way possible."
+  },
+  "scanToPay": "Scan QR code to pay",
+  "testimonial": "Noolingo is the learning tool I've been looking for!",
+  "testimonials": {
+    "user1": {
+      "name": "Sarah",
+      "content": "Been using this for about a week now and honestly can't imagine going back to my old workflow. I was juggling between Notion for notes and Anki for spaced repetition, but this just does both so seamlessly. The interface is super clean - no clutter, no ads, just pure focus on learning."
+    },
+    "user2": {
+      "name": "Mike",
+      "content": "Game changer for my bar exam prep. I've been dumping all my case notes in here, and the spaced repetition algorithm is actually working. Can review during commutes, between classes, whenever I have 5 minutes. Way better than carrying around physical flashcards."
+    },
+    "user3": {
+      "name": "Emma",
+      "content": "Love how simple it is to just throw random thoughts and notes in here without worrying about formatting. Been using it for a month and the lifetime membership was totally worth it. The sync between my phone and laptop is flawless - never lost any progress."
+    },
+    "user4": {
+      "name": "Alex",
+      "content": "Found this app last month and it's become essential. I'm studying for my medical boards and need to memorize thousands of facts. Imported my study guides, and now I can review during downtime. The algorithm actually helps me focus on what I'm struggling with. Price is ridiculously good compared to other study apps."
+    },
+    "user5": {
+      "name": "David",
+      "content": "This solved a real problem for me. I was using Obsidian for notes but it's overkill, and Anki is just too complicated for quick capture. Noolingo hits that sweet spot - simple enough to use daily, powerful enough to actually help me retain information. Been using it daily for 3 weeks now."
+    }
+  },
+  "faqTitle": "Frequently Asked Questions",
+  "features": {
+    "sync": "Larger Sync Capacity",
+    "syncDesc": "After upgrading, the sync limit increases dramatically from 200 notes in the free version to 50,000 notes, with unlimited daily syncs. We will continue to expand capacity based on your needs, making your learning worry-free.",
+    "learningDataSync": "Learning Data Sync",
+    "learningDataSyncDesc": "Your learning progress, statistics, review records, and all other learning data are automatically synced to the cloud, allowing you to seamlessly switch between devices and continue learning anytime, anywhere.",
+    "ai": "Full access to AI features",
+    "aiDesc": "By subscribing to Noolingo Pro, you'll unlock full AI functionality, enjoy over 1000 AI uses per month, and automatically receive all future AI feature upgrades.",
+    "noAd": "Ad-free experience",
+    "noAdDesc": "We understand that focus is key to learning. Noolingo Pro guarantees a pure learning experience with no third-party ads, helping you fully immerse yourself in your studies.",
+    "more": "Data Security Assurance",
+    "moreDesc": "We want you to access your learning content on any device at any time. All Noolingo Pro benefits sync across your devices. Even if your membership expires, your data always belongs to you and can be exported anytime.",
+    "privacy": "Privacy Protection",
+    "privacyDesc": "Your privacy is crucial to us. Noolingo promises never to sell or misuse your personal data. Your support drives our continuous innovation and service improvement, and we will always protect your privacy in the safest way possible."
+  },
+  "faq": {
+    "q1": "What should I do if I encounter payment issues?",
+    "a1": "If you encounter any issues during payment, such as payment failure, duplicate charges, or questions about your bill, please contact us at support@noolingo.com. We will process your request as soon as possible after receiving your email, typically responding within 24 hours.",
+    "q2": "Do you support refunds?",
+    "a2": "We currently do not support refund services. If you encounter any issues during payment or use, or have special circumstances that require assistance, please feel free to contact us at support@noolingo.com, and we will do our best to help you resolve the issue."
+  },
+  "betaDescription": "Thank you for participating in our beta program!",
+  "expireDate": "Membership valid until {{date}}",
+  "current": "Current Version",
+  "earlyBirdPromo": "Early Bird Offer: Limited Time Special Price",
+  "failed": "Payment Failed",
+  "paidSuccess": "Payment Successful",
+  "paidSuccessDesc": "Thank you for your support! Your membership benefits have been activated",
+  "earlyBirdUpgrade": "Early Bird Special Upgrade",
+  "switchToLifetime": "View Lifetime Plans",
+  "switchToYearly": "Switch to Annual Plan",
+  "lifetimeSubscription": "Noolingo Lifetime Membership",
+  "earlyBirdYearlyPromo": "Limited Time Offer",
+  "earlyBirdLifetimePromo": "Early Bird Exclusive",
+  "earlyBirdDescription": "You are a seed user of noolingo",
+  "lifetimeMemberThanks": "Thank you for your support of early noolingo",
+  "freePlanDesc": "All basic features free forever",
+  "standardPlanDesc": "All features unlocked",
+  "permanentMember": "Permanent Member",
+  "earlyBirdUser": "Early Bird Member",
+  "proMemeber": "Premium Member",
+  "free_plan_desc": "Basic features free to use",
+  "currentTier": {
+    "free": "Base Version",
+    "pro": "Pro",
+    "lifetimePro": "Lifetime Pro",
+    "super": "Super",
+    "lifetimeSuper": "Lifetime Super"
+  },
+  "featuresTitle": "What You'll Get After Subscribing"
+}

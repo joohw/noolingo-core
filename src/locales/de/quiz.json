@@ -1,0 +1,57 @@
+{
+  "title": "Quiz-Stil auswählen",
+  "description": "Wählen Sie den passenden Quiz-Stil, um Ihren Lernbedürfnissen gerecht zu werden",
+  "generatingQuestion": "Quiz-Frage wird generiert...",
+  "regenerate": "Neu generieren",
+  "enterAnswer": "Geben Sie Ihre Antwort ein...",
+  "checkAnswer": "Prüfen",
+  "multipleChoice": "[Multiple Choice]",
+  "choice": "[Einzelauswahl]",
+  "trueFalse": "[Wahr/Falsch]",
+  "fillBlank": "[Lücken füllen]",
+  "aiDisclaimer": "Inhalt von KI generiert. Bitte mit Vorsicht verwenden.",
+  "checking": "Wird geprüft...",
+  "explanation": "Erklärung",
+  "openOriginal": "Original ansehen",
+  "shareQuestion": "Frage teilen",
+  "shareError": "Teilen fehlgeschlagen",
+  "noQuizText": "Frageninhalt ist leer",
+  "copied": "Kopiert",
+  "copiedToClipboard": "Frage in die Zwischenablage kopiert",
+  "markAsCorrect": "Als richtig markieren",
+  "markAsWrong": "Als falsch markieren",
+  "correctAnswer": "Richtige Antwort",
+  "correct": "Richtig",
+  "wrong": "Falsch",
+  "results": "Quiz-Ergebnisse",
+  "rating": "Kompetenz",
+  "note": "Notizen",
+  "mode": {
+    "comprehensive": {
+      "title": "Umfassend",
+      "description": "Generiert Fragen zu Wissensverbindungen, Gesamtverständnis und Anwendungsfähigkeiten, um ein vollständiges Wissensgerüst aufzubauen"
+    },
+    "memory": {
+      "title": "Gedächtnis",
+      "description": "Generiert Fragen zu Informationsergänzung, Schlüsselfakten, sequenzieller Erinnerung und präziser Erinnerung, um die Beibehaltung wichtiger Informationen zu stärken"
+    },
+    "application": {
+      "title": "Anwendung",
+      "description": "Generiert Fragen zu erweiterten Anwendungen, domänenübergreifenden Verbindungen und realen Szenarien, um innovatives Denken zu fördern"
+    },
+    "thinking": {
+      "title": "Denken",
+      "description": "Generiert Fragen zu wesentlichen Anfragen, kritischem Denken und logischer Analyse, um das Wesen des Wissens und logische Strukturen zu erkunden"
+    }
+  },
+  "quota": {
+    "insufficient": "Monatliches Nutzungslimit für diese Funktion wurde erreicht",
+    "title": "Smart Quiz Kontingent",
+    "exceeded": "Kontingent erschöpft",
+    "low": "{{remaining}} verbleibend",
+    "remaining": "{{remaining}} verbleibend",
+    "upgrade": "Mitgliedschaft upgraden",
+    "getMore": "Mehr erhalten",
+    "upgradeToGetMore": "Mitgliedschaft upgraden, um mehr Kontingent zu erhalten"
+  }
+}

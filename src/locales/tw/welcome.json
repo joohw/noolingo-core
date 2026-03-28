@@ -1,0 +1,66 @@
+{
+  "acceptTo": "接受",
+  "initialPage": "查看欢迎页",
+  "viewPrivacyPolicy": "隐私政策",
+  "acceptAndContinue": "我同意",
+  "acceptToprivacy": "隐私政策和使用条款",
+  "privacyDialogDescription": "在使用我们的应用前，请阅读我们的隐私政策和使用条款，了解我们如何收集、使用和保护您的數據。",
+  "notNow": "暂不同意",
+  "newUser": "新用戶",
+  "existingUser": "登錄账号",
+  "signIn": "登錄",
+  "signUp": "註冊",
+  "skip": "跳过",
+  "signInWithGoogle": "使用Google账号登錄",
+  "signInWithEmail": "使用邮箱登錄",
+  "privacyAndTerms": "隐私政策和使用条款",
+  "privacyPolicy": "隐私政策",
+  "termsOfService": "使用条款",
+  "page1": {
+    "title": "欢迎来到 noolingo ",
+    "subtitle": "用AI和记忆算法，让學習更简单"
+  },
+  "page2": {
+    "title": "我们精心准备了一份示例",
+    "subtitle": "了解 noolingo 如何帮助你學習，并且快速上手"
+  },
+  "step1": {
+    "title": "選擇語言",
+    "subtitle": "選擇您偏好的介面語言"
+  },
+  "step2": {
+    "title": "選擇主題",
+    "subtitle": "選擇您偏好的介面主題"
+  },
+  "step3": {
+    "title": "AI 輸出語言",
+    "subtitle": "選擇 AI 助手的輸出語言"
+  },
+  "step5": {
+    "title": "從重塑筆記開始",
+    "subtitle": "我們結合認知科學和AI技術，將您的筆記轉變成智能的學習幫手"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "解鎖所有雲服務，體驗更高效、更輕鬆的學習體驗"
+  },
+  "sampleNote": {
+    "title": "歡迎來到Noolingo",
+    "content": "在Noolingo，我們會追蹤您的每一次學習反饋，並據此提供更精準的學習輔導。\n\n通過每篇筆記的顏色就可以清晰地判斷出掌握程度，算法會安排這些內容的複習時間，您也可以手動調整。\n\nNoolingo支持Markdown語法並進行了擴展。您可以將重點內容用{{}}包裹，複習時會隱藏，輕鬆強化主動回憶。"
+  },
+  "button": {
+    "start": "開始",
+    "skipExample": "跳过示例",
+    "viewExample": "查看示例"
+  },
+  "features": {
+    "create": "創建知识库",
+    "createDesc": "轻松創建和管理你的學習筆記和卡片",
+    "review": "科学复习",
+    "reviewDesc": "基于FSRS算法，智能规划复习時間",
+    "quiz": "测验模式",
+    "quizDesc": "通过测验查漏补缺，巩固學習成果",
+    "progress": "學習进度",
+    "progressDesc": "追踪學習成果，記錄成长轨迹"
+  }
+}

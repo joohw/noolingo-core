@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "通知权限",
+  "permissionDescription": "为了及时提醒您复习进度，我们需要获取通知权限。是否允许發送通知？",
+  "reviewTimingTitle": "開啟复习提醒",
+  "reviewTimingDescription": "開啟复习提醒，幫助您養成持續學習習慣，學習完成率提升26%",
+  "testTitle": "通知設置成功 🎯",
+  "testBody": "您将在设定時間收到复习提醒",
+  "reviewReminderTitle": "复习時間到",
+  "reviewReminderBody": "学而时习之，不亦说乎？",
+  "reviewReminderBodyTomorrow": "温故而知新，可以为师矣。",
+  "reviewReminderBodyDayAfter": "读书破万卷，下笔如有神。",
+  "reviewReminderBodyThreeDays": "书山有路勤为径，学海无涯苦作舟。",
+  "reviewReminderBodyOneWeek": "宝剑锋从磨砺出，梅花香自苦寒来。",
+  "reviewReminderBodyTwoWeeks": "千淘万漉虽辛苦，吹尽狂沙始到金。",
+  "reviewReminderBodyOneMonth": "路漫漫其修远兮，吾将上下而求索。"
+}

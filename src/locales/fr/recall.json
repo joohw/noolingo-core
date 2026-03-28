@@ -1,0 +1,28 @@
+{
+  "mastery": "Niveau de maîtrise",
+  "cardState": "État de la carte :",
+  "nextReview": "Prochaine révision :",
+  "difficulty": "Difficulté :",
+  "stability": "Stabilité :",
+  "lapses": "Oublis :",
+  "reps": "Révisions :",
+  "lastReview": "Jours depuis la dernière révision :",
+  "reviewLog": "Journal de révision :",
+  "na": "Non disponible",
+  "hoursLater": "heures plus tard",
+  "times": "fois",
+  "days": "jours",
+  "noReviewRecord": "Aucun enregistrement de révision",
+  "cardStates": {
+    "new": "Nouveau",
+    "learning": "Apprentissage",
+    "review": "Révision",
+    "relearning": "Réapprentissage"
+  },
+  "ratings": {
+    "again": "Encore",
+    "hard": "Difficile",
+    "good": "Bien",
+    "easy": "Facile"
+  }
+}

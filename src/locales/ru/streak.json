@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "Начните вашу серию",
+  "todayTaskDescriptionEmpty": "Выполните 20 сессий обучения сегодня, чтобы начать вашу серию обучения",
+  "todayTaskStreak": "Продолжайте",
+  "todayTaskDescriptionStreak": "У вас серия из {{count}} дней! Выполните цель на сегодня, чтобы сохранить её",
+  "todayTaskStreakCompleted": "Серия активна",
+  "todayTaskDescriptionStreakCompleted": "Отличная работа! Цель на сегодня выполнена. Вы учились {{count}} дней подряд! Продолжайте завтра",
+  "todayTaskMediumStreak": "Оставайтесь последовательными",
+  "todayTaskDescriptionMediumStreak": "Отличная работа! Вы учились {{count}} дней подряд! Продолжайте эту хорошую привычку",
+  "todayTaskMediumStreakCompleted": "Остаётесь сильными",
+  "todayTaskDescriptionMediumStreakCompleted": "Цель на сегодня выполнена! Вы учились {{count}} дней подряд. Продолжайте эту хорошую привычку",
+  "todayTaskLongStreak": "Длинная серия",
+  "todayTaskDescriptionLongStreak": "Удивительная серия из {{count}} дней! Продолжайте импульс и поддерживайте вашу серию",
+  "todayTaskLongStreakCompleted": "Мастер серии",
+  "todayTaskDescriptionLongStreakCompleted": "Невероятно! Цель на сегодня выполнена. Вы учились {{count}} дней подряд! Продолжайте импульс"
+}

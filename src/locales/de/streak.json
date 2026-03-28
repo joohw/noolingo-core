@@ -1,0 +1,16 @@
+{
+  "todayTaskEmpty": "Serie starten",
+  "todayTaskDescriptionEmpty": "Vervollständigen Sie heute 20 Lerneinheiten, um Ihre Lernserie zu beginnen",
+  "todayTaskStreak": "Weiter so",
+  "todayTaskDescriptionStreak": "Sie haben {{count}} Tage am Stück gelernt! Vervollständigen Sie das heutige Ziel, um es am Leben zu erhalten",
+  "todayTaskStreakCompleted": "Serie aktiv",
+  "todayTaskDescriptionStreakCompleted": "Großartige Arbeit! Heutiges Ziel erreicht. Sie haben {{count}} Tage am Stück gelernt! Machen Sie morgen weiter",
+  "todayTaskMediumStreak": "Konsistent bleiben",
+  "todayTaskDescriptionMediumStreak": "Großartige Arbeit! Sie haben {{count}} Tage am Stück gelernt! Behalten Sie diese gute Gewohnheit bei",
+  "todayTaskMediumStreakCompleted": "Stark bleiben",
+  "todayTaskDescriptionMediumStreakCompleted": "Heutiges Ziel erreicht! Sie haben {{count}} Tage am Stück gelernt. Behalten Sie diese gute Gewohnheit bei",
+  "todayTaskLongStreak": "Lange Serie",
+  "todayTaskDescriptionLongStreak": "Erstaunliche {{count}}-Tage-Serie! Behalten Sie den Schwung bei und halten Sie Ihre Serie aufrecht",
+  "todayTaskLongStreakCompleted": "Serien-Meister",
+  "todayTaskDescriptionLongStreakCompleted": "Unglaublich! Heutiges Ziel erreicht. Sie haben {{count}} Tage am Stück gelernt! Behalten Sie den Schwung bei"
+}

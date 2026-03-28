@@ -1,0 +1,18 @@
+{
+  "storageOverview": "저장소 개요",
+  "localStorage": "로컬",
+  "localNotes": "로컬 노트",
+  "localNotesWithCount": "로컬 노트: {{count}}",
+  "syncedNotes": "동기화된 노트: {{count}}",
+  "pendingNotes": "대기 중인 노트",
+  "pendingNotesWithCount": "대기 중인 노트: {{count}}",
+  "usedSpace": "사용된 공간",
+  "dataManagement": "데이터 관리",
+  "backupData": "백업 데이터",
+  "importBackUp": "백업 가져오기",
+  "clearLocalWarning": "이렇게 하면 모든 로컬 노트가 영구적으로 삭제되며 취소할 수 없습니다.",
+  "exportExportError": "데이터 내보내기 실패",
+  "backupExportSuccess": "백업이 성공적으로 내보내졌습니다",
+  "backupImportSuccess": "백업이 성공적으로 가져와졌습니다",
+  "backupImportError": "백업 가져오기 실패"
+}

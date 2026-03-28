@@ -1,0 +1,19 @@
+{
+  "newbie_create_first_note": "Create First Note",
+  "newbie_add_tag": "Add Tag",
+  "newbie_complete_first_review": "Complete First Review",
+  "newbie_master_1_note": "Master 1 Note",
+  "daily_review_20_notes": "Review 20 Notes",
+  "daily_create_3_notes": "Create 3 Notes",
+  "invite_friends_1": "Invite 1 Friend",
+  "invite_friends_3": "Invite 3 Friends",
+  "invite_friends_6": "Invite 6 Friends",
+  "invite_friends_12": "Invite 12 Friends",
+  "rewardClaimed": "Reward claimed successfully!",
+  "challenge": {
+    "invite": "Invite Challenge",
+    "newbie": "Newbie Challenges",
+    "daily": "Daily Challenges",
+    "limited": "Limited Challenges"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "noteHelp": "How to Take Notes",
+  "note": {
+    "slideTitle1": "Add title and content",
+    "slideDescription1": "Create concise knowledge cards with Markdown syntax support",
+    "slideTitle2": "Add blank masking",
+    "slideDescription2": "Wrap content with {{}} syntax to mask key content that needs to be memorized",
+    "slideTitle3": "Recall in masking mode",
+    "slideDescription3": "Click the button in reading mode or flashcard mode to toggle the display effect"
+  },
+  "wikiHelp": "How to Use Wiki Links",
+  "wiki": {
+    "slideTitle1": "Connect Your Notes",
+    "slideDescription1": "Connect knowledge points together with bidirectional references and inline references for easy access",
+    "slideTitle2": "Bidirectional References",
+    "slideDescription2": "Select the reference option from the menu, choose the note to reference, and create a bidirectional reference",
+    "slideTitle3": "Inline References",
+    "slideDescription3": "Wrap another note's title with [[]] syntax, click to jump to the corresponding note"
+  },
+  "flashcardHelp": "How to Use Flashcards",
+  "flashcard": {
+    "slideTitle1": "Select Study Range",
+    "slideDescription1": "Archived notes and notes not yet due will not appear in the study queue.",
+    "slideTitle2": "Active Recall",
+    "slideDescription2": "Recall the masked content and assess your mastery. The system will automatically optimize the next review time based on your input.",
+    "slideTitle3": "Track Learning Progress",
+    "slideDescription3": "Colour indicators provide an intuitive overview of your current mastery level.",
+    "slideTitle4": "Track Learning Progress",
+    "slideDescription4": "Colour indicators provide an intuitive overview of your current mastery level."
+  },
+  "quizHelp": "How to Use Quizzes",
+  "quiz": {
+    "slideTitle1": "Quiz Range",
+    "slideDescription1": "By default, quizzes include recently untested notes, or can be set to all notes. Image notes are currently not supported",
+    "slideTitle2": "Quiz Style & Question Types",
+    "slideDescription2": "Intelligently selects question types based on your note content and quiz style, including single choice, multiple choice, fill-in-the-blank, and more",
+    "slideTitle3": "Skip or Regenerate",
+    "slideDescription3": "You can actively regenerate the current quiz or skip the current question. The system will automatically optimize the difficulty of the next quiz",
+    "slideTitle4": "Quiz Results",
+    "slideDescription4": "After completing the quiz, you can view the results and review notes related to incorrect answers"
+  },
+  "syncHelp": "How to Sync",
+  "sync": {
+    "slideTitle1": "Auto-Sync",
+    "slideDescription1": "After signing in, your notes automatically sync to the server when updated",
+    "slideTitle2": "Manual Sync",
+    "slideDescription2": "After modifying notes on other devices, you can manually sync on this device or wait for auto-sync"
+  },
+  "shareHelp": "How to Share",
+  "share": {
+    "slideTitle1": "Share Notes",
+    "slideDescription1": "Notes synced to the cloud can be quickly shared with others using the share feature"
+  },
+  "cloudHelp": "Premium Features",
+  "cloud": {
+    "slideTitle1": "Massive Sync Capacity",
+    "slideDescription1": "Unlock massive cloud note capacity for access, sharing, and backup anywhere, anytime",
+    "slideTitle2": "Super AI Assistant",
+    "slideDescription2": "Integrated with the world's most advanced generative language models to enhance your learning journey",
+    "slideTitle3": "Easy Image & Document Insertion",
+    "slideDescription3": "Support for images, documents, and various formats to create complete, engaging notes"
+  },
+  "curatedHelp": "Using Collections",
+  "curated": {
+    "slideTitle1": "Browse Collections",
+    "slideDescription1": "Curated collections feature quality notes carefully selected by Noolingo users, organized by topic for easy discovery",
+    "slideTitle2": "Download Notes",
+    "slideDescription2": "Click any collection to preview note content, then download to your notebook with one tap",
+    "slideTitle3": "Share Notes",
+    "slideDescription3": "Enable sharing in notebook settings and generate a share code. Your quality notes may appear in curated collections to help more learners"
+  },
+  "sampleHelp": "Examples",
+  "sampleTitle": "Get Sample Notes",
+  "sampleDescription": "Start with these examples to build your knowledge base",
+  "sampleSave": "Save Notes",
+  "caseDeck": "Sample Notes",
+  "tapToShow": "Tap to Reveal",
+  "tapToHide": "Tap to Hide",
+  "saveSample": "Save Examples",
+  "getNew": "New Set",
+  "review": {
+    "title": "Study Mode",
+    "description": "Rate your recall - the system schedules your next review automatically",
+    "showContent": "Reveal Answer"
+  },
+  "mastery": {
+    "title": "Progress",
+    "description": "Colours show how well you know each note - updated with every study session"
+  },
+  "imageMaskHelp": "How to use image masking",
+  "imageMask": {
+    "slideTitle1": "Add image",
+    "slideDescription1": "Insert images in notes, supporting multiple image formats",
+    "slideTitle2": "Add mask area",
+    "slideDescription2": "Draw mask areas on images to hide key information that needs to be memorized",
+    "slideTitle3": "Recall in masking mode",
+    "slideDescription3": "In reading or study mode, mask areas are hidden to help you actively recall"
+  }
+}

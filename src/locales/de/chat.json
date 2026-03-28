@@ -1,0 +1,16 @@
+{
+  "startConversation": "Beginnen Sie ein Gespräch, fragen Sie mich alles...",
+  "inputPlaceholder": "Nachricht eingeben...",
+  "introTitle": "KI-Assistent",
+  "introSubtitle": "Ich kann Ihnen bei der Beantwortung von Fragen helfen, Vorschläge machen und beim Lernen unterstützen",
+  "examplesTitle": "Beispielfragen:",
+  "example1": "Wie sagt man 'exquisit' auf Englisch?",
+  "example2": "Wie versteht man 'Quantenverschränkung'?",
+  "example3": "Erklären Sie das Grundkonzept der 'Relativitätstheorie'",
+  "options": {
+    "select": "Auswählen",
+    "copy": "Kopieren",
+    "remove": "Nachricht entfernen",
+    "generateNotes": "Notizen generieren"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tokens": "토큰 잔액",
+  "coin": "코인",
+  "usage": "AI 사용량",
+  "optimizing": "최적화 중...",
+  "done": "완료",
+  "noAIAvailable": "사용 가능한 AI 모델이 없습니다",
+  "quotaExceeded": "월간 할당량이 소진되었습니다",
+  "quotaResetAt": "할당량은 {{days}}일 후에 재설정됩니다.",
+  "usageDescription": "토큰 사용량은 각 AI 요청의 텍스트 길이에 따라 다릅니다",
+  "freeQuotaExceeded": "AI 할당량이 소진되었습니다. 멤버십을 업그레이드하여 더 많은 AI 기능을 받으세요",
+  "proQuotaExceeded": "월간 AI 할당량이 소진되었습니다",
+  "quotaExceededDialogTitle": "할당량 소진",
+  "quotaExceededDialogMessage": "AI 할당량이 소진되었습니다. 멤버십 플랜을 보시겠습니까?",
+  "memberRequiredTitle": "회원 전용 기능",
+  "memberRequiredMessage": "이 기능은 멤버십이 필요합니다. 멤버십 플랜을 보시겠습니까?",
+  "disclaimer": "AI가 생성한 콘텐츠입니다. 주의해서 사용하세요."
+}

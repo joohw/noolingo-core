@@ -1,0 +1,20 @@
+{
+  "selectMethod": "Zahlungsmethode auswählen",
+  "wechat": "WeChat Pay",
+  "alipay": "Alipay",
+  "stripe": "Kreditkarte",
+  "timeout": "Zahlungszeitüberschreitung, bitte versuchen Sie es erneut",
+  "alipayRedirect": "Weiterleitung zur Alipay-Zahlungsseite, bitte kehren Sie nach Abschluss der Zahlung zurück",
+  "alipayTitle": "Alipay-Zahlung",
+  "alipayHint": "Bitte schließen Sie die Zahlung im neuen Fenster ab. Nach der Zahlung wird die Bestellung automatisch bestätigt.",
+  "creating": "Zahlungsauftrag wird erstellt...",
+  "failed": "Fehler beim Erstellen des Zahlungsauftrags",
+  "invalid_plan": "Ungültiger Plan ausgewählt",
+  "user_not_found": "Benutzer nicht gefunden",
+  "alsoAvailable": "Sie können Ihren Kauf auch im App Store abschließen",
+  "appStoreHint": "Schließen Sie Ihren Kauf im App Store oder Play Store ab",
+  "masErrorHint": "Bitte schließen Sie Ihr Abonnement über In-App-Käufe ab",
+  "stripeTitle": "Stripe-Zahlung",
+  "stripeRedirect": "Bitte schließen Sie die Zahlung im neuen Fenster ab. Nach der Zahlung wird der Bestellstatus automatisch aktualisiert.",
+  "stripeHint": "Wenn das Zahlungsfenster geschlossen ist, können Sie den Bestellstatus manuell überprüfen."
+}

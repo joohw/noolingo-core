@@ -1,0 +1,18 @@
+{
+  "storageOverview": "Speicherübersicht",
+  "localStorage": "Lokal",
+  "localNotes": "Lokale Notizen",
+  "localNotesWithCount": "Lokale Notizen: {{count}}",
+  "syncedNotes": "Synchronisierte Notizen: {{count}}",
+  "pendingNotes": "Ausstehende Notizen",
+  "pendingNotesWithCount": "Ausstehende Notizen: {{count}}",
+  "usedSpace": "Verwendeter Speicherplatz",
+  "dataManagement": "Datenverwaltung",
+  "backupData": "Daten sichern",
+  "importBackUp": "Sicherung importieren",
+  "clearLocalWarning": "Dies löscht alle lokalen Notizen dauerhaft und kann nicht rückgängig gemacht werden.",
+  "exportExportError": "Datenexport fehlgeschlagen",
+  "backupExportSuccess": "Sicherung erfolgreich exportiert",
+  "backupImportSuccess": "Sicherung erfolgreich importiert",
+  "backupImportError": "Sicherungsimport fehlgeschlagen"
+}

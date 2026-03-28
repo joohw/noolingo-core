@@ -1,0 +1,16 @@
+{
+  "startConversation": "Start a conversation, ask me anything...",
+  "inputPlaceholder": "Type a message...",
+  "introTitle": "AI Assistant",
+  "introSubtitle": "I can help you answer questions, provide suggestions, and assist with learning",
+  "examplesTitle": "Example questions:",
+  "example1": "How to say 'exquisite' in Spanish?",
+  "example2": "How to understand 'quantum entanglement'?",
+  "example3": "Explain the basic concept of 'relativity'",
+  "options": {
+    "select": "Select",
+    "copy": "Copy",
+    "remove": "Remove message",
+    "generateNotes": "Generate Notes"
+  }
+}

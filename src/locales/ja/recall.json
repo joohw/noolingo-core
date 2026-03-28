@@ -1,0 +1,28 @@
+{
+  "mastery": "習熟度",
+  "cardState": "カード状態:",
+  "nextReview": "次の復習時間:",
+  "difficulty": "難易度:",
+  "stability": "安定性:",
+  "lapses": "失敗:",
+  "reps": "復習:",
+  "lastReview": "最終復習からの日数:",
+  "reviewLog": "復習ログ:",
+  "na": "N/A",
+  "hoursLater": "時間後",
+  "times": "回",
+  "days": "日",
+  "noReviewRecord": "復習記録なし",
+  "cardStates": {
+    "new": "新規",
+    "learning": "学習中",
+    "review": "復習中",
+    "relearning": "再学習中"
+  },
+  "ratings": {
+    "again": "もう一度",
+    "hard": "難しい",
+    "good": "良い",
+    "easy": "簡単"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Sélectionner le style de quiz",
+  "description": "Choisissez le style de quiz approprié pour répondre à vos besoins d'apprentissage",
+  "generatingQuestion": "Génération de la question de quiz...",
+  "regenerate": "Régénérer",
+  "enterAnswer": "Entrez votre réponse...",
+  "checkAnswer": "Vérifier",
+  "multipleChoice": "[Choix multiples]",
+  "choice": "[Choix unique]",
+  "trueFalse": "[Vrai/Faux]",
+  "fillBlank": "[Remplir les blancs]",
+  "aiDisclaimer": "Contenu généré par IA. Veuillez utiliser avec prudence.",
+  "checking": "Vérification...",
+  "explanation": "Explication",
+  "openOriginal": "Voir l'original",
+  "shareQuestion": "Partager la question",
+  "shareError": "Échec du partage",
+  "noQuizText": "Le contenu de la question est vide",
+  "copied": "Copié",
+  "copiedToClipboard": "Question copiée dans le presse-papiers",
+  "markAsCorrect": "Marquer comme correct",
+  "markAsWrong": "Marquer comme incorrect",
+  "correctAnswer": "Bonne réponse",
+  "correct": "Correct",
+  "wrong": "Incorrect",
+  "results": "Résultats du quiz",
+  "rating": "Compétence",
+  "note": "Notes",
+  "mode": {
+    "comprehensive": {
+      "title": "Complet",
+      "description": "Génère des questions sur les connexions de connaissances, la compréhension globale et les compétences d'application pour aider à construire un cadre de connaissances complet"
+    },
+    "memory": {
+      "title": "Mémoire",
+      "description": "Génère des questions sur la complétion d'informations, les faits clés, la mémoire séquentielle et le rappel précis pour renforcer la rétention d'informations clés"
+    },
+    "application": {
+      "title": "Application",
+      "description": "Génère des questions sur l'application étendue, les connexions inter-domaines et les scénarios réels pour favoriser la pensée innovante"
+    },
+    "thinking": {
+      "title": "Réflexion",
+      "description": "Génère des questions sur l'enquête essentielle, la pensée critique et l'analyse logique pour explorer l'essence de la connaissance et les structures logiques"
+    }
+  },
+  "quota": {
+    "insufficient": "La limite d'utilisation mensuelle de cette fonctionnalité a été atteinte",
+    "title": "Quota de quiz intelligent",
+    "exceeded": "Quota épuisé",
+    "low": "{{remaining}} restant",
+    "remaining": "{{remaining}} restant",
+    "upgrade": "Mettre à niveau l'adhésion",
+    "getMore": "Obtenir plus",
+    "upgradeToGetMore": "Mettre à niveau l'adhésion pour obtenir plus de quota"
+  }
+}

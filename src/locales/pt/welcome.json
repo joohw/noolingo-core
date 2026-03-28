@@ -1,0 +1,66 @@
+{
+  "acceptTo": "Aceitar",
+  "initialPage": "Ver página de boas-vindas",
+  "viewPrivacyPolicy": "Política de privacidade",
+  "acceptAndContinue": "Aceito",
+  "acceptToprivacy": "Política de privacidade e Termos de serviço",
+  "privacyDialogDescription": "Antes de usar a nossa aplicação, por favor leia a nossa Política de privacidade e Termos de uso para entender como recolhemos, usamos e protegemos os seus dados.",
+  "notNow": "Mais tarde",
+  "newUser": "Utilizador novo",
+  "existingUser": "Iniciar sessão",
+  "signIn": "Iniciar sessão",
+  "signUp": "Registar-se",
+  "skip": "Ignorar",
+  "signInWithGoogle": "Iniciar sessão com Google",
+  "signInWithEmail": "Iniciar sessão com correio eletrónico",
+  "privacyAndTerms": "Política de privacidade e Termos de serviço",
+  "privacyPolicy": "Política de privacidade",
+  "termsOfService": "Termos de serviço",
+  "page1": {
+    "title": "Bem-vindo ao noolingo",
+    "subtitle": "Use IA e algoritmos de memória para tornar a aprendizagem mais simples"
+  },
+  "page2": {
+    "title": "Preparamos uma amostra para si",
+    "subtitle": "Saiba como o noolingo pode ajudá-lo a estudar e comece rapidamente"
+  },
+  "step1": {
+    "title": "Selecionar idioma",
+    "subtitle": "Escolha o seu idioma de interface preferido"
+  },
+  "step2": {
+    "title": "Selecionar tema",
+    "subtitle": "Escolha o seu tema de interface preferido"
+  },
+  "step3": {
+    "title": "Idioma de Saída AI",
+    "subtitle": "Escolha o idioma de saída para o assistente AI"
+  },
+  "step5": {
+    "title": "Comece por remodelar as suas notas",
+    "subtitle": "Combinamos ciência cognitiva e tecnologia AI para transformar as suas notas em companheiros de aprendizagem inteligentes"
+  },
+  "step6": {
+    "title": "Noolingo Pro",
+    "subtitle": "Desbloqueie todos os serviços na nuvem e experimente uma jornada de aprendizagem mais eficiente e sem esforço"
+  },
+  "sampleNote": {
+    "title": "Bem-vindo ao Noolingo",
+    "content": "No Noolingo, rastreamos cada feedback de aprendizagem que você fornece e o usamos para oferecer orientação de aprendizagem mais precisa.\n\nVocê pode ver claramente seu nível de domínio através da cor de cada nota. O algoritmo agenda os tempos de revisão para este conteúdo, e você também pode ajustá-los manualmente.\n\nO Noolingo suporta a sintaxe Markdown com extensões. Você pode envolver conteúdo importante com {{}}, que será ocultado durante a revisão para fortalecer facilmente a recordação ativa."
+  },
+  "button": {
+    "start": "Começar",
+    "skipExample": "Ignorar exemplo",
+    "viewExample": "Ver exemplo"
+  },
+  "features": {
+    "create": "Criar base de conhecimento",
+    "createDesc": "Crie e gere facilmente as suas notas de estudo e cartões",
+    "review": "Revisão inteligente",
+    "reviewDesc": "Planeie inteligentemente o tempo de revisão baseado no algoritmo FSRS",
+    "quiz": "Modo questionário",
+    "quizDesc": "Identifique lacunas de conhecimento através de questionários e consolide a aprendizagem",
+    "progress": "Progresso de aprendizagem",
+    "progressDesc": "Acompanhe os resultados da aprendizagem e registe a trajetória de crescimento"
+  }
+}

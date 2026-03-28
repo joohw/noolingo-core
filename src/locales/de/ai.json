@@ -1,0 +1,18 @@
+{
+  "tokens": "Token-Kontingent",
+  "coin": "Münze",
+  "usage": "KI-Funktionsnutzung",
+  "optimizing": "Optimiert...",
+  "done": "Abgeschlossen",
+  "noAIAvailable": "Kein KI-Modell verfügbar",
+  "quotaExceeded": "Monatliches Kontingent erschöpft",
+  "quotaResetAt": "Kontingent wird in {{days}} Tagen zurückgesetzt.",
+  "usageDescription": "Token-Verbrauch variiert mit der Textlänge bei jeder KI-Anfrage",
+  "freeQuotaExceeded": "KI-Kontingent erschöpft. Upgrade-Mitgliedschaft für mehr KI-Funktionen",
+  "proQuotaExceeded": "Ihr monatliches KI-Kontingent ist erschöpft",
+  "quotaExceededDialogTitle": "Kontingent erschöpft",
+  "quotaExceededDialogMessage": "Ihr KI-Kontingent ist erschöpft. Möchten Sie Mitgliedschaftspläne ansehen?",
+  "memberRequiredTitle": "Nur für Mitglieder",
+  "memberRequiredMessage": "Diese Funktion erfordert eine Mitgliedschaft. Möchten Sie Mitgliedschaftspläne ansehen?",
+  "disclaimer": "Inhalt von KI generiert. Bitte mit Vorsicht verwenden."
+}

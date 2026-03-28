@@ -1,0 +1,16 @@
+{
+  "permissionTitle": "알림 권한",
+  "permissionDescription": "복습 진행 상황을 제때 알려드리기 위해 알림 권한이 필요합니다. 알림을 허용하시겠습니까?",
+  "reviewTimingTitle": "복습 알림 활성화",
+  "reviewTimingDescription": "복습 알림을 활성화하여 지속적인 학습 습관을 기르세요. 학습 완료율이 26% 향상됩니다",
+  "testTitle": "알림 설정 성공 🎯",
+  "testBody": "설정한 시간에 복습 알림을 받게 됩니다",
+  "reviewReminderTitle": "복습 시간",
+  "reviewReminderBody": "훌륭한 일을 하는 유일한 방법은 자신이 하는 일을 사랑하는 것입니다. - 스티브 잡스",
+  "reviewReminderBodyTomorrow": "학습은 마음을 결코 지치게 하지 않습니다. - 레오나르도 다 빈치",
+  "reviewReminderBodyDayAfter": "학습의 아름다운 점은 아무도 그것을 빼앗을 수 없다는 것입니다. - B.B. 킹",
+  "reviewReminderBodyThreeDays": "교육은 세상을 바꾸는 데 사용할 수 있는 가장 강력한 무기입니다. - 넬슨 만델라",
+  "reviewReminderBodyOneWeek": "학습할 수 있는 능력은 선물입니다. 학습하는 능력은 기술입니다. 학습하려는 의지는 선택입니다. - 브라이언 허버트",
+  "reviewReminderBodyTwoWeeks": "내일 죽을 것처럼 살고, 영원히 살 것처럼 배우세요. - 마하트마 간디",
+  "reviewReminderBodyOneMonth": "읽을수록 더 많은 것을 알게 됩니다. 배울수록 더 많은 곳을 가게 됩니다. - 닥터 수스"
+}

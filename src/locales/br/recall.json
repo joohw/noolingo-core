@@ -1,0 +1,28 @@
+{
+  "mastery": "Nível de domínio",
+  "cardState": "Estado do cartão:",
+  "nextReview": "Tempo de revisão seguinte:",
+  "difficulty": "Dificuldade:",
+  "stability": "Estabilidade:",
+  "lapses": "Esquecimentos:",
+  "reps": "Revisões:",
+  "lastReview": "Dias desde a última revisão:",
+  "reviewLog": "Registro de revisão:",
+  "na": "N/D",
+  "hoursLater": "horas depois",
+  "times": "vezes",
+  "days": "dias",
+  "noReviewRecord": "Sem registro de revisão",
+  "cardStates": {
+    "new": "Novo",
+    "learning": "Aprendendo",
+    "review": "Revisando",
+    "relearning": "Reaprendendo"
+  },
+  "ratings": {
+    "again": "Outra vez",
+    "hard": "Difícil",
+    "good": "Bom",
+    "easy": "Fácil"
+  }
+}

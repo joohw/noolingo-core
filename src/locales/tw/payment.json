@@ -1,0 +1,20 @@
+{
+  "selectMethod": "選擇支付方式",
+  "wechat": "微信支付",
+  "alipay": "支付寶",
+  "stripe": "信用卡支付",
+  "timeout": "支付超時，請重試",
+  "alipayRedirect": "已跳轉到支付寶支付頁面，請在支付完成後返回",
+  "alipayTitle": "支付寶支付",
+  "alipayHint": "請在新視窗中完成支付。支付完成後，訂單將自動確認。",
+  "creating": "正在創建支付訂單...",
+  "failed": "創建支付訂單失敗",
+  "invalid_plan": "選擇的套餐無效",
+  "user_not_found": "用戶未找到",
+  "alsoAvailable": "您也可以在應用商店完成購買",
+  "appStoreHint": "在 App Store 或 Play Store 中完成購買",
+  "masErrorHint": "請通過應用內購買完成訂閱",
+  "stripeTitle": "信用卡支付",
+  "stripeRedirect": "已在新視窗中打開支付頁面，請在支付完成後返回。支付完成後，訂單狀態將自動更新。",
+  "stripeHint": "如果支付視窗已關閉，您可以手動檢查訂單狀態。"
+}

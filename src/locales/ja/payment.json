@@ -1,0 +1,20 @@
+{
+  "selectMethod": "支払い方法を選択",
+  "wechat": "WeChat Pay",
+  "alipay": "Alipay",
+  "stripe": "クレジットカード",
+  "timeout": "支払いがタイムアウトしました。もう一度お試しください",
+  "alipayRedirect": "Alipay支払いページにリダイレクトされました。支払い完了後に戻ってください",
+  "alipayTitle": "Alipay支払い",
+  "alipayHint": "新しいウィンドウで支払いを完了してください。支払い完了後、注文は自動的に確認されます。",
+  "creating": "支払い注文を作成中...",
+  "failed": "支払い注文の作成に失敗しました",
+  "invalid_plan": "選択されたプランが無効です",
+  "user_not_found": "ユーザーが見つかりません",
+  "alsoAvailable": "アプリストアでも購入できます",
+  "appStoreHint": "App Store または Play Store で購入を完了してください",
+  "masErrorHint": "アプリ内購入でサブスクリプションを完了してください",
+  "stripeTitle": "Stripe決済",
+  "stripeRedirect": "新しいウィンドウで支払いを完了してください。支払い完了後、注文ステータスが自動的に更新されます。",
+  "stripeHint": "支払いウィンドウが閉じられた場合、手動で注文ステータスを確認できます。"
+}

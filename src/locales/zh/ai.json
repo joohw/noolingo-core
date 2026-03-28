@@ -1,0 +1,18 @@
+{
+    "tokens": "Token额度",
+    "coin": "硬币",
+    "usage": "AI功能使用量",
+    "optimizing": "优化中",
+    "done": "生成完毕",
+    "noAIAvailable": "暂无可用AI模型",
+    "quotaExceeded": "本月额度已用尽",
+    "quotaResetAt": "{{days}}天后重置",
+    "usageDescription": "每次AI请求都会消耗Token额度，消耗量和文本的长度相关",
+    "freeQuotaExceeded": "AI额度已用完，升级会员可获得更多 AI 功能",
+    "proQuotaExceeded": "您的本月AI额度已用完",
+    "quotaExceededDialogTitle": "额度已用完",
+    "quotaExceededDialogMessage": "您的AI额度已用完，试试我们的订阅服务？",
+    "memberRequiredTitle": "会员专享功能",
+    "memberRequiredMessage": "此功能需要会员权限，是否查看会员方案？",
+    "disclaimer": "内容由AI生成,请谨慎辨别"
+}

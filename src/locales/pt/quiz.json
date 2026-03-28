@@ -1,0 +1,57 @@
+{
+  "title": "Selecionar estilo de questionário",
+  "description": "Escolha o estilo de questionário apropriado para satisfazer as suas necessidades de aprendizagem",
+  "generatingQuestion": "A gerar pergunta do questionário...",
+  "regenerate": "Regenerar",
+  "enterAnswer": "Introduza a sua resposta...",
+  "checkAnswer": "Verificar",
+  "multipleChoice": "[Escolha múltipla]",
+  "choice": "[Escolha única]",
+  "trueFalse": "[Verdadeiro/Falso]",
+  "fillBlank": "[Preencher espaços]",
+  "aiDisclaimer": "Conteúdo gerado por IA. Por favor, use com precaução.",
+  "checking": "A verificar...",
+  "explanation": "Explicação",
+  "openOriginal": "Ver original",
+  "shareQuestion": "Partilhar pergunta",
+  "shareError": "Falha ao partilhar",
+  "noQuizText": "Conteúdo da pergunta está vazio",
+  "copied": "Copiado",
+  "copiedToClipboard": "Pergunta copiada para a área de transferência",
+  "markAsCorrect": "Marcar como correto",
+  "markAsWrong": "Marcar como incorreto",
+  "correctAnswer": "Resposta correta",
+  "correct": "Correto",
+  "wrong": "Incorreto",
+  "results": "Resultados do questionário",
+  "rating": "Competência",
+  "note": "Notas",
+  "mode": {
+    "comprehensive": {
+      "title": "Integral",
+      "description": "Gera perguntas sobre conexões de conhecimento, compreensão geral e habilidades de aplicação para ajudar a construir um quadro de conhecimento completo"
+    },
+    "memory": {
+      "title": "Memória",
+      "description": "Gera perguntas sobre completamento de informação, factos-chave, memória sequencial e recordação precisa para fortalecer a retenção de informação-chave"
+    },
+    "application": {
+      "title": "Aplicação",
+      "description": "Gera perguntas sobre aplicação estendida, conexões entre domínios e cenários do mundo real para fomentar o pensamento inovador"
+    },
+    "thinking": {
+      "title": "Pensamento",
+      "description": "Gera perguntas sobre indagação essencial, pensamento crítico e análise lógica para explorar a essência do conhecimento e as estruturas lógicas"
+    }
+  },
+  "quota": {
+    "insufficient": "Foi atingido o limite de uso mensal para esta função",
+    "title": "Quota de questionário inteligente",
+    "exceeded": "Quota esgotada",
+    "low": "{{remaining}} restantes",
+    "remaining": "{{remaining}} restantes",
+    "upgrade": "Atualizar adesão",
+    "getMore": "Obter mais",
+    "upgradeToGetMore": "Atualize a adesão para obter mais quota"
+  }
+}
