@@ -1,6 +1,6 @@
 {
   "name": "noolingo-core",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Noolingo 共享业务内核：Noolingo 门面类聚合服务、stores、配置与访问统计；宿主注入 NoolingoAdapter 完成平台解耦",
   "keywords": [
     "noolingo",
