@@ -33,6 +33,21 @@ Expo 侧默认实现由 `src/adapters/noolingoAdapter.ts` 组装（含 `@/config
 
 ---
 
+## 分层：Repo、Service、Store
+
+| 层 | 目录（本包） | 职责 |
+|----|----------------|------|
+| **Repo** | `src/repo/` | 与本地数据库、同步存储等交互，负责领域数据的读取与持久化。 |
+| **Service** | `src/services/` | 面向业务用例：编排 Repo、其它 Service、适配器（网络、文件、通知等）。 |
+| **Store** | `src/stores/` | 进程内可订阅的全局状态，驱动 UI；多数在业务流程中由 **Service** 写入，而非仅由界面直接改。 |
+
+**边界说明**
+
+- **持久化不限于 Repo**：键值配置走 `configManager` / `ConfigAdapter`，文件缓存走 `FileAdapter`（见上文适配器表）；Repo 侧重结构化业务数据的主路径，不是唯一存储出口。
+- **权威数据源**：以本地 DB / 同步与后端为准；Store 多为当前会话或列表视图的**投影**，登出重置、冷启动等须与 Service / Repo 的规则对齐，避免内存与磁盘不一致。
+
+---
+
 ## Service 从哪导入（`noolingo.service` vs `core/services/*`）
 
 **推荐（Expo App 层：`app/`、`src/`）**  
@@ -57,7 +72,9 @@ noolingo.service.auth.isAuthenticated();
 
 ## Store（`noolingo.stores`）
 
-`core/stores/index.ts` 聚合各 Zustand **`use*Store`** 为 **`stores`**，并挂在 **`noolingo.stores`** 上；与分别 `import { useNoteStore } from 'core/stores/noteStore'` 为**同一引用**。
+职责与 Repo、Service 的分工见上文 **「分层：Repo、Service、Store」**。
+
+`src/stores/index.ts` 聚合各 Zustand **`use*Store`** 为 **`stores`**，并挂在 **`noolingo.stores`** 上；与分别 `import { useNoteStore } from '…/stores/noteStore'`（或包导出 `noolingo-core/stores`）为**同一引用**。
 
 | 键 | hook |
 |----|------|
