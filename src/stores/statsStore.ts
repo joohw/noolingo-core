@@ -31,6 +31,7 @@ export const useStatsStore = create<StatsState>((set, get) => ({
     reset: () => set({
         recentDailyStudyData: [],
         unfinishedCount: 0,
+        overallStudyStats: defaultOverallStudyStats,
     })
 }));
 

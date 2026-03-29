@@ -51,6 +51,8 @@ export const useAIStore = create<AIState>((set, get) => ({
     isGenerating: false,
     error: null,
     usageInfo: null,
+    isUsageLoaded: false,
+    availableModels: [],
     aiOutputLanguage: null,
     streamingMessage: '',
   })

@@ -38,7 +38,17 @@ export const useImportStore = create<ImportStoreState>((set) => ({
     setNewDeckToImport: (deckName: string) => set(() => ({ newDeckToImport: deckName })),
     setNotesToImport: (notes: Note[]) => set(() => ({ notesToImport: notes })),
     setEditorContent: (content: string) => set(() => ({ editorContent: content })),
-    reset: () => set(() => ({ notesToImport: [], deckToImport: "", pathToImport: null, newDeckToImport: "", generatingNotes: '', editorContent: '' }))
+    reset: () =>
+        set({
+            notesToImport: [],
+            deckToImport: "",
+            pathToImport: null,
+            newDeckToImport: "",
+            generatingNotes: "",
+            editorContent: "",
+            isParsing: false,
+            isGenerating: false,
+        })
 }));
 
 

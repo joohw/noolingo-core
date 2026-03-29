@@ -44,9 +44,15 @@ export const useSyncStore = create<SyncStoreState>((set, get) => ({
         statsRefreshing: refreshing
     }),
     setErrorMessage: (message) => set({ errorMessage: message }),
-    reset: () => set({
-        syncStatus: SyncStatus.OFFLINE,
-        statsRefreshing: false,
-        errorMessage: ''
-    }),
+    reset: () => {
+        configManager.saveConfig(ConfigKey.LAST_SYNC_TIME, 0);
+        set({
+            syncStatus: SyncStatus.OFFLINE,
+            latestSync: 0,
+            statsRefreshing: false,
+            errorMessage: '',
+            cloudNotesCount: 0,
+            isCheckingCloudCapacity: false,
+        });
+    },
 }));

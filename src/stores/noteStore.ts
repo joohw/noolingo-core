@@ -63,7 +63,6 @@ export interface NoteStoreState {
 export const useNoteStore = create<NoteStoreState>((set, get) => ({
     noteList: [],
     decksMap: new Map(),
-    deckStats: new Map(),
     currentOperation: ContextOperation.IDLE,
     operationProgresses: new Map(),
     isEditing: false,
@@ -128,6 +127,13 @@ export const useNoteStore = create<NoteStoreState>((set, get) => ({
         currentOperation: ContextOperation.IDLE,
         operationProgresses: new Map(),
         isEditing: false,
+        readingNoteIds: [],
+        readingIndex: 0,
+        currentSortState: defaultSortState,
+        isSpeechMode: false,
+        deckSortState: { key: 'created_at', order: 'desc' },
+        searchQuery: {},
+        isSearching: false,
     }),
     setCurrentSortState: (sortState: SortState) => {
         set({ currentSortState: sortState });

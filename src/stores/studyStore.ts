@@ -6,6 +6,8 @@ import { CardRating } from '../fsrs/recall';
 import { ConfigKey, configManager } from "../storage/configManager";
 import { StudyPreferences, defaultStudyPreferences } from '../types/preference';
 
+const DEFAULT_QUEUE_SORT_STATE: SortState = { key: 'schedule', order: 'desc' };
+
 export interface StudyResult {
   noteId: string;
   isCorrect: boolean;
@@ -32,13 +34,12 @@ export interface StudyState {
 export const useStudyStore = create<StudyState>((set, get) => ({
   activeQueue: [],
   pendingQueue: [],
-  learnableQueue: [],
-  preferences: defaultStudyPreferences,
+  preferences: structuredClone(defaultStudyPreferences),
   studyResults: [],
   setPreferences: (preferences) => set(() => ({
     preferences: { ...get().preferences, ...preferences }
   })),
-  queueSortState:  { key: 'schedule', order: 'desc' },
+  queueSortState: DEFAULT_QUEUE_SORT_STATE,
   setQueueSortState: (sortState) => set(() => {
     configManager.saveConfig(ConfigKey.QUEUE_SORT_STATE, sortState);
     return { queueSortState: sortState };
@@ -63,11 +64,16 @@ export const useStudyStore = create<StudyState>((set, get) => ({
   removeStudyResultByNoteId: (noteId) => set((state) => ({
     studyResults: state.studyResults.filter(result => result.noteId !== noteId)
   })),
-  reset: () => set({
-    activeQueue: [],
-    pendingQueue: [],
-    studyResults: [],
-  })
+  reset: () => {
+    configManager.saveConfig(ConfigKey.QUEUE_SORT_STATE, DEFAULT_QUEUE_SORT_STATE);
+    set({
+      activeQueue: [],
+      pendingQueue: [],
+      studyResults: [],
+      preferences: structuredClone(defaultStudyPreferences),
+      queueSortState: DEFAULT_QUEUE_SORT_STATE,
+    });
+  },
 }));
 
 export type StudyStore = ReturnType<typeof useStudyStore>;
