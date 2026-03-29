@@ -6,11 +6,22 @@ export const noteCSS = `
 .note-container {
     max-width: 768px;
     padding-bottom: 120px;
+    padding-left: 4px;
+    padding-right: 4px;
+    overflow-x: visible;
     margin-horizontal: auto;
     wordWrap: 'break-word',
     overflowWrap: 'break-word',
     wordBreak: 'break-word',
     hyphens: 'auto'
+}
+
+/* renderNote 根节点：与 WebView .note-container 一致，避免列表 marker 贴边裁切 */
+.noolingo-content {
+    overflow-x: visible;
+    padding-left: 4px;
+    padding-right: 4px;
+    box-sizing: border-box;
 }
 
 
@@ -32,14 +43,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul {
-    padding-left: 16px;
+    padding-left: 1.5em;
     margin-top: 8px;
     margin-bottom: 4px;
     line-height: 1.8;
 }
 
 ol {
-    padding-left: 20px;
+    padding-left: 1.625em;
     margin-top: 0px;
     margin-bottom: 4px;
     line-height: 1.8;

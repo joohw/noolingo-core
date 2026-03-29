@@ -29,8 +29,12 @@ html, body {
     -ms-user-select: none;
     user-select: none;
     -webkit-touch-callout: none;
-    max-width: 100%;
     box-sizing: border-box;
+}
+
+/* max-width 不作用于 li：与 list-style outside 叠加时会把圆点裁成半圆 */
+*:not(li) {
+    max-width: 100%;
 }
 
 

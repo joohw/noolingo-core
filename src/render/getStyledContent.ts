@@ -11,7 +11,7 @@ import { CustomTheme } from '../types/theme';
 import { FontSize, FontFamily, Spacing } from '../types/setting';
 
 
-// 获取样式（不包含 HTML 结构）
+// 获取样式（不包含 HTML 结构）；列表 marker、全局 max-width 等见 globalCSS / noteCSS
 export function getStyle(customTheme?: CustomTheme, fontFamily?: FontFamily, fontSize?: FontSize, spacing?: Spacing): string {
     const ThemeCss = getThemeCSS(customTheme);
     const typographyCSS = getTypographyCSS(fontFamily, fontSize, spacing);
